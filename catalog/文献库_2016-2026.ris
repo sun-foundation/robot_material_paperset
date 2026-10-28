@@ -1,0 +1,5732 @@
+TY  - CPAPER
+ID  - L001
+TI  - Design and Implementation of Lightweight Thigh Structures for Biped Robots Based on Spatial Lattice Structure and Additive Manufacturing Technology
+AU  - Jiang, Hongjian
+AU  - Kong, Lingyu
+AU  - Zhang, Yu
+AU  - Chen, Yuanjie
+AU  - Nie, Daming
+AU  - Xie, Anhuan
+AU  - Shao, Lintao
+AU  - Zhu, Shiqiang
+PY  - 2023
+T2  - Lecture Notes in Computer Science
+SP  - 368
+EP  - 379
+DO  - 10.1007/978-981-99-6492-5_32
+UR  - https://doi.org/10.1007/978-981-99-6492-5_32
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L002
+TI  - Lightweight Design and Property Analysis of Humanoid Robot Thigh Integrated Structure with Appearance
+AU  - Nie, Daming
+AU  - Gu, Jason
+AU  - Zhang, Yu
+AU  - Jiang, Hongjian
+PY  - 2023
+T2  - Lecture Notes in Computer Science
+SP  - 518
+EP  - 528
+DO  - 10.1007/978-981-99-6495-6_44
+UR  - https://doi.org/10.1007/978-981-99-6495-6_44
+KW  - 人形与双足机器人结构研究
+KW  - 轻合金；牌号需核对全文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L003
+TI  - Lightweight design optimization for legs of bipedal humanoid robot
+AU  - Ding, Hongyu
+AU  - Shi, Zhaoyao
+AU  - Hu, Yisen
+AU  - Li, Jingchen
+AU  - Yu, Bo
+AU  - Zhang, Pan
+PY  - 2021
+T2  - Structural and Multidisciplinary Optimization
+VL  - 64
+IS  - 4
+SP  - 2749
+EP  - 2762
+DO  - 10.1007/s00158-021-02968-2
+UR  - https://doi.org/10.1007/s00158-021-02968-2
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L004
+TI  - Modular Topology Optimization of a Humanoid Arm
+AU  - Krischer, Lukas
+AU  - Sureshbabu, Anand Vazhapilli
+AU  - Zimmermann, Markus
+PY  - 2020
+T2  - 2020 3rd International Conference on Control and Robots (ICCR)
+SP  - 65
+EP  - 72
+DO  - 10.1109/iccr51572.2020.9344316
+UR  - https://doi.org/10.1109/iccr51572.2020.9344316
+KW  - 人形与双足机器人结构研究
+KW  - 铝、钛、ABS材料比较
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L005
+TI  - Structural Optimization in Lightweight Design for Additive Manufacturing
+AU  - Junk, Stefan
+AU  - Klerch, Benjamin
+AU  - Hochberg, Ulrich
+PY  - 2019
+T2  - Procedia CIRP
+VL  - 84
+SP  - 277
+EP  - 282
+DO  - 10.1016/j.procir.2019.04.277
+UR  - https://doi.org/10.1016/j.procir.2019.04.277
+KW  - 人形与双足机器人结构研究
+KW  - 增材制造铝基合金
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L006
+TI  - Topology optimization for additive manufacturing using a component of a humanoid robot
+AU  - Junk, Stefan
+AU  - Klerch, Benjamin
+AU  - Nasdala, Lutz
+AU  - Hochberg, Ulrich
+PY  - 2018
+T2  - Procedia CIRP
+VL  - 70
+SP  - 102
+EP  - 107
+DO  - 10.1016/j.procir.2018.03.270
+UR  - https://doi.org/10.1016/j.procir.2018.03.270
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L007
+TI  - Investigation of Musculoskeletal‐Inspired Architecture and Honeycomb Lightweight Design for Electro‐Hydraulic Humanoid Robot Legs
+AU  - Zhu, Hao
+AU  - Luo, Minzhou
+AU  - Lv, Zigui
+AU  - Luo, Yan
+AU  - Li, Ju
+AU  - Liu, Ruikai
+AU  - Lv, Pengfei
+AU  - Xue, Jinlin
+PY  - 2026
+T2  - Annals of the New York Academy of Sciences
+VL  - 1556
+IS  - 1
+SP  - e70175
+DO  - 10.1111/nyas.70175
+UR  - https://doi.org/10.1111/nyas.70175
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L008
+TI  - Multi-physical topology optimization for thermo-mechanical coupled designs of hydraulic humanoid robot with experimental analysis
+AU  - Li, Jingyuan
+AU  - Gao, Jie
+AU  - Gao, Yiping
+AU  - Li, Xinyu
+AU  - Gao, Liang
+PY  - 2026
+T2  - Advances in Engineering Software
+VL  - 220
+SP  - 104237
+DO  - 10.1016/j.advengsoft.2026.104237
+UR  - https://doi.org/10.1016/j.advengsoft.2026.104237
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L009
+TI  - A nodes-based topology optimization method for thermal designs of hydraulic humanoid robot
+AU  - Li, Jingyuan
+AU  - Gao, Liang
+AU  - Gao, Jie
+AU  - Lu, Shengyu
+AU  - Xie, Sicheng
+PY  - 2025
+T2  - Journal of Computational Design and Engineering
+VL  - 12
+IS  - 5
+SP  - 78
+EP  - 94
+DO  - 10.1093/jcde/qwaf048
+UR  - https://doi.org/10.1093/jcde/qwaf048
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L010
+TI  - Advanced Structural Design for Humanoid Robot Upper Limbs
+AU  - Liu, Yifan
+AU  - Wang, Hongwu
+AU  - Wang, Dianzheng
+AU  - Li, Yunji
+AU  - Zhang, Xiangkun
+PY  - 2025
+T2  - 2025 9th International Conference on Robotics, Control and Automation (ICRCA)
+SP  - 33
+EP  - 38
+DO  - 10.1109/icrca64997.2025.11011241
+UR  - https://doi.org/10.1109/icrca64997.2025.11011241
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L011
+TI  - Advancements in Humanoid Robots: A Comprehensive Review and Future Prospects
+AU  - Tong, Yuchuang
+AU  - Liu, Haotian
+AU  - Zhang, Zhengtao
+PY  - 2024
+T2  - IEEE/CAA Journal of Automatica Sinica
+VL  - 11
+IS  - 2
+SP  - 301
+EP  - 328
+DO  - 10.1109/jas.2023.124140
+UR  - https://doi.org/10.1109/jas.2023.124140
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形机器人综述；用于结构材料与应用背景；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L012
+TI  - Research on Biomimetic Design Methods for Humanoid Robot Thigh*
+AU  - Nie, Daming
+AU  - Xie, Anhuan
+AU  - Kong, Lingyu
+AU  - Zhang, Yu
+AU  - Zheng, Gang
+AU  - Fu, Yili
+AU  - Gu, Jason
+PY  - 2023
+T2  - 2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)
+SP  - 1
+EP  - 5
+DO  - 10.1109/robio58561.2023.10354757
+UR  - https://doi.org/10.1109/robio58561.2023.10354757
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L013
+TI  - Additive manufacturing of a topology optimized lightweight part of a humanoid robot
+AU  - Junk, Stefan
+AU  - Klerch, Benjamin
+AU  - Hochberg, Ulrich
+PY  - 2019
+T2  - Sim-AM 2019
+SP  - 142
+EP  - 153
+UR  - https://upcommons.upc.edu/entities/publication/cfaf7864-d78c-459b-bfb3-17e1c05c7ace
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形机器人铝合金骨盆案例；与同团队2019论文相关；期刊/机构原始页面题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L014
+TI  - Development of Foot Structure for Humanoid Robot Using Topology Optimization
+AU  - Nguyen, Van Tinh
+AU  - Kiuchi, Daichi
+AU  - Hasegawa, Hiroshi
+PY  - 2018
+T2  - Advanced Engineering Forum
+VL  - 29
+SP  - 34
+EP  - 45
+DO  - 10.4028/www.scientific.net/aef.29.34
+UR  - https://doi.org/10.4028/www.scientific.net/aef.29.34
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L015
+TI  - Generate an Optimum Lightweight Legs Structure Design Based on Critical Posture in A-FLoW Humanoid Robot
+AU  - Luthfi, A
+AU  - Subhan, K A
+AU  - Eko H, B
+AU  - Sanggar, D R
+AU  - Pramadihanto, D
+PY  - 2018
+T2  - Journal of Physics: Conference Series
+VL  - 1007
+SP  - 012070
+DO  - 10.1088/1742-6596/1007/1/012070
+UR  - https://doi.org/10.1088/1742-6596/1007/1/012070
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L016
+TI  - High-Speed and Lightweight Humanoid Robot Arm for a Skillful Badminton Robot
+AU  - Mori, Shotaro
+AU  - Tanaka, Kazutoshi
+AU  - Nishikawa, Satoshi
+AU  - Niiyama, Ryuma
+AU  - Kuniyoshi, Yasuo
+PY  - 2018
+T2  - IEEE Robotics and Automation Letters
+VL  - 3
+IS  - 3
+SP  - 1727
+EP  - 1734
+DO  - 10.1109/lra.2018.2803207
+UR  - https://doi.org/10.1109/lra.2018.2803207
+KW  - 人形与双足机器人结构研究
+KW  - 机器人结构；具体材料见原文
+N1  - 人形/双足机器人结构研究；材料与装机验证需结合原文判断；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L017
+TI  - Elastic modulus in magnesium matrix composites
+AU  - Zhou, Jiming
+AU  - Yun, Kang
+AU  - Qi, Lehua
+PY  - 2025
+T2  - Review of Materials Research
+VL  - 1
+IS  - 2
+SP  - 100008
+DO  - 10.1016/j.revmat.2025.100008
+UR  - https://doi.org/10.1016/j.revmat.2025.100008
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L018
+TI  - Recent advances in mechanical properties of Mg matrix composites: a review
+AU  - Aydın, Fatih
+PY  - 2024
+T2  - Materials Science and Technology
+VL  - 40
+IS  - 5
+SP  - 339
+EP  - 376
+DO  - 10.1177/02670836241229025
+UR  - https://doi.org/10.1177/02670836241229025
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L019
+TI  - The interface structure and property of magnesium matrix composites: A review
+AU  - Xiong, Hongwei
+AU  - Gu, Lidong
+AU  - Wang, Jingya
+AU  - Zhou, Liping
+AU  - Ying, Tao
+AU  - Wang, Shiwei
+AU  - Zhou, Haitao
+AU  - Li, Jianbo
+AU  - Gao, Yang
+AU  - Zeng, Xiaoqin
+PY  - 2024
+T2  - Journal of Magnesium and Alloys
+VL  - 12
+IS  - 7
+SP  - 2595
+EP  - 2623
+DO  - 10.1016/j.jma.2024.04.022
+UR  - https://doi.org/10.1016/j.jma.2024.04.022
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L020
+TI  - 高模量镁基材料实验和集成计算研究进展
+AU  - 李志强
+AU  - 帅川
+AU  - 柳伟
+AU  - 侯华
+AU  - 张高龙
+AU  - 赵宇宏
+PY  - 2024
+T2  - 航空材料学报
+VL  - 44
+IS  - 3
+SP  - 43
+EP  - 64
+DO  - 10.11868/j.issn.1005-5053.2023.000056
+UR  - https://doi.org/10.11868/j.issn.1005-5053.2023.000056
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；期刊/机构原始页面题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L021
+TI  - Additive manufacturing of magnesium matrix composites: Comprehensive review of recent progress and research perspectives
+AU  - Zhang, Chenghang
+AU  - Li, Zhuo
+AU  - Zhang, Jikui
+AU  - Tang, Haibo
+AU  - Wang, Huaming
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 2
+SP  - 425
+EP  - 461
+DO  - 10.1016/j.jma.2023.02.005
+UR  - https://doi.org/10.1016/j.jma.2023.02.005
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L022
+TI  - 镁基复合材料界面调控研究进展
+AU  - 熊京鹏
+AU  - 刘勇
+PY  - 2023
+T2  - 材料工程
+VL  - 51
+IS  - 1
+SP  - 1
+EP  - 15
+DO  - 10.11868/j.issn.1001-4381.2021.001213
+UR  - https://doi.org/10.11868/j.issn.1001-4381.2021.001213
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；期刊/机构原始页面题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L023
+TI  - The Use of Machine Learning in Aluminum and Magnesium Matrix Composites: A Review
+AU  - Aydın, Fatih
+AU  - Duru, Anday
+PY  - 2026
+T2  - Archives of Computational Methods in Engineering
+VL  - 33
+IS  - 6
+SP  - 8073
+EP  - 8123
+DO  - 10.1007/s11831-026-10511-z
+UR  - https://doi.org/10.1007/s11831-026-10511-z
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L024
+TI  - A Review on Mechanical and Wear Characteristics of Magnesium Metal Matrix Composites
+AU  - Ammisetti, Dhanunjay Kumar
+AU  - Sai Sarath, K
+AU  - Kruthiventi, S. S. Harish
+PY  - 2025
+T2  - Journal of Tribology
+VL  - 147
+IS  - 2
+SP  - 020801
+DO  - 10.1115/1.4066416
+UR  - https://doi.org/10.1115/1.4066416
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L025
+TI  - Recent advances in the corrosion performance of magnesium matrix composites: a review
+AU  - Aydın, Fatih
+PY  - 2025
+T2  - Canadian Metallurgical Quarterly
+VL  - 64
+IS  - 2
+SP  - 576
+EP  - 604
+DO  - 10.1080/00084433.2024.2366700
+UR  - https://doi.org/10.1080/00084433.2024.2366700
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L026
+TI  - Friction stir processed magnesium matrix surface composites: a comprehensive review
+AU  - Kang, Amardeep Singh
+AU  - Singh, Ravinder Pal
+AU  - Singla, Shivali
+AU  - Kumar, Abhinav
+PY  - 2024
+T2  - Functional Composites and Structures
+VL  - 6
+IS  - 4
+SP  - 042001
+DO  - 10.1088/2631-6331/ad9134
+UR  - https://doi.org/10.1088/2631-6331/ad9134
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L027
+TI  - Machine Learning-Based Research on Tensile Strength of SiC-Reinforced Magnesium Matrix Composites via Stir Casting
+AU  - Zhu, Zhihong
+AU  - Ning, Wenhang
+AU  - Niu, Xuanyang
+AU  - Zhao, Yuhong
+PY  - 2024
+T2  - Acta Metallurgica Sinica (English Letters)
+VL  - 37
+IS  - 3
+SP  - 453
+EP  - 466
+DO  - 10.1007/s40195-024-01673-5
+UR  - https://doi.org/10.1007/s40195-024-01673-5
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L028
+TI  - Nano-Enhanced Phase Reinforced Magnesium Matrix Composites: A Review of the Matrix, Reinforcement, Interface Design, Properties and Potential Applications
+AU  - Ren, Jiao-Yi
+AU  - Ji, Guan-Cheng
+AU  - Guo, Hao-Rui
+AU  - Zhou, Yu-Meng
+AU  - Tan, Xin
+AU  - Zheng, Wen-Fang
+AU  - Xing, Qian
+AU  - Zhang, Jia-Yi
+AU  - Sun, Jing-Ran
+AU  - Yang, Hong-Yu
+AU  - Qiu, Feng
+AU  - Jiang, Qi-Chuan
+PY  - 2024
+T2  - Materials
+VL  - 17
+IS  - 10
+SP  - 2454
+DO  - 10.3390/ma17102454
+UR  - https://doi.org/10.3390/ma17102454
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L029
+TI  - Progress in preparation of AlN-reinforced magnesium matrix composites: A review
+AU  - Chen, Lu
+AU  - Lü, Shu-lin
+AU  - Zhao, Di-jia
+AU  - Guo, Wei
+AU  - Li, Jian-yu
+AU  - Wu, Shu-sen
+PY  - 2024
+T2  - China Foundry
+VL  - 21
+IS  - 1
+SP  - 1
+EP  - 10
+DO  - 10.1007/s41230-023-3035-0
+UR  - https://doi.org/10.1007/s41230-023-3035-0
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料；AlN
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L030
+TI  - 基于搅拌摩擦加工技术的镁基复合材料研究进展
+AU  - 蹇文轩
+AU  - 丛孟启
+AU  - 雷卫宁
+PY  - 2024
+T2  - 机械工程学报
+VL  - 60
+IS  - 8
+SP  - 48
+EP  - 64
+DO  - 10.3901/jme.2024.08.048
+UR  - https://doi.org/10.3901/jme.2024.08.048
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref及期刊原始页面核验
+ER  - 
+
+TY  - JOUR
+ID  - L031
+TI  - Designing high elastic modulus magnesium-based composite materials via machine learning approach
+AU  - Zhu, Zhihong
+AU  - Ning, Wenhang
+AU  - Niu, Xuanyang
+AU  - Wang, Qiaoling
+AU  - Shi, Renhai
+AU  - Zhao, Yuhong
+PY  - 2023
+T2  - Materials Today Communications
+VL  - 37
+SP  - 107249
+DO  - 10.1016/j.mtcomm.2023.107249
+UR  - https://doi.org/10.1016/j.mtcomm.2023.107249
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L032
+TI  - Hybrid magnesium matrix composites: A review of reinforcement philosophies, mechanical and tribological characteristics
+AU  - Khatkar, Sandeep Kumar
+PY  - 2023
+T2  - REVIEWS ON ADVANCED MATERIALS SCIENCE
+VL  - 62
+IS  - 1
+SP  - 20220294
+DO  - 10.1515/rams-2022-0294
+UR  - https://doi.org/10.1515/rams-2022-0294
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L033
+TI  - Latest research and developments of ceramic reinforced magnesium matrix composites—A comprehensive review
+AU  - Bharathi, P
+AU  - Sampath kumar, T
+PY  - 2023
+T2  - Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering
+VL  - 237
+IS  - 3
+SP  - 1014
+EP  - 1035
+DO  - 10.1177/09544089221126044
+UR  - https://doi.org/10.1177/09544089221126044
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L034
+TI  - Manufacturing and characterisation of magnesium composites reinforced by nanoparticles: A review
+AU  - Monish, P
+AU  - Hari, Krishna KL
+AU  - Rajkumar, K
+PY  - 2023
+T2  - Materials Science and Technology
+VL  - 39
+IS  - 15
+SP  - 1858
+EP  - 1876
+DO  - 10.1080/02670836.2023.2194745
+UR  - https://doi.org/10.1080/02670836.2023.2194745
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L035
+TI  - Predicting Mechanical Properties of Magnesium Matrix Composites with Regression Models by Machine Learning
+AU  - Huang, Song-Jeng
+AU  - Adityawardhana, Yudhistira
+AU  - Sanjaya, Jeffry
+PY  - 2023
+T2  - Journal of Composites Science
+VL  - 7
+IS  - 9
+SP  - 347
+DO  - 10.3390/jcs7090347
+UR  - https://doi.org/10.3390/jcs7090347
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L036
+TI  - Surface Coatings of Reinforcement Phases in Magnesium Matrix Composites: A Review
+AU  - Wu, Shiyi
+AU  - Chen, Bin
+PY  - 2023
+T2  - Materials
+VL  - 16
+IS  - 24
+SP  - 7560
+DO  - 10.3390/ma16247560
+UR  - https://doi.org/10.3390/ma16247560
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L037
+TI  - Surface metal-matrix composites based on AZ91 magnesium alloy via friction stir processing: A review
+AU  - Mirzadeh, Hamed
+PY  - 2023
+T2  - International Journal of Minerals, Metallurgy and Materials
+VL  - 30
+IS  - 7
+SP  - 1278
+EP  - 1296
+DO  - 10.1007/s12613-022-2589-y
+UR  - https://doi.org/10.1007/s12613-022-2589-y
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料；AZ91
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L038
+TI  - Tribological aspects of magnesium matrix composites: A review of recent experimental studies
+AU  - Aydın, Fatih
+PY  - 2023
+T2  - Tribology - Materials, Surfaces & Interfaces
+VL  - 17
+IS  - 4
+SP  - 363
+EP  - 396
+DO  - 10.1080/17515831.2023.2246809
+UR  - https://doi.org/10.1080/17515831.2023.2246809
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L039
+TI  - A review of the design, processes, and properties of Mg-based composites
+AU  - Guan, Haotian
+AU  - Xiao, Hui
+AU  - Ouyang, Sihui
+AU  - Tang, Aitao
+AU  - Chen, Xianhua
+AU  - Tan, Jun
+AU  - Feng, Bo
+AU  - She, Jia
+AU  - Zheng, Kaihong
+AU  - Pan, Fusheng
+PY  - 2022
+T2  - Nanotechnology Reviews
+VL  - 11
+IS  - 1
+SP  - 712
+EP  - 730
+DO  - 10.1515/ntrev-2022-0043
+UR  - https://doi.org/10.1515/ntrev-2022-0043
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L040
+TI  - A review on manufacturability of magnesium matrix composites: Processing, tribology, joining, and machining
+AU  - Meher, Arabinda
+AU  - Mahapatra, Manas Mohan
+AU  - Samal, Priyaranjan
+AU  - Vundavilli, Pandu R.
+PY  - 2022
+T2  - CIRP Journal of Manufacturing Science and Technology
+VL  - 39
+SP  - 134
+EP  - 158
+DO  - 10.1016/j.cirpj.2022.07.012
+UR  - https://doi.org/10.1016/j.cirpj.2022.07.012
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L041
+TI  - Fracture of magnesium matrix nanocomposites - A review
+AU  - Song, X.
+AU  - Bayati, P.
+AU  - Gupta, M.
+AU  - Elahinia, M.
+AU  - Haghshenas, M.
+PY  - 2021
+T2  - International Journal of Lightweight Materials and Manufacture
+VL  - 4
+IS  - 1
+SP  - 67
+EP  - 98
+DO  - 10.1016/j.ijlmm.2020.07.002
+UR  - https://doi.org/10.1016/j.ijlmm.2020.07.002
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L042
+TI  - Magnesium matrix composite reinforced by nanoparticles – A review
+AU  - Nie, K.B.
+AU  - Wang, X.J.
+AU  - Deng, K.K.
+AU  - Hu, X.S.
+AU  - Wu, K.
+PY  - 2021
+T2  - Journal of Magnesium and Alloys
+VL  - 9
+IS  - 1
+SP  - 57
+EP  - 77
+DO  - 10.1016/j.jma.2020.08.018
+UR  - https://doi.org/10.1016/j.jma.2020.08.018
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L043
+TI  - Development and influence of tribomechanical properties on magnesium based hybrid metal matrix composites-a review
+AU  - Anand, N
+AU  - S, Senthil Kumaran
+PY  - 2020
+T2  - Materials Research Express
+VL  - 7
+IS  - 3
+SP  - 036520
+DO  - 10.1088/2053-1591/ab7d08
+UR  - https://doi.org/10.1088/2053-1591/ab7d08
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L044
+TI  - Ultrasonic Assisted Fabrication of Magnesium Matrix Composites: A Review
+AU  - Sardar, Santanu
+AU  - Karmakar, Santanu Kumar
+AU  - Das, Debdulal
+PY  - 2017
+T2  - Materials Today: Proceedings
+VL  - 4
+IS  - 2
+SP  - 3280
+EP  - 3289
+DO  - 10.1016/j.matpr.2017.02.214
+UR  - https://doi.org/10.1016/j.matpr.2017.02.214
+KW  - 镁基复合材料综合综述与设计
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L045
+TI  - Ti颗粒增强镁基复合材料微观组织和力学性能的研究进展及展望
+AU  - 刘星雨
+AU  - 杨鸿
+AU  - 凡冀川
+AU  - 潘晓锾
+AU  - 谭臻
+AU  - 陈先华
+AU  - 潘复生
+PY  - 2026
+T2  - 钢铁钒钛
+VL  - 47
+IS  - 3
+SP  - 39
+EP  - 53
+DO  - 10.7513/j.issn.1004-7638.2026.03.005
+UR  - https://doi.org/10.7513/j.issn.1004-7638.2026.03.005
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；Ti增强
+N1  - 材料或工艺支撑；不代表已用于人形机器人；期刊/机构原始页面题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L046
+TI  - The potential of deformable titanium reinforced magnesium‐matrix composites: A review of preparation, characterization, and performance evaluation
+AU  - Wang, Yitao
+AU  - Li, Jianbo
+AU  - Luo, Huan
+AU  - Wang, Weizhang
+AU  - Deng, Daiyi
+AU  - Chen, Jianwei
+AU  - Chen, Xianhua
+AU  - Zheng, Kaihong
+AU  - Pan, Fusheng
+PY  - 2025
+T2  - Journal of Magnesium and Alloys
+VL  - 13
+IS  - 8
+SP  - 3490
+EP  - 3523
+DO  - 10.1016/j.jma.2025.06.027
+UR  - https://doi.org/10.1016/j.jma.2025.06.027
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；Ti增强
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L047
+TI  - Microstructures and mechanical properties of titanium-reinforced magnesium matrix composites: Review and perspective
+AU  - Yang, Hong
+AU  - Chen, Xianhua
+AU  - Huang, Guangsheng
+AU  - Song, Jiangfeng
+AU  - She, Jia
+AU  - Tan, Jun
+AU  - Zheng, Kaihong
+AU  - Jin, Yiming
+AU  - Jiang, Bin
+AU  - Pan, Fusheng
+PY  - 2022
+T2  - Journal of Magnesium and Alloys
+VL  - 10
+IS  - 9
+SP  - 2311
+EP  - 2333
+DO  - 10.1016/j.jma.2022.07.008
+UR  - https://doi.org/10.1016/j.jma.2022.07.008
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；Ti增强
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L048
+TI  - Effects of metallic reinforcements on magnesium matrix composites: A review
+AU  - Aydın, Fatih
+PY  - 2026
+T2  - Journal of Alloys and Compounds
+VL  - 1080
+SP  - 190532
+DO  - 10.1016/j.jallcom.2026.190532
+UR  - https://doi.org/10.1016/j.jallcom.2026.190532
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L049
+TI  - Fabrication and performance enhancement of TC4 particle-reinforced AZ91 magnesium matrix composites by cold metal transfer-based wire arc additive manufacturing combined with friction stir processing
+AU  - Zhao, Huichao
+AU  - Shen, Junqi
+AU  - Hu, Shengsun
+AU  - Chen, Yang
+AU  - Sui, Yuan
+AU  - Hu, Naisheng
+PY  - 2026
+T2  - Journal of Manufacturing Processes
+VL  - 164
+SP  - 202
+EP  - 215
+DO  - 10.1016/j.jmapro.2026.02.051
+UR  - https://doi.org/10.1016/j.jmapro.2026.02.051
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；Ti-6Al-4V/TC4；AZ91
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L050
+TI  - Metallic-particle-reinforced magnesium matrix composites: A review of preparation, interfacial structure, and properties
+AU  - Zhang, Zhanyu
+AU  - Jiang, Jing
+AU  - Bi, Guangli
+AU  - Li, Yuan Dong
+AU  - Chen, Tijun
+PY  - 2026
+T2  - Journal of Materials Research and Technology
+VL  - 43
+SP  - 1979
+EP  - 2004
+DO  - 10.1016/j.jmrt.2026.06.186
+UR  - https://doi.org/10.1016/j.jmrt.2026.06.186
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L051
+TI  - Predicting wear rates in magnesium-based composites reinforced with Ti and SiC particles using artificial neural networks
+AU  - Ahmadian, Hossein
+AU  - Ataya, Sabbah
+AU  - Abdelfattah, Waleed Mohammed
+AU  - Fathy, Adel
+PY  - 2026
+T2  - Journal of Materials Research and Technology
+VL  - 41
+SP  - 2153
+EP  - 2162
+DO  - 10.1016/j.jmrt.2026.01.140
+UR  - https://doi.org/10.1016/j.jmrt.2026.01.140
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L052
+TI  - Investigation of the deformation behavior of titanium-particle-reinforced magnesium matrix composites through in situ synchrotron radiation diffraction
+AU  - Wu, Yi
+AU  - Zhou, Bijin
+AU  - Liu, Jiayuan
+AU  - Zhu, Tianci
+AU  - Wang, Jinhui
+AU  - Zhu, Gaoming
+AU  - Wang, Jie
+PY  - 2025
+T2  - Materials Today Communications
+VL  - 43
+SP  - 111811
+DO  - 10.1016/j.mtcomm.2025.111811
+UR  - https://doi.org/10.1016/j.mtcomm.2025.111811
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；Ti增强
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L053
+TI  - TiNi Particle‐Reinforced Magnesium Matrix Composites: Production, Microstructure, Phase Transformations, and Mechanical Properties
+AU  - Kelen, Fevzi
+AU  - Gavgali, Mehmet
+AU  - Aydoğmuş, Tarık
+PY  - 2025
+T2  - Advanced Engineering Materials
+VL  - 27
+IS  - 5
+SP  - 2402277
+DO  - 10.1002/adem.202402277
+UR  - https://doi.org/10.1002/adem.202402277
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L054
+TI  - Promoted aging precipitation behavior of TC4/GZ151K magnesium matrix composites
+AU  - Chen, Xu
+AU  - Li, Jianbo
+AU  - Wang, Yitao
+AU  - Luo, Huan
+AU  - Wang, Haiqing
+AU  - Cheng, Kaiming
+AU  - Chen, Xianhua
+AU  - Zheng, Kaihong
+AU  - Pan, Fusheng
+PY  - 2024
+T2  - Materials Science and Engineering: A
+VL  - 893
+SP  - 146103
+DO  - 10.1016/j.msea.2024.146103
+UR  - https://doi.org/10.1016/j.msea.2024.146103
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；Ti-6Al-4V/TC4；GZ151K
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L055
+TI  - Microstructure and Mechanical Properties of Hybrid AZ91 Magnesium Matrix Composite with Ti and SiC Particles
+AU  - Braszczyńska-Malik, Katarzyna N.
+PY  - 2022
+T2  - Materials
+VL  - 15
+IS  - 18
+SP  - 6301
+DO  - 10.3390/ma15186301
+UR  - https://doi.org/10.3390/ma15186301
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；AZ91；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L056
+TI  - New Magnesium Composite with Mg17Al12 Intermetallic Particles
+AU  - Yamanoglu, Ridvan
+AU  - Bahador, Abdollah
+AU  - Kondoh, Katsuyoshi
+AU  - Gumus, Serap
+AU  - Gokce, Sinan
+AU  - Muratal, Onur
+PY  - 2021
+T2  - Powder Metallurgy and Metal Ceramics
+VL  - 60
+IS  - 3-4
+SP  - 216
+EP  - 224
+DO  - 10.1007/s11106-021-00230-4
+UR  - https://doi.org/10.1007/s11106-021-00230-4
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L057
+TI  - Development of titanium particulate reinforced AZ31 magnesium matrix composites via friction stir processing
+AU  - Dinaharan, Isaac
+AU  - Zhang, Shuai
+AU  - Chen, Gaoqiang
+AU  - Shi, Qingyu
+PY  - 2020
+T2  - Journal of Alloys and Compounds
+VL  - 820
+SP  - 153071
+DO  - 10.1016/j.jallcom.2019.153071
+UR  - https://doi.org/10.1016/j.jallcom.2019.153071
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；AZ31；Ti增强
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L058
+TI  - Titanium particulate reinforced AZ31 magnesium matrix composites with improved ductility prepared using friction stir processing
+AU  - Dinaharan, Isaac
+AU  - Zhang, Shuai
+AU  - Chen, Gaoqiang
+AU  - Shi, Qingyu
+PY  - 2020
+T2  - Materials Science and Engineering: A
+VL  - 772
+SP  - 138793
+DO  - 10.1016/j.msea.2019.138793
+UR  - https://doi.org/10.1016/j.msea.2019.138793
+KW  - Ti及金属增强镁基复合材料
+KW  - 镁基复合材料；AZ31；Ti增强
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L059
+TI  - Young’s Modulus, Damping, and Thermal Expansion of a Sustainable Magnesium Composite Containing Recycled C-Fibers
+AU  - Sonkusare, Reshma
+AU  - Dieringa, Hajo
+AU  - Khalifa, Noomane Ben
+AU  - Kandemir, Sinan
+PY  - 2026
+T2  - Journal of Materials Engineering and Performance
+VL  - 35
+IS  - 35
+SP  - 37075
+EP  - 37083
+DO  - 10.1007/s11665-026-14244-9
+UR  - https://doi.org/10.1007/s11665-026-14244-9
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；碳纤维
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L060
+TI  - Carbon nanotube and graphene reinforced magnesium matrix composites: A state-of-the-art review
+AU  - Pillari, Lava Kumar
+AU  - Lessoway, Kyle
+AU  - Bichler, Lukas
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 6
+SP  - 1825
+EP  - 1905
+DO  - 10.1016/j.jma.2023.05.010
+UR  - https://doi.org/10.1016/j.jma.2023.05.010
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L061
+TI  - Hybrid Surface Composites of WE43 Magnesium Alloy Reinforced with TiB2 and Graphene Nanoplatelets via Friction Stir Processing
+AU  - Taşcı, Ufuk
+AU  - Yılmaz, Taha Alper
+AU  - Karakoç, Halil
+AU  - Çinici, Hanifi
+AU  - Bostan, Bülent
+PY  - 2026
+T2  - Metals and Materials International
+VL  - 32
+IS  - 11
+SP  - 3955
+EP  - 3978
+DO  - 10.1007/s12540-025-02177-2
+UR  - https://doi.org/10.1007/s12540-025-02177-2
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；WE43；TiB2；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L062
+TI  - Enriching grain refinement on improving mechanical and corrosion properties of graphene reinforced magnesium composites
+AU  - Natarajan, Elango
+AU  - Ramasamy, Manickam
+AU  - Anbuchezhiyan, G
+AU  - Mozhuguan Sekar, Santhosh
+AU  - Vignesh, M
+PY  - 2025
+T2  - Results in Materials
+VL  - 26
+SP  - 100689
+DO  - 10.1016/j.rinma.2025.100689
+UR  - https://doi.org/10.1016/j.rinma.2025.100689
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L063
+TI  - Strengthening/weakening effect of graphene orientation angle on mechanical properties of AZ91 magnesium matrix composites
+AU  - Peng, Dunwei
+AU  - Song, Zhuo
+AU  - Zhang, Yunpeng
+AU  - Wang, Xiaopan
+AU  - Hou, Hua
+AU  - Zhao, Yuhong
+PY  - 2025
+T2  - Journal of Magnesium and Alloys
+VL  - 13
+IS  - 8
+SP  - 3659
+EP  - 3672
+DO  - 10.1016/j.jma.2024.12.001
+UR  - https://doi.org/10.1016/j.jma.2024.12.001
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L064
+TI  - Ultrasonic modulation for synergistic mechanical and corrosion properties in graphene oxide-reinforced magnesium matrix composites
+AU  - Li, Jing
+AU  - Chen, Liwen
+AU  - Zhu, Xijing
+AU  - Zhao, Yuhong
+AU  - Hou, Hua
+PY  - 2025
+T2  - Journal of Alloys and Compounds
+VL  - 1048
+SP  - 185325
+DO  - 10.1016/j.jallcom.2025.185325
+UR  - https://doi.org/10.1016/j.jallcom.2025.185325
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L065
+TI  - Graphene reinforced magnesium metal matrix composites by infiltrating coated-graphene preform with melt
+AU  - Yun, Kang
+AU  - Zhou, Jiming
+AU  - Zhao, Chentong
+AU  - Jiang, Xuemeng
+AU  - Qi, Lehua
+PY  - 2024
+T2  - Journal of Materials Processing Technology
+VL  - 334
+SP  - 118639
+DO  - 10.1016/j.jmatprotec.2024.118639
+UR  - https://doi.org/10.1016/j.jmatprotec.2024.118639
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L066
+TI  - Microstructural evolution in graphene nanoplatelets reinforced magnesium matrix composites fabricated through thixomolding process
+AU  - Chen, Liwen
+AU  - Zhao, Yuhong
+AU  - Jing, Jianhui
+AU  - Hou, Hua
+PY  - 2023
+T2  - Journal of Alloys and Compounds
+VL  - 940
+SP  - 168824
+DO  - 10.1016/j.jallcom.2023.168824
+UR  - https://doi.org/10.1016/j.jallcom.2023.168824
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L067
+TI  - Microstructure and Mechanical Properties of Magnesium Matrix Composites Reinforced by In Situ Reduced Graphene Oxide
+AU  - Liu, Feixiang
+AU  - Wang, Zhaohui
+AU  - Du, Xian
+AU  - Li, Shubo
+AU  - Du, Wenbo
+PY  - 2023
+T2  - Materials
+VL  - 16
+IS  - 6
+SP  - 2303
+DO  - 10.3390/ma16062303
+UR  - https://doi.org/10.3390/ma16062303
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L068
+TI  - Role of extrinsic and intrinsic toughening mechanisms in graphene nanosheets reinforced magnesium matrix layered composites
+AU  - Shi, Hailong
+AU  - Wang, Xiaojun
+AU  - Xiang, Yeyang
+AU  - Zhang, Chunlei
+AU  - Li, Xuejian
+AU  - Xu, Chao
+AU  - Hu, Xiaoshi
+AU  - Gan, Weimin
+PY  - 2023
+T2  - Materials Science and Engineering: A
+VL  - 885
+SP  - 145619
+DO  - 10.1016/j.msea.2023.145619
+UR  - https://doi.org/10.1016/j.msea.2023.145619
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L069
+TI  - An Improved Approach to Manufacture Carbon Nanotube Reinforced Magnesium AZ91 Composites with Increased Strength and Ductility
+AU  - Nasiri, Samaneh
+AU  - Yang, Guang
+AU  - Spiecker, Erdmann
+AU  - Li, Qianqian
+PY  - 2022
+T2  - Metals
+VL  - 12
+IS  - 5
+SP  - 834
+DO  - 10.3390/met12050834
+UR  - https://doi.org/10.3390/met12050834
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L070
+TI  - Development of Carbon Nanotube (CNT)-Reinforced Mg Alloys: Fabrication Routes and Mechanical Properties
+AU  - Upadhyay, Gaurav
+AU  - Saxena, Kuldeep K.
+AU  - Sehgal, Shankar
+AU  - Mohammed, Kahtan A.
+AU  - Prakash, Chander
+AU  - Dixit, Saurav
+AU  - Buddhi, Dharam
+PY  - 2022
+T2  - Metals
+VL  - 12
+IS  - 8
+SP  - 1392
+DO  - 10.3390/met12081392
+UR  - https://doi.org/10.3390/met12081392
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L071
+TI  - Fabrication of magnesium-coated graphene and its effect on the microstructure of reinforced AZ91 magnesium-matrix composites
+AU  - Zhao, Rongxia
+AU  - Pei, Jinxuan
+AU  - Du, Wenbo
+AU  - Zhao, Zhanyong
+AU  - Zhang, Lizheng
+AU  - Gao, Jianfeng
+AU  - Bai, Peikang
+AU  - Tie, Di
+PY  - 2022
+T2  - Advanced Composites and Hybrid Materials
+VL  - 5
+IS  - 1
+SP  - 504
+EP  - 512
+DO  - 10.1007/s42114-021-00336-8
+UR  - https://doi.org/10.1007/s42114-021-00336-8
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L072
+TI  - Mechanical behavior of graphene magnesium matrix composites based on molecular dynamics simulation
+AU  - Ming, Zhi-Fei
+AU  - Song, Hai-Yang
+AU  - An, Min-Rong
+AU  - College of Materials Science and Engineering, Xi’an Shiyou University, Xi’an 710065, China
+PY  - 2022
+T2  - Acta Physica Sinica
+VL  - 71
+IS  - 8
+SP  - 086201
+DO  - 10.7498/aps.71.20211753
+UR  - https://doi.org/10.7498/aps.71.20211753
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L073
+TI  - Simultaneously enhancing strength and toughness of graphene oxide reinforced ZK60 magnesium matrix composites through powder thixoforming
+AU  - Wang, Lingyun
+AU  - Chen, Tijun
+PY  - 2022
+T2  - Composites Part A: Applied Science and Manufacturing
+VL  - 161
+SP  - 107097
+DO  - 10.1016/j.compositesa.2022.107097
+UR  - https://doi.org/10.1016/j.compositesa.2022.107097
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；ZK60；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L074
+TI  - Using a new sustainable carbon reinforcement in magnesium matrix composites
+AU  - Simsir, Hamza
+AU  - Akgul, Yasin
+PY  - 2022
+T2  - Materials Chemistry and Physics
+VL  - 281
+SP  - 125886
+DO  - 10.1016/j.matchemphys.2022.125886
+UR  - https://doi.org/10.1016/j.matchemphys.2022.125886
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L075
+TI  - Corrosion Behavior of Graphene Nanoplatelet-Coated TiB2 Reinforced AZ91 Magnesium Matrix Semi-Ceramic Hybrid Composites
+AU  - Karabuk University, Department of Metallurgical and Materials Engineering, Karabuk, Turkey
+AU  - Cevik, Engin
+AU  - Gundogan, Murat
+AU  - Incesu, Alper
+AU  - Turan, Muhammet Emre
+PY  - 2021
+T2  - Hittite Journal of Science & Engineering
+VL  - 8
+IS  - 1
+SP  - 27
+EP  - 33
+DO  - 10.17350/hjse19030000209
+UR  - https://doi.org/10.17350/hjse19030000209
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91；TiB2；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L076
+TI  - Enhanced mechanical properties of carbon nanotube-reinforced magnesium composites with zirconia fabricated by spark plasma sintering
+AU  - Tsukamoto, Hideaki
+PY  - 2021
+T2  - Journal of Composite Materials
+VL  - 55
+IS  - 18
+SP  - 2503
+EP  - 2512
+DO  - 10.1177/0021998321993917
+UR  - https://doi.org/10.1177/0021998321993917
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L077
+TI  - Fabrication and characterization of few-layer graphene oxide reinforced magnesium matrix composites
+AU  - Sun, Xiaohao
+AU  - Chen, Minfang
+AU  - Liu, Debao
+PY  - 2021
+T2  - Materials Science and Engineering: A
+VL  - 803
+SP  - 140722
+DO  - 10.1016/j.msea.2020.140722
+UR  - https://doi.org/10.1016/j.msea.2020.140722
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L078
+TI  - Fabrication and strengthening mechanisms of magnesium matrix composites with bimodal microstructure induced by graphene nanoplatelets
+AU  - Shi, Hailong
+AU  - Xiang, Shulin
+AU  - Hu, Xiaoshi
+AU  - Wang, Xiaojun
+AU  - Xu, Chao
+AU  - Wu, Kun
+PY  - 2021
+T2  - Journal of Materials Research
+VL  - 36
+IS  - 3
+SP  - 764
+EP  - 774
+DO  - 10.1557/s43578-021-00112-w
+UR  - https://doi.org/10.1557/s43578-021-00112-w
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L079
+TI  - Preparation of graphene reinforced AZ31B magnesium-based composites by stirring casting
+AU  - Xiao, Hao
+AU  - Ma, Guohong
+AU  - Ye, Jia
+AU  - He, Yinshui
+PY  - 2021
+T2  - Vacuum
+VL  - 191
+SP  - 110281
+DO  - 10.1016/j.vacuum.2021.110281
+UR  - https://doi.org/10.1016/j.vacuum.2021.110281
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ31B；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L080
+TI  - 石墨烯增强镁基复合材料制备方法概述
+AU  - 朱绒霞
+AU  - 粟银
+AU  - 苗征
+AU  - 栾瑞昕
+PY  - 2021
+T2  - 化工新型材料
+VL  - 49
+IS  - 10
+SP  - 15
+EP  - 18
+DO  - 10.19817/j.cnki.issn1006-3536.2021.10.004
+UR  - https://doi.org/10.19817/j.cnki.issn1006-3536.2021.10.004
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；期刊/机构原始页面题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L081
+TI  - Carbon Nanotubes (CNTs)-Reinforced Magnesium-Based Matrix Composites: A Comprehensive Review
+AU  - Abazari, Somayeh
+AU  - Shamsipur, Ali
+AU  - Bakhsheshi-Rad, Hamid Reza
+AU  - Ismail, Ahmad Fauzi
+AU  - Sharif, Safian
+AU  - Razzaghi, Mahmood
+AU  - Ramakrishna, Seeram
+AU  - Berto, Filippo
+PY  - 2020
+T2  - Materials
+VL  - 13
+IS  - 19
+SP  - 4421
+DO  - 10.3390/ma13194421
+UR  - https://doi.org/10.3390/ma13194421
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L082
+TI  - High performance carbon nanotube-reinforced magnesium nanocomposite
+AU  - Ding, Yunpeng
+AU  - Xu, Jilei
+AU  - Hu, Jinbiao
+AU  - Gao, Qiancheng
+AU  - Guo, Xiaoqin
+AU  - Zhang, Rui
+AU  - An, Linan
+PY  - 2020
+T2  - Materials Science and Engineering: A
+VL  - 771
+SP  - 138575
+DO  - 10.1016/j.msea.2019.138575
+UR  - https://doi.org/10.1016/j.msea.2019.138575
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L083
+TI  - Microstructures and properties of graphene-nanoplatelet-reinforced magnesium-matrix composites fabricated by an in situ reaction process
+AU  - Sun, Xueyu
+AU  - Li, Chaojie
+AU  - Dai, Xibin
+AU  - Zhao, Lixin
+AU  - Li, Baoe
+AU  - Wang, Hongshui
+AU  - Liang, Chunyong
+AU  - Li, Haipeng
+AU  - Fan, Jiawei
+PY  - 2020
+T2  - Journal of Alloys and Compounds
+VL  - 835
+SP  - 155125
+DO  - 10.1016/j.jallcom.2020.155125
+UR  - https://doi.org/10.1016/j.jallcom.2020.155125
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L084
+TI  - Development of AZ91D magnesium alloy-graphene nanoplatelets composites using thixomolding process
+AU  - Chen, Liwen
+AU  - Zhao, Yuhong
+AU  - Hou, Hua
+AU  - Zhang, Ting
+AU  - Liang, Jianquan
+AU  - Li, Muxi
+AU  - Li, Jing
+PY  - 2019
+T2  - Journal of Alloys and Compounds
+VL  - 778
+SP  - 359
+EP  - 374
+DO  - 10.1016/j.jallcom.2018.11.148
+UR  - https://doi.org/10.1016/j.jallcom.2018.11.148
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91D；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L085
+TI  - Investigation of graphene-reinforced magnesium metal matrix composites processed through a solvent-based powder metallurgy route
+AU  - Kavimani, V
+AU  - Soorya Prakash, K
+AU  - Thankachan, Titus
+PY  - 2019
+T2  - Bulletin of Materials Science
+VL  - 42
+IS  - 1
+SP  - 39
+DO  - 10.1007/s12034-018-1720-1
+UR  - https://doi.org/10.1007/s12034-018-1720-1
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L086
+TI  - Microstructure, and Mechanical and Wear Properties of Grp/AZ91 Magnesium Matrix Composites
+AU  - Wang, Chang-rui
+AU  - Deng, Kun-kun
+AU  - Bai, Yan
+PY  - 2019
+T2  - Materials
+VL  - 12
+IS  - 7
+SP  - 1190
+DO  - 10.3390/ma12071190
+UR  - https://doi.org/10.3390/ma12071190
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L087
+TI  - Precipitate characteristics and synergistic strengthening realization of graphene nanoplatelets reinforced bimodal structural magnesium matrix composites
+AU  - Xiang, S.L.
+AU  - Hu, X.S.
+AU  - Wang, X.J.
+AU  - Wang, L.D.
+AU  - Wu, K.
+PY  - 2018
+T2  - Materials Science and Engineering: A
+VL  - 724
+SP  - 348
+EP  - 356
+DO  - 10.1016/j.msea.2018.03.107
+UR  - https://doi.org/10.1016/j.msea.2018.03.107
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L088
+TI  - Ultra-high strengthening efficiency of graphene nanoplatelets reinforced magnesium matrix composites
+AU  - Du, Xian
+AU  - Du, Wenbo
+AU  - Wang, Zhaohui
+AU  - Liu, Ke
+AU  - Li, Shubo
+PY  - 2018
+T2  - Materials Science and Engineering: A
+VL  - 711
+SP  - 633
+EP  - 642
+DO  - 10.1016/j.msea.2017.11.040
+UR  - https://doi.org/10.1016/j.msea.2017.11.040
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L089
+TI  - Compelling mechanical properties of carbon nanotubes reinforced pure magnesium composite by effective interface bonding of Mg2Ni
+AU  - Han, Guoqiang
+AU  - Du, Wenbo
+AU  - Ye, Xiaoxin
+AU  - Liu, Ke
+AU  - Du, Xian
+AU  - Wang, Zhaohui
+AU  - Li, Shubo
+PY  - 2017
+T2  - Journal of Alloys and Compounds
+VL  - 727
+SP  - 963
+EP  - 969
+DO  - 10.1016/j.jallcom.2017.08.133
+UR  - https://doi.org/10.1016/j.jallcom.2017.08.133
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L090
+TI  - Corrosion behavior of magnesium-graphene composites in sodium chloride solutions
+AU  - Rashad, Muhammad
+AU  - Pan, Fusheng
+AU  - Asif, Muhammad
+AU  - Chen, Xianhua
+PY  - 2017
+T2  - Journal of Magnesium and Alloys
+VL  - 5
+IS  - 3
+SP  - 271
+EP  - 276
+DO  - 10.1016/j.jma.2017.06.003
+UR  - https://doi.org/10.1016/j.jma.2017.06.003
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L091
+TI  - Enhanced overall strength and ductility of magnesium matrix composites by low content of graphene nanoplatelets
+AU  - Xiang, S.L.
+AU  - Gupta, M.
+AU  - Wang, X.J.
+AU  - Wang, L.D.
+AU  - Hu, X.S.
+AU  - Wu, K.
+PY  - 2017
+T2  - Composites Part A: Applied Science and Manufacturing
+VL  - 100
+SP  - 183
+EP  - 193
+DO  - 10.1016/j.compositesa.2017.05.011
+UR  - https://doi.org/10.1016/j.compositesa.2017.05.011
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L092
+TI  - Mechanical and wear behaviour of AZ91D magnesium matrix hybrid composite reinforced with boron carbide and graphite
+AU  - Aatthisugan, I.
+AU  - Razal Rose, A.
+AU  - Selwyn Jebadurai, D.
+PY  - 2017
+T2  - Journal of Magnesium and Alloys
+VL  - 5
+IS  - 1
+SP  - 20
+EP  - 25
+DO  - 10.1016/j.jma.2016.12.004
+UR  - https://doi.org/10.1016/j.jma.2016.12.004
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ91D
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L093
+TI  - Microstructure and mechanical properties of carbon nanotube-reinforced ZK61 magnesium alloy composites prepared by spark plasma sintering
+AU  - Wang, Lin-Zhi
+AU  - Wei, Wen-Hou
+PY  - 2017
+T2  - International Journal of Materials Research
+VL  - 108
+IS  - 3
+SP  - 192
+EP  - 201
+DO  - 10.3139/146.111474
+UR  - https://doi.org/10.3139/146.111474
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L094
+TI  - Synthesis and characterization of graphene nanosheets/magnesium composites processed through powder metallurgy
+AU  - Du, X.
+AU  - Zheng, K.
+AU  - Liu, F.
+PY  - 2017
+T2  - Materiali in tehnologije
+VL  - 51
+IS  - 6
+SP  - 967
+EP  - 971
+DO  - 10.17222/mit.2017.041
+UR  - https://doi.org/10.17222/mit.2017.041
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L095
+TI  - Characterization of the reaction products and precipitates at the interface of carbon fiber reinforced magnesium–gadolinium composite
+AU  - Wang, Yaping
+AU  - Jiang, Longtao
+AU  - Chen, Guoqin
+AU  - Lin, Xiu
+AU  - Zhang, Shaofeng
+AU  - Pei, Risheng
+AU  - Wu, Gaohui
+PY  - 2016
+T2  - Materials Characterization
+VL  - 113
+SP  - 232
+EP  - 238
+DO  - 10.1016/j.matchar.2015.10.004
+UR  - https://doi.org/10.1016/j.matchar.2015.10.004
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；碳纤维
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L096
+TI  - Effect of porosity and carbon composition on pore microstructure of magnesium/carbon nanotube composite foams
+AU  - Li, Qizhen
+PY  - 2016
+T2  - Materials & Design
+VL  - 89
+SP  - 978
+EP  - 987
+DO  - 10.1016/j.matdes.2015.09.134
+UR  - https://doi.org/10.1016/j.matdes.2015.09.134
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L097
+TI  - Graphene nanoplatelets induced heterogeneous bimodal structural magnesium matrix composites with enhanced mechanical properties
+AU  - Xiang, Shulin
+AU  - Wang, Xiaojun
+AU  - Gupta, Manoj
+AU  - Wu, Kun
+AU  - Hu, Xiaoshi
+AU  - Zheng, Mingyi
+PY  - 2016
+T2  - Scientific Reports
+VL  - 6
+IS  - 1
+SP  - 38824
+DO  - 10.1038/srep38824
+UR  - https://doi.org/10.1038/srep38824
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；石墨烯
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L098
+TI  - Rapid microwave sintering of carbon nanotube-filled AZ61 magnesium alloy composites
+AU  - Akinwekomi, Akeem Damilola
+AU  - Law, Wing-Cheung
+AU  - Tang, Chak-Yin
+AU  - Chen, Ling
+AU  - Tsui, Chi-Pong
+PY  - 2016
+T2  - Composites Part B: Engineering
+VL  - 93
+SP  - 302
+EP  - 309
+DO  - 10.1016/j.compositesb.2016.03.041
+UR  - https://doi.org/10.1016/j.compositesb.2016.03.041
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；AZ61；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L099
+TI  - Thermal expansion properties of carbon nanotube/silicon carbide particle-reinforced magnesium composites fabricated by squeeze infiltration
+AU  - Cho, Dae Hyun
+AU  - Nam, Ji Hoon
+AU  - Lee, Byoung Woo
+AU  - Yim, Si On
+AU  - Park, Ik Min
+PY  - 2016
+T2  - Metals and Materials International
+VL  - 22
+IS  - 2
+SP  - 332
+EP  - 339
+DO  - 10.1007/s12540-016-5454-6
+UR  - https://doi.org/10.1007/s12540-016-5454-6
+KW  - 碳增强镁基复合材料
+KW  - 镁基复合材料；CNT
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L100
+TI  - Cyclic deformation behavior of Mg–SiC nanocomposites on the macroscale and nanoscale
+AU  - Hübler, Daniela
+AU  - Winkler, Kai
+AU  - Riedel, Ralf
+AU  - Kamrani, Sepideh
+AU  - Fleck, Claudia
+PY  - 2022
+T2  - Fatigue & Fracture of Engineering Materials & Structures
+VL  - 45
+IS  - 2
+SP  - 386
+EP  - 399
+DO  - 10.1111/ffe.13600
+UR  - https://doi.org/10.1111/ffe.13600
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L101
+TI  - Fabrication of HEA particle-reinforced AZ91 magnesium matrix composites via WAAM-FSP hybrid process: Microstructural regulation and performance optimization
+AU  - Sui, Yuan
+AU  - Shen, Junqi
+AU  - Hu, Shengsun
+AU  - Hu, Naisheng
+PY  - 2026
+T2  - Journal of Magnesium and Alloys
+VL  - 23
+SP  - 102219
+DO  - 10.1016/j.jma.2026.102219
+UR  - https://doi.org/10.1016/j.jma.2026.102219
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L102
+TI  - GO-activated thermal treatment response mechanism in magnesium matrix composites
+AU  - Li, Jiacheng
+AU  - Chen, Liwen
+AU  - Zhao, Yuan
+AU  - Jing, Jianhui
+AU  - Nie, Hailong
+AU  - Hou, Hua
+AU  - Zhao, Yuhong
+PY  - 2026
+T2  - Journal of Alloys and Compounds
+VL  - 1062
+SP  - 187544
+DO  - 10.1016/j.jallcom.2026.187544
+UR  - https://doi.org/10.1016/j.jallcom.2026.187544
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L103
+TI  - Hot deformation behavior, processing maps and microstructure evolution of extruded SiC/AZ80 magnesium matrix composites
+AU  - Abbas, Imran
+AU  - Li, Yingju
+AU  - Aslam, Muhammad Hassan
+AU  - Ali, Muhammad
+AU  - Feng, Xiaohui
+AU  - Huang, Qiuyan
+AU  - Luo, Tianjiao
+AU  - Zheng, Ce
+AU  - Yang, Yuansheng
+PY  - 2026
+T2  - Journal of Materials Research and Technology
+VL  - 41
+SP  - 7486
+EP  - 7495
+DO  - 10.1016/j.jmrt.2026.03.001
+UR  - https://doi.org/10.1016/j.jmrt.2026.03.001
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ80；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L104
+TI  - Magnetic particle-reinforced magnesium matrix composites enabling mechanical-functional integration
+AU  - Deng, Pan
+AU  - Zhang, Ming
+AU  - Gao, Shuaipeng
+AU  - Ma, Lin
+AU  - Lyu, Shaoyuan
+AU  - Ma, Song
+AU  - Liu, Zengqian
+AU  - Zhang, Zhefeng
+PY  - 2026
+T2  - Journal of Alloys and Compounds
+VL  - 1057
+SP  - 186974
+DO  - 10.1016/j.jallcom.2026.186974
+UR  - https://doi.org/10.1016/j.jallcom.2026.186974
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L105
+TI  - Simulation and Preparation of High-strength and High-toughness Y+SiC/AZ80 Magnesium Matrix Composites
+AU  - Guo, Zijing
+AU  - Yao, Wei
+PY  - 2026
+T2  - Journal of Wuhan University of Technology-Mater. Sci. Ed.
+VL  - 41
+IS  - 4
+SP  - 1075
+EP  - 1082
+DO  - 10.1007/s11595-026-3323-9
+UR  - https://doi.org/10.1007/s11595-026-3323-9
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ80；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L106
+TI  - Toward High-Performance Mg-Matrix Composites: Recent Advances in Ceramic Reinforcement Strategies and Processing Innovations
+AU  - Ying, Yuefeng
+AU  - Wang, Weideng
+AU  - You, Guoqiang
+AU  - Yang, Yan
+AU  - Jiang, Bin
+AU  - Yue, Lin
+AU  - Shao, Qilin
+PY  - 2026
+T2  - Materials
+VL  - 19
+IS  - 2
+SP  - 365
+DO  - 10.3390/ma19020365
+UR  - https://doi.org/10.3390/ma19020365
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L107
+TI  - Breaking Mg matrix composite property trade-offs via in-situ interface reaction and heterogeneous structure design
+AU  - Xu, Z.Y.
+AU  - You, Y.Q.
+AU  - Lu, Q.
+AU  - Li, C.J.
+AU  - Song, M.
+AU  - Tan, J.
+AU  - Liu, L.
+AU  - Chen, X.F.
+AU  - Yi, J.H.
+PY  - 2025
+T2  - Journal of Magnesium and Alloys
+VL  - 13
+IS  - 12
+SP  - 6121
+EP  - 6135
+DO  - 10.1016/j.jma.2024.10.008
+UR  - https://doi.org/10.1016/j.jma.2024.10.008
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L108
+TI  - Fabrication and characterization of SiC-reinforced magnesium-matrix composites with honeycomb structures and anisotropic properties
+AU  - Che, Tong
+AU  - Meng, Xiang-Yu
+AU  - Yu, Tao
+AU  - Guo, Rui-Fen
+AU  - Shen, Ping
+PY  - 2025
+T2  - Ceramics International
+VL  - 51
+IS  - 1
+SP  - 949
+EP  - 960
+DO  - 10.1016/j.ceramint.2024.11.078
+UR  - https://doi.org/10.1016/j.ceramint.2024.11.078
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L109
+TI  - Tensile, Flexural, and Fatigue Responses of Lightweight Pumice-Reinforced Magnesium Composite: Experimentation Followed by an Analytical Modeling
+AU  - Nagarajan, Bhuvanesh
+AU  - Govindasamy, Kumaresan
+AU  - Chenrayan, Venkatesh
+AU  - Shahapurkar, Kiran
+PY  - 2025
+T2  - Journal of Engineering Materials and Technology
+VL  - 147
+IS  - 3
+SP  - 031001
+DO  - 10.1115/1.4067134
+UR  - https://doi.org/10.1115/1.4067134
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L110
+TI  - Wear behavior of SiC-reinforced AZ31B magnesium alloy surface composites fabricated by friction stir processing
+AU  - Ravindra, Parkhe
+AU  - Kanif, Markad
+AU  - Kishan, Fuse
+AU  - Vishvesh, Badheka
+PY  - 2025
+T2  - Journal of Alloys and Metallurgical Systems
+VL  - 11
+SP  - 100207
+DO  - 10.1016/j.jalmes.2025.100207
+UR  - https://doi.org/10.1016/j.jalmes.2025.100207
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ31B；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L111
+TI  - Anti-Wear Characteristics of SiC Preform Reinforced AZ91 Magnesium Matrix Composites Fabricated by Cold Chamber High-Pressure Die Casting
+AU  - Kucukyildirim, Bedri Onur
+AU  - Vanli, Ali Serdar
+AU  - Akdogan, Anil
+PY  - 2024
+T2  - International Journal of Metalcasting
+VL  - 18
+IS  - 1
+SP  - 633
+EP  - 648
+DO  - 10.1007/s40962-023-01055-0
+UR  - https://doi.org/10.1007/s40962-023-01055-0
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L112
+TI  - Damping capacity of magnesium matrix composites fabricated by ultrasonic-assisted stir casting
+AU  - Babar Pasha, Mahammod
+AU  - Chitti Babu, G.
+AU  - Narasimha Rao, R.
+AU  - Ismail, Syed
+PY  - 2024
+T2  - Materials Today: Proceedings
+VL  - 115
+SP  - 181
+EP  - 184
+DO  - 10.1016/j.matpr.2023.07.187
+UR  - https://doi.org/10.1016/j.matpr.2023.07.187
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L113
+TI  - Effect of the TiB2 content on the mechanical and tribological properties of TiB2/AZ91 composites fabricated by vacuum hot-press sintering process incorporating vacuum ball milling
+AU  - Sui, Xin
+AU  - Xu, Hongyu
+AU  - Jiang, Bo
+AU  - Wang, Ye
+AU  - Hu, Maoliang
+AU  - Ji, Zesheng
+PY  - 2024
+T2  - Materials Today Communications
+VL  - 40
+SP  - 109722
+DO  - 10.1016/j.mtcomm.2024.109722
+UR  - https://doi.org/10.1016/j.mtcomm.2024.109722
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L114
+TI  - Investigating nano-SiC reinforced WE43 magnesium matrix surface composites
+AU  - Kang, Amardeep Singh
+AU  - Singh, Ravinder Pal
+AU  - Singla, Shivali
+PY  - 2024
+T2  - Engineering Research Express
+VL  - 6
+IS  - 2
+SP  - 025409
+DO  - 10.1088/2631-8695/ad4196
+UR  - https://doi.org/10.1088/2631-8695/ad4196
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；WE43；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L115
+TI  - Microstructure Evolution and Creep Properties of AZ61 Magnesium Matrix Composites Reinforced with Bimodal-Sized SiC Particles
+AU  - Li, Ming
+AU  - Zhao, Zu-De
+AU  - Xing, Zhi-Hui
+AU  - Yao, Meng-Ling
+AU  - Zhao, Gao-Zhan
+AU  - Du, Chuan-Hang
+AU  - Xiang, Lin
+AU  - Wang, Hong-Xia
+PY  - 2024
+T2  - Science of Advanced Materials
+VL  - 16
+IS  - 8
+SP  - 855
+EP  - 862
+DO  - 10.1166/sam.2024.4478
+UR  - https://doi.org/10.1166/sam.2024.4478
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ61；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L116
+TI  - Strength and elastic modulus enhancement in Mg-Li-Al matrix composites reinforced by ex situ TiB2 particles via stir casting
+AU  - Sun, Jiawei
+AU  - Ding, Dehua
+AU  - Liu, Wencai
+AU  - Wu, Guohua
+AU  - Liu, Hongjie
+AU  - Wei, Guangling
+AU  - Liu, Hezhou
+PY  - 2024
+T2  - Journal of Magnesium and Alloys
+VL  - 12
+IS  - 9
+SP  - 3574
+EP  - 3588
+DO  - 10.1016/j.jma.2022.09.020
+UR  - https://doi.org/10.1016/j.jma.2022.09.020
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L117
+TI  - Damping performance of SiC nanoparticles reinforced magnesium matrix composites processed by cyclic extrusion and compression
+AU  - Ebrahimi, Mahmoud
+AU  - Zhang, Li
+AU  - Wang, Qudong
+AU  - Zhou, Hao
+AU  - Li, Wenzhen
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 5
+SP  - 1608
+EP  - 1617
+DO  - 10.1016/j.jma.2021.07.024
+UR  - https://doi.org/10.1016/j.jma.2021.07.024
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L118
+TI  - Effect of TiB2 Nanoparticle Content on the Microstructure and Mechanical Properties of TiB2/Mg-4Al-1.5Si Composites
+AU  - Liu, Jian
+AU  - Chen, Xiaogang
+AU  - Wang, Wuxiao
+AU  - Zhao, Yu
+AU  - He, Na
+PY  - 2023
+T2  - Materials
+VL  - 16
+IS  - 7
+SP  - 2852
+DO  - 10.3390/ma16072852
+UR  - https://doi.org/10.3390/ma16072852
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L119
+TI  - Fabrication, microstructure and mechanical properties of novel titanium and nickel micro-particulates reinforced AZ91D magnesium alloy metal matrix hybrid composites
+AU  - Kelen, Fevzi
+PY  - 2023
+T2  - Journal of Alloys and Compounds
+VL  - 968
+SP  - 171999
+DO  - 10.1016/j.jallcom.2023.171999
+UR  - https://doi.org/10.1016/j.jallcom.2023.171999
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91D
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L120
+TI  - Influence of Lanthanum oxide on AZ31 magnesium composite properties
+AU  - Babu, Praveenkumar
+AU  - Solomon, Darius Gnanaraj
+AU  - Ram Prabhu, T.
+PY  - 2023
+T2  - Materials Letters
+VL  - 351
+SP  - 135014
+DO  - 10.1016/j.matlet.2023.135014
+UR  - https://doi.org/10.1016/j.matlet.2023.135014
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ31
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L121
+TI  - Investigation into machining performance of microstructurally engineered in-situ particle reinforced magnesium matrix composite
+AU  - Sahoo, S.K.
+AU  - Sahoo, B.N.
+AU  - Panigrahi, S.K.
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 3
+SP  - 916
+EP  - 935
+DO  - 10.1016/j.jma.2022.10.015
+UR  - https://doi.org/10.1016/j.jma.2022.10.015
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L122
+TI  - Novel magnesium matrix hybrid composites manufactured through powder metallurgy technique
+AU  - Kelen, Fevzi
+PY  - 2023
+T2  - Materials Today Communications
+VL  - 35
+SP  - 106348
+DO  - 10.1016/j.mtcomm.2023.106348
+UR  - https://doi.org/10.1016/j.mtcomm.2023.106348
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L123
+TI  - Wear Performance of TiB2-Reinforced AZ91 Magnesium Metal Matrix Composite Fabricated by Ultrasonic Stir-Casting Process
+AU  - Kumar, Dinesh
+AU  - Thakur, Lalit
+PY  - 2023
+T2  - JOM
+VL  - 75
+IS  - 7
+SP  - 2731
+EP  - 2744
+DO  - 10.1007/s11837-023-05845-z
+UR  - https://doi.org/10.1007/s11837-023-05845-z
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L124
+TI  - Different effects of SiC dimensions on the microstructure and mechanical properties of magnesium matrix composites
+AU  - Chen, Y.H.
+AU  - Gao, X.Y.
+AU  - Nie, K.B.
+AU  - Li, Y.N.
+AU  - Deng, K.K.
+PY  - 2022
+T2  - Materials Science and Engineering: A
+VL  - 847
+SP  - 143273
+DO  - 10.1016/j.msea.2022.143273
+UR  - https://doi.org/10.1016/j.msea.2022.143273
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L125
+TI  - Fretting Fatigue Behavior of Magnesium Metal Matrix Composite Fabricated Through Friction Stir Processing Using Nickel Reinforced Particles
+AU  - Sangral, Sangam
+AU  - Patel, Mahesh
+AU  - Jayaprakash, M.
+PY  - 2022
+T2  - Journal of Failure Analysis and Prevention
+VL  - 22
+IS  - 3
+SP  - 1107
+EP  - 1120
+DO  - 10.1007/s11668-022-01393-x
+UR  - https://doi.org/10.1007/s11668-022-01393-x
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L126
+TI  - Investigation on the microstructural and mechanical behavior of the friction stir welded RZ5/8 wt% TiB2 magnesium matrix composites
+AU  - Meher, Arabinda
+AU  - Mahapatra, Manas Mohan
+PY  - 2022
+T2  - Archives of Civil and Mechanical Engineering
+VL  - 22
+IS  - 4
+SP  - 178
+DO  - 10.1007/s43452-022-00503-8
+UR  - https://doi.org/10.1007/s43452-022-00503-8
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L127
+TI  - Machinability Studies on the Turning of Magnesium Metal Matrix Composites
+AU  - Gobivel, K.
+AU  - Vijay Sekar, K.S.
+PY  - 2022
+T2  - Archives of Metallurgy and Materials
+SP  - 939
+EP  - 948
+DO  - 10.24425/amm.2022.139686
+UR  - https://doi.org/10.24425/amm.2022.139686
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L128
+TI  - Synthesis and Characterization of AZ91D/SiC/BN Hybrid Magnesium Metal Matrix Composites
+AU  - Vijayakumar, P.
+AU  - Pazhanivel, K.
+AU  - Ramadoss, N.
+AU  - Ganeshkumar, A.
+AU  - Muruganantham, K.
+AU  - Arivanandhan, M.
+PY  - 2022
+T2  - Silicon
+VL  - 14
+IS  - 16
+SP  - 10861
+EP  - 10871
+DO  - 10.1007/s12633-022-01823-3
+UR  - https://doi.org/10.1007/s12633-022-01823-3
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91D；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L129
+TI  - Thermal Stability of Nanocrystalline AZ31/TiB2 Magnesium Matrix Composites Prepared via Mechanical Milling
+AU  - Zhou, Haiping
+AU  - Deng, Nana
+AU  - Zhang, Hongbin
+AU  - Zhang, Chengcai
+AU  - Lu, Yue
+AU  - Gao, Kuidong
+AU  - Wang, Gang
+AU  - Sun, Shuai
+AU  - Wang, Xin
+PY  - 2022
+T2  - Arabian Journal for Science and Engineering
+VL  - 47
+IS  - 7
+SP  - 8373
+EP  - 8383
+DO  - 10.1007/s13369-021-06284-1
+UR  - https://doi.org/10.1007/s13369-021-06284-1
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ31；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L130
+TI  - Abrasive Wear Behaviour of TiB2 Reinforced In-Situ Synthesized Magnesium RZ5 Alloy based Metal Matrix Composites
+AU  - Meher, Arabinda
+AU  - Mahapatra, Manas Mohan
+AU  - Samal, Priyaranjan
+AU  - Vundavilli, Pandu R.
+PY  - 2021
+T2  - Metals and Materials International
+VL  - 27
+IS  - 9
+SP  - 3652
+EP  - 3665
+DO  - 10.1007/s12540-020-00746-1
+UR  - https://doi.org/10.1007/s12540-020-00746-1
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L131
+TI  - Development of magnesium-based hybrid metal matrix composite through in situ micro, nano reinforcements
+AU  - Singh, Harprabhjot
+AU  - Kumar, Deepak
+AU  - Singh, Harpreet
+PY  - 2021
+T2  - Journal of Composite Materials
+VL  - 55
+IS  - 1
+SP  - 109
+EP  - 123
+DO  - 10.1177/0021998320946432
+UR  - https://doi.org/10.1177/0021998320946432
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L132
+TI  - Dry Sliding Wear Behavior of (GNPs + TiB2)-Reinforced AZ91 Magnesium Matrix Hybrid Composites Produced by Pressure Infiltration Casting Method
+AU  - Cevik, Engin
+AU  - Gundogan, Murat
+PY  - 2021
+T2  - International Journal of Metalcasting
+VL  - 15
+IS  - 4
+SP  - 1250
+EP  - 1259
+DO  - 10.1007/s40962-020-00552-w
+UR  - https://doi.org/10.1007/s40962-020-00552-w
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L133
+TI  - Effect of nanodiamond particle sizes on damping properties of ZK60 magnesium matrix composites
+AU  - Lu, De Cheng
+AU  - Li, Jian
+AU  - Li, Zhuo Hua
+PY  - 2021
+T2  - Materials Research Express
+VL  - 8
+IS  - 12
+SP  - 126532
+DO  - 10.1088/2053-1591/ac41df
+UR  - https://doi.org/10.1088/2053-1591/ac41df
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；ZK60
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L134
+TI  - High-strength and high-modulus Al18B4O33W/GWZ1031K magnesium matrix composite prepared by squeeze casting
+AU  - Chang, Zhiyu
+AU  - Wu, Yujuan
+AU  - Iizuka, Tateoki
+AU  - Peng, Liming
+AU  - Ding, Wenjiang
+PY  - 2021
+T2  - Materials Science and Engineering: A
+VL  - 817
+SP  - 141393
+DO  - 10.1016/j.msea.2021.141393
+UR  - https://doi.org/10.1016/j.msea.2021.141393
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L135
+TI  - Influence of high pressure torsion on microstructure evolution and mechanical properties of AZ80/SiC magnesium matrix composites
+AU  - Akbaripanah, F.
+AU  - Sabbaghian, M.
+AU  - Fakhar, N.
+AU  - Minárik, P.
+AU  - Veselý, J.
+AU  - Hung, P.T.
+AU  - Kapoor, G.
+AU  - Renk, O.
+AU  - Máthis, K.
+AU  - Gubicza, J.
+AU  - Eckert, J.
+PY  - 2021
+T2  - Materials Science and Engineering: A
+VL  - 826
+SP  - 141916
+DO  - 10.1016/j.msea.2021.141916
+UR  - https://doi.org/10.1016/j.msea.2021.141916
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ80；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L136
+TI  - The microstructure and corrosion resistance of SiC reinforced magnesium matrix composites with laminated gradient structure
+AU  - Peng, Guigui
+AU  - Liang, Yilong
+AU  - Li, Wei
+PY  - 2021
+T2  - Materials Research Express
+VL  - 8
+IS  - 12
+SP  - 126522
+DO  - 10.1088/2053-1591/ac3a42
+UR  - https://doi.org/10.1088/2053-1591/ac3a42
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L137
+TI  - Types of Component Interfaces in Metal Matrix Composites on the Example of Magnesium Matrix Composites
+AU  - Braszczyńska-Malik, Katarzyna N.
+PY  - 2021
+T2  - Materials
+VL  - 14
+IS  - 18
+SP  - 5182
+DO  - 10.3390/ma14185182
+UR  - https://doi.org/10.3390/ma14185182
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L138
+TI  - Ultra-High Damping Capacity of Oxide Reinforced Magnesium Matrix Composites by In Situ Synthesis
+AU  - Wan, Diqing
+AU  - Hu, Jiajun
+AU  - Wang, Houbin
+AU  - Hu, Yinglin
+AU  - Li, Lili
+PY  - 2021
+T2  - Metals and Materials International
+VL  - 27
+IS  - 12
+SP  - 5399
+EP  - 5406
+DO  - 10.1007/s12540-020-00834-2
+UR  - https://doi.org/10.1007/s12540-020-00834-2
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L139
+TI  - Effect of in-situ sub-micron sized TiB2 reinforcement on microstructure and mechanical properties in ZE41 magnesium matrix composites
+AU  - Sahoo, S.K.
+AU  - Sahoo, B.N.
+AU  - Panigrahi, S.K.
+PY  - 2020
+T2  - Materials Science and Engineering: A
+VL  - 773
+SP  - 138883
+DO  - 10.1016/j.msea.2019.138883
+UR  - https://doi.org/10.1016/j.msea.2019.138883
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L140
+TI  - Influence of TiC on Microstructure, Mechanical and Wear Properties of Magnesium alloy (AZ91D) Matrix Composites
+AU  - Dash, Dharmeswar
+AU  - Singh, Ram
+AU  - Samanta, Sutanu
+AU  - Rai, Ram Naresh
+PY  - 2020
+T2  - Journal of Scientific & Industrial Research
+VL  - 79
+IS  - 2
+SP  - 164
+EP  - 169
+DO  - 10.56042/jsir.v79i2.68630
+UR  - https://doi.org/10.56042/jsir.v79i2.68630
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91D；TiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref及期刊机构存档核验
+ER  - 
+
+TY  - JOUR
+ID  - L141
+TI  - Interface Engineering and Direct Observation of Strengthening Behavior in Field‐Sintered Boron Nitride Nanotube–Magnesium Alloy Composite
+AU  - Nautiyal, Pranjal
+AU  - Denis, Noemie
+AU  - Dolmetsch, Tyler
+AU  - Zhang, Cheng
+AU  - Boesl, Benjamin
+AU  - Agarwal, Arvind
+PY  - 2020
+T2  - Advanced Engineering Materials
+VL  - 22
+IS  - 7
+SP  - 2000170
+DO  - 10.1002/adem.202000170
+UR  - https://doi.org/10.1002/adem.202000170
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L142
+TI  - Research status and development of magnesium matrix composites
+AU  - Ma, Guohong
+AU  - Xiao, Hao
+AU  - Ye, Jia
+AU  - He, Yinshui
+PY  - 2020
+T2  - Materials Science and Technology
+VL  - 36
+IS  - 6
+SP  - 645
+EP  - 653
+DO  - 10.1080/02670836.2020.1732610
+UR  - https://doi.org/10.1080/02670836.2020.1732610
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L143
+TI  - Study on effect of TiB2 reinforcement on the microstructural and mechanical properties of magnesium RZ5 alloy based metal matrix composites
+AU  - Meher, Arabinda
+AU  - Mahapatra, Manas Mohan
+AU  - Samal, Priyaranjan
+AU  - Vundavilli, Pandu R.
+PY  - 2020
+T2  - Journal of Magnesium and Alloys
+VL  - 8
+IS  - 3
+SP  - 780
+EP  - 792
+DO  - 10.1016/j.jma.2020.04.003
+UR  - https://doi.org/10.1016/j.jma.2020.04.003
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L144
+TI  - Synthesis and characterisation of magnesium matrix composite reinforced with titanium dioxide nanoparticulates
+AU  - Elumalai, P C
+AU  - Ganesh, R
+PY  - 2020
+T2  - Materials Research Express
+VL  - 7
+IS  - 1
+SP  - 015093
+DO  - 10.1088/2053-1591/ab6ca3
+UR  - https://doi.org/10.1088/2053-1591/ab6ca3
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L145
+TI  - Vibration and Damping Behavior of Si3N4 Reinforced Magnesium Alloy Composite for Structural Applications
+AU  - Dhinakarraj, C.K.
+AU  - Senthilkumar, N.
+AU  - Badri, M.A.
+AU  - Anbuchezhiyan, G.
+PY  - 2020
+T2  - Journal of New Materials for Electrochemical Systems
+VL  - 23
+IS  - 3
+SP  - 182
+EP  - 189
+DO  - 10.14447/jnmes.v23i3.a05
+UR  - https://doi.org/10.14447/jnmes.v23i3.a05
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L146
+TI  - Experimental Investigation and Optimization of Machining Parameters in WEDM of Nano-SiC Particles Reinforced Magnesium Matrix Composites
+AU  - Vijayabhaskar, S.
+AU  - Rajmohan, T.
+PY  - 2019
+T2  - Silicon
+VL  - 11
+IS  - 4
+SP  - 1701
+EP  - 1716
+DO  - 10.1007/s12633-017-9676-0
+UR  - https://doi.org/10.1007/s12633-017-9676-0
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L147
+TI  - High temperature damping behavior and dynamic Young's modulus of magnesium matrix composite reinforced by Ti2AlC MAX phase particles
+AU  - Yu, Wenbo
+AU  - Li, Xiaobo
+AU  - Vallet, Maxime
+AU  - Tian, Liang
+PY  - 2019
+T2  - Mechanics of Materials
+VL  - 129
+SP  - 246
+EP  - 253
+DO  - 10.1016/j.mechmat.2018.12.001
+UR  - https://doi.org/10.1016/j.mechmat.2018.12.001
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L148
+TI  - Hot Deformation Behavior and Processing Maps of SiC Nanoparticles and Second Phase Synergistically Reinforced Magnesium Matrix Composites
+AU  - Nie, Kaibo
+AU  - Zhu, Zhihao
+AU  - Deng, Kunkun
+AU  - Wang, Ting
+AU  - Han, Jungang
+PY  - 2019
+T2  - Nanomaterials
+VL  - 9
+IS  - 1
+SP  - 57
+DO  - 10.3390/nano9010057
+UR  - https://doi.org/10.3390/nano9010057
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L149
+TI  - The Effect of TiB2 Content on Wear and Mechanical Behavior of AZ91 Magnesium Matrix Composites Produced by Powder Metallurgy
+AU  - Aydin, Fatih
+AU  - Sun, Yavuz
+AU  - Emre Turan, M.
+PY  - 2019
+T2  - Powder Metallurgy and Metal Ceramics
+VL  - 57
+IS  - 9-10
+SP  - 564
+EP  - 572
+DO  - 10.1007/s11106-019-00016-9
+UR  - https://doi.org/10.1007/s11106-019-00016-9
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；TiB2
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L150
+TI  - Effect of in-situ (TiC-TiB2) reinforcement on aging and mechanical behavior of AZ91 magnesium matrix composite
+AU  - Sahoo, B.N.
+AU  - Panigrahi, S.K.
+PY  - 2018
+T2  - Materials Characterization
+VL  - 139
+SP  - 221
+EP  - 232
+DO  - 10.1016/j.matchar.2018.03.002
+UR  - https://doi.org/10.1016/j.matchar.2018.03.002
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；TiB2；TiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L151
+TI  - Effects of (micron+submicron+nano) multisized SiC particles on microstructure and mechanical properties of magnesium matrix composites
+AU  - Shen, MJ
+AU  - Wang, XJ
+AU  - Li, H
+AU  - Zhang, MF
+AU  - Ying, T
+AU  - Nie, KB
+AU  - Wu, K
+PY  - 2018
+T2  - Journal of Composite Materials
+VL  - 52
+IS  - 15
+SP  - 2055
+EP  - 2064
+DO  - 10.1177/0021998317740196
+UR  - https://doi.org/10.1177/0021998317740196
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L152
+TI  - Hybrid Reinforced Magnesium Matrix Composites (Mg/Sic/GNPs): Drilling Investigation
+AU  - Abdulgadir, Mustafa
+AU  - Demir, Bilge
+AU  - Turan, Muhammet
+PY  - 2018
+T2  - Metals
+VL  - 8
+IS  - 4
+SP  - 215
+DO  - 10.3390/met8040215
+UR  - https://doi.org/10.3390/met8040215
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L153
+TI  - Mechanical Characterization and Machining of Squeeze Cast AZ91D/SiC Magnesium based Metal Matrix Composites
+AU  - Balasubramanian, I.
+AU  - Maheswaran, R.
+AU  - Manikandan, V.
+AU  - Patil, Nilesh
+AU  - Raja, M. Ayyanar
+AU  - Singari, Ranganath M
+PY  - 2018
+T2  - Procedia Manufacturing
+VL  - 20
+SP  - 97
+EP  - 105
+DO  - 10.1016/j.promfg.2018.02.014
+UR  - https://doi.org/10.1016/j.promfg.2018.02.014
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91D；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L154
+TI  - Microstructure and Mechanical Properties of Magnesium Matrix Composites Interpenetrated by Different Reinforcement
+AU  - Wu, Shuxu
+AU  - Wang, Shouren
+AU  - Wen, Daosheng
+AU  - Wang, Gaoqi
+AU  - Wang, Yong
+PY  - 2018
+T2  - Applied Sciences
+VL  - 8
+IS  - 11
+SP  - 2012
+DO  - 10.3390/app8112012
+UR  - https://doi.org/10.3390/app8112012
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L155
+TI  - Processing of RZ5-10wt%TiC in-situ magnesium matrix composite
+AU  - Mehra, Deepak
+AU  - Mahapatra, M.M.
+AU  - Harsha, S.P.
+PY  - 2018
+T2  - Journal of Magnesium and Alloys
+VL  - 6
+IS  - 1
+SP  - 100
+EP  - 105
+DO  - 10.1016/j.jma.2018.01.002
+UR  - https://doi.org/10.1016/j.jma.2018.01.002
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；TiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L156
+TI  - Synthesis and characterization of textured Ti2AlC reinforced magnesium composite
+AU  - Yu, Wenbo
+AU  - Zhao, Hongbin
+AU  - Wang, Xiaojun
+AU  - Wang, Lei
+AU  - Xiong, Shoumei
+AU  - Huang, Zhenying
+AU  - Li, Shibo
+AU  - Zhou, Yang
+AU  - Zhai, Hongxiang
+PY  - 2018
+T2  - Journal of Alloys and Compounds
+VL  - 730
+SP  - 191
+EP  - 195
+DO  - 10.1016/j.jallcom.2017.09.303
+UR  - https://doi.org/10.1016/j.jallcom.2017.09.303
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L157
+TI  - Dry sliding wear behavior of globular AZ91 magnesium alloy and AZ91/SiCp composites
+AU  - García-Rodríguez, S.
+AU  - Torres, B.
+AU  - Maroto, A.
+AU  - López, A.J.
+AU  - Otero, E.
+AU  - Rams, J.
+PY  - 2017
+T2  - Wear
+VL  - 390-391
+SP  - 1
+EP  - 10
+DO  - 10.1016/j.wear.2017.06.010
+UR  - https://doi.org/10.1016/j.wear.2017.06.010
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L158
+TI  - Effect of SiC particles and the particulate size on the hot deformation and processing map of AZ91 magnesium matrix composites
+AU  - Zhang, Li
+AU  - Wang, Qudong
+AU  - Liu, Guoping
+AU  - Guo, Wei
+AU  - Jiang, Haiyan
+AU  - Ding, Wenjiang
+PY  - 2017
+T2  - Materials Science and Engineering: A
+VL  - 707
+SP  - 315
+EP  - 324
+DO  - 10.1016/j.msea.2017.09.056
+UR  - https://doi.org/10.1016/j.msea.2017.09.056
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；AZ91；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L159
+TI  - Microstructure and mechanical properties of micro-SiCp particles reinforced magnesium matrix composites with semi-solid stir casting method
+AU  - Bhiftime, E. I.
+AU  - Belo, J. B.
+PY  - 2017
+T2  - AIP Conference Proceedings
+VL  - 1788
+SP  - 030039
+DO  - 10.1063/1.4968292
+UR  - https://doi.org/10.1063/1.4968292
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - CPAPER
+ID  - L160
+TI  - Study of Chip Morphology and Chip Formation Mechanism During Machining of Magnesium-Based Metal Matrix Composites
+AU  - Davis, Brian
+AU  - Dabrow, David
+AU  - Ju, Licheng
+AU  - Li, Anhai
+AU  - Xu, Chengying
+AU  - Huang, Yong
+PY  - 2017
+T2  - Volume 2: Additive Manufacturing; Materials
+SP  - V002T03A008
+DO  - 10.1115/msec2017-3052
+UR  - https://doi.org/10.1115/msec2017-3052
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L161
+TI  - Characteristics and mechanical properties of magnesium matrix composites reinforced with micron/submicron/nano SiC particles
+AU  - Shen, M.J.
+AU  - Wang, X.J.
+AU  - Ying, T.
+AU  - Wu, K.
+AU  - Song, W.J.
+PY  - 2016
+T2  - Journal of Alloys and Compounds
+VL  - 686
+SP  - 831
+EP  - 840
+DO  - 10.1016/j.jallcom.2016.06.232
+UR  - https://doi.org/10.1016/j.jallcom.2016.06.232
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L162
+TI  - Effect of Micro- and Nano-SiC Particulate Reinforcements in Magnesium-Based Metal Matrix Composites
+AU  - Shen, Ming-Jie
+AU  - Ying, Tao
+AU  - Chen, Fu-Yu
+AU  - Hou, Jun-Ming
+PY  - 2016
+T2  - Journal of Materials Engineering and Performance
+VL  - 25
+IS  - 6
+SP  - 2222
+EP  - 2229
+DO  - 10.1007/s11665-016-2068-6
+UR  - https://doi.org/10.1007/s11665-016-2068-6
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L163
+TI  - High temperature damping behavior controlled by submicron SiCp in bimodal size particle reinforced magnesium matrix composite
+AU  - Wang, Cui-ju
+AU  - Deng, Kun-kun
+AU  - Liang, Wei
+PY  - 2016
+T2  - Materials Science and Engineering: A
+VL  - 668
+SP  - 55
+EP  - 58
+DO  - 10.1016/j.msea.2016.05.055
+UR  - https://doi.org/10.1016/j.msea.2016.05.055
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L164
+TI  - Manufacturing and Properties of a Magnesium Interpenetrating Phase Composite
+AU  - Steinacher, Matej
+AU  - Žužek, Borut
+AU  - Jenko, Darja
+AU  - Mrvar, Primož
+AU  - Zupanič, Franc
+PY  - 2016
+T2  - Strojniški vestnik - Journal of Mechanical Engineering
+SP  - 79
+EP  - 85
+DO  - 10.5545/sv-jme.2015.2840
+UR  - https://doi.org/10.5545/sv-jme.2015.2840
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L165
+TI  - Shear compaction processing of SiC nanoparticles reinforced magnesium composites directly from magnesium chips
+AU  - Narvan, Morteza
+AU  - Abdi Behnagh, Reza
+AU  - Shen, Ninggang
+AU  - Besharati Givi, Mohammad Kazem
+AU  - Ding, Hongtao
+PY  - 2016
+T2  - Journal of Manufacturing Processes
+VL  - 22
+SP  - 39
+EP  - 48
+DO  - 10.1016/j.jmapro.2016.01.010
+UR  - https://doi.org/10.1016/j.jmapro.2016.01.010
+KW  - 陶瓷及其他增强镁基复合材料
+KW  - 镁基复合材料；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L166
+TI  - Additive manufacturing of structural magnesium alloys: Progress, challenges and prospects
+AU  - Deng, Qingchen
+AU  - Wang, Wencan
+AU  - Wu, Yujuan
+AU  - Wu, Qianye
+AU  - Li, Ziyan
+AU  - Chen, Juan
+AU  - Deng, Ze
+AU  - Wang, Fenghua
+AU  - Fu, Penghuai
+AU  - Peng, Liming
+PY  - 2026
+T2  - Journal of Magnesium and Alloys
+SP  - 102174
+DO  - 10.1016/j.jma.2026.102174
+UR  - https://doi.org/10.1016/j.jma.2026.102174
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L167
+TI  - Research Progress and the Prospect of Damping Magnesium Alloys
+AU  - Wang, Jinxing
+AU  - Zou, Yi
+AU  - Dang, Cong
+AU  - Wan, Zhicheng
+AU  - Wang, Jingfeng
+AU  - Pan, Fusheng
+PY  - 2024
+T2  - Materials
+VL  - 17
+IS  - 6
+SP  - 1285
+DO  - 10.3390/ma17061285
+UR  - https://doi.org/10.3390/ma17061285
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L168
+TI  - 镁合金选区激光熔化增材制造技术研究现状与展望
+AU  - 彭立明
+AU  - 邓庆琛
+AU  - 吴玉娟
+AU  - 付彭怀
+AU  - 刘子翼
+AU  - 武千业
+AU  - 陈凯
+AU  - 丁文江
+PY  - 2023
+T2  - 金属学报
+VL  - 59
+IS  - 1
+SP  - 31
+EP  - 54
+DO  - 10.11900/0412.1961.2022.00166
+UR  - https://doi.org/10.11900/0412.1961.2022.00166
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；期刊/机构原始页面题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L169
+TI  - Recent developments and applications on high-performance cast magnesium rare-earth alloys
+AU  - Wu, Guohua
+AU  - Wang, Cunlong
+AU  - Sun, Ming
+AU  - Ding, Wenjiang
+PY  - 2021
+T2  - Journal of Magnesium and Alloys
+VL  - 9
+IS  - 1
+SP  - 1
+EP  - 20
+DO  - 10.1016/j.jma.2020.06.021
+UR  - https://doi.org/10.1016/j.jma.2020.06.021
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L170
+TI  - Influence of rare earth-rich structures on the multi-properties of magnesium alloys: A review
+AU  - Wang, Ziqing
+AU  - Hu, Bo
+AU  - Jiang, Zhenfei
+AU  - Yan, Wenhao
+AU  - Sun, Xiaoyong
+AU  - Han, Jiaxuan
+AU  - Wang, Jinhui
+AU  - Mi, Guangbao
+AU  - Zeng, Xiaoqin
+AU  - Li, Dejiang
+PY  - 2026
+T2  - Journal of Magnesium and Alloys
+SP  - 102176
+DO  - 10.1016/j.jma.2026.102176
+UR  - https://doi.org/10.1016/j.jma.2026.102176
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L171
+TI  - Laser-arc coaxial hybrid additive manufacturing of fine-grained homogeneous AZ31 magnesium alloy
+AU  - Cai, Xuanyu
+AU  - Xu, Youwei
+AU  - Feng, Xudong
+AU  - Gu, Yufeng
+AU  - Zhang, Gang
+AU  - Li, Chunkai
+AU  - Meng, Shuaiju
+AU  - Shi, Yu
+AU  - Zhai, Yang
+PY  - 2026
+T2  - Journal of Manufacturing Processes
+VL  - 157
+SP  - 1193
+EP  - 1211
+DO  - 10.1016/j.jmapro.2025.12.013
+UR  - https://doi.org/10.1016/j.jmapro.2025.12.013
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L172
+TI  - Microstructure and mechanical properties of EZ30Z magnesium alloy block produced by arc additive manufacturing
+AU  - Ge, Haoling
+AU  - Zou, Wenbing
+AU  - Shen, Hongxian
+AU  - Shi, Shuxian
+AU  - Zhang, Lunyong
+AU  - Huang, Yongjiang
+AU  - Sun, Jianfei
+PY  - 2026
+T2  - Materials & Design
+VL  - 266
+SP  - 116209
+DO  - 10.1016/j.matdes.2026.116209
+UR  - https://doi.org/10.1016/j.matdes.2026.116209
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L173
+TI  - Pulse current induced damping enhancement in micron-submicron pure magnesium
+AU  - Su, Di
+AU  - Fan, Jianfeng
+AU  - Zhang, Qiang
+AU  - Wang, Binshan
+AU  - Huang, Weiping
+AU  - Dong, Hongbiao
+PY  - 2026
+T2  - Journal of Magnesium and Alloys
+VL  - 14
+SP  - 101846
+DO  - 10.1016/j.jma.2025.08.009
+UR  - https://doi.org/10.1016/j.jma.2025.08.009
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L174
+TI  - Recent progress in wire arc additive manufacturing of magnesium alloys
+AU  - Mou, Liming
+AU  - Chen, Hanxiao
+AU  - Li, Chuang
+AU  - Liang, Jianguo
+AU  - Xie, Huibo
+AU  - Guan, Kai
+PY  - 2026
+T2  - Journal of Magnesium and Alloys
+VL  - 19
+SP  - 102071
+DO  - 10.1016/j.jma.2026.102071
+UR  - https://doi.org/10.1016/j.jma.2026.102071
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L175
+TI  - Wire-based friction stir additive manufacturing of AZ31B magnesium alloy: Precipitate behavior and mechanical properties
+AU  - Sun, Xiuwen
+AU  - Xie, Yuming
+AU  - Meng, Xiangchen
+AU  - Zhang, Zeyu
+AU  - Tian, Huijia
+AU  - Dong, Wenjiang
+AU  - Dong, Jianing
+AU  - Ma, Xiaotian
+AU  - Wang, Naijie
+AU  - Huang, Yongxian
+PY  - 2026
+T2  - Journal of Magnesium and Alloys
+VL  - 15
+SP  - 101759
+DO  - 10.1016/j.jma.2025.04.025
+UR  - https://doi.org/10.1016/j.jma.2025.04.025
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31B
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L176
+TI  - A Critical Review on the Comparative Assessment of Rare-Earth and Non-Rare-Earth Alloying in Magnesium Alloys
+AU  - Tariq, Hafiz Muhammad Rehan
+AU  - Ishtiaq, Muhammad
+AU  - Kang, Hyun-Hak
+AU  - Chaudry, Umer Masood
+AU  - Jun, Tea-Sung
+PY  - 2025
+T2  - Metals
+VL  - 15
+IS  - 2
+SP  - 128
+DO  - 10.3390/met15020128
+UR  - https://doi.org/10.3390/met15020128
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L177
+TI  - A review on cyclic plasticity, damage, and fatigue failure of magnesium alloys
+AU  - Wang, Ziyi
+AU  - Xing, Zheyuan
+AU  - Lei, Yu
+AU  - Hu, Binghui
+AU  - Hu, Jiachen
+AU  - Li, Hang
+AU  - Feng, Xiqiao
+AU  - Kang, Guozheng
+PY  - 2025
+T2  - Journal of Materials Science & Technology
+VL  - 234
+SP  - 246
+EP  - 283
+DO  - 10.1016/j.jmst.2025.02.038
+UR  - https://doi.org/10.1016/j.jmst.2025.02.038
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L178
+TI  - Additive manufacturing high-strength and ultra-high-rare-earth magnesium alloys: Excellent long-time aging hardening and strengthening behavior
+AU  - Xu, Zhe
+AU  - Li, Zhuo
+AU  - Shen, Chunjie
+AU  - Zheng, Dongdong
+AU  - Tu, Yuxuan
+PY  - 2025
+T2  - Journal of Magnesium and Alloys
+VL  - 13
+IS  - 8
+SP  - 3829
+EP  - 3846
+DO  - 10.1016/j.jma.2025.04.007
+UR  - https://doi.org/10.1016/j.jma.2025.04.007
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L179
+TI  - High strength and ductility in a rare-earth free magnesium alloy processed by rotary swaging and flash annealing
+AU  - Fan, Yunhao
+AU  - Li, Yaofeng
+AU  - Guo, Hui
+AU  - Zhu, Gaoming
+AU  - Liu, Boyu
+AU  - Wang, Hao
+AU  - Zhou, Hao
+AU  - Xu, Yuling
+AU  - Zeng, Xiaoqin
+AU  - Wang, Leyun
+PY  - 2025
+T2  - Communications Materials
+VL  - 6
+IS  - 1
+SP  - 27
+DO  - 10.1038/s43246-025-00736-z
+UR  - https://doi.org/10.1038/s43246-025-00736-z
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L180
+TI  - Load direction and temperature impacts on cyclic creep behavior of laser-based powder bed fusion-produced WE43 magnesium alloy
+AU  - Koch, Alexander
+AU  - Stammkoetter, Sebastian
+AU  - Abel, Arvid
+AU  - Chehreh, Abootorab
+AU  - Hermsdorf, Joerg
+AU  - Kaierle, Stefan
+AU  - Walther, Frank
+PY  - 2025
+T2  - Additive Manufacturing Letters
+VL  - 15
+SP  - 100316
+DO  - 10.1016/j.addlet.2025.100316
+UR  - https://doi.org/10.1016/j.addlet.2025.100316
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；WE43
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L181
+TI  - Achieving high strength-ductility of AZ91 magnesium alloy via wire-arc directed energy deposition assisted by interlayer friction stir processing
+AU  - Wei, Jingxun
+AU  - He, Changshu
+AU  - Qie, Mofan
+AU  - Liu, Yunan
+AU  - Zhou, Hao
+AU  - Kang, Chenxi
+AU  - Qin, Gaowu
+PY  - 2024
+T2  - Additive Manufacturing
+VL  - 94
+SP  - 104453
+DO  - 10.1016/j.addma.2024.104453
+UR  - https://doi.org/10.1016/j.addma.2024.104453
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ91
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L182
+TI  - Achieving ultra-high strength and ductility in a rare-earth-free magnesium alloy via precisely controlled secondary hot extrusion process with an extremely low extrusion speed
+AU  - Gao, Wei
+AU  - Wang, Xin
+AU  - Lin, Yingjian
+AU  - Wang, Xiao
+AU  - Liu, Debao
+AU  - Sun, Xiaohao
+PY  - 2024
+T2  - Journal of Magnesium and Alloys
+VL  - 12
+IS  - 12
+SP  - 5216
+EP  - 5230
+DO  - 10.1016/j.jma.2024.07.015
+UR  - https://doi.org/10.1016/j.jma.2024.07.015
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L183
+TI  - Additive manufacturing of magnesium alloys: Characterization and post-processing
+AU  - Manjhi, Shambhu Kumar
+AU  - Sekar, Prithivirajan
+AU  - Bontha, Srikanth
+AU  - Balan, A.S.S.
+PY  - 2024
+T2  - International Journal of Lightweight Materials and Manufacture
+VL  - 7
+IS  - 1
+SP  - 184
+EP  - 213
+DO  - 10.1016/j.ijlmm.2023.06.004
+UR  - https://doi.org/10.1016/j.ijlmm.2023.06.004
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L184
+TI  - High elongation heterostructure rare earth magnesium alloy based on rotating backward extrusion process
+AU  - Liu, Ze
+AU  - Zheng, Jie
+AU  - Zhang, Zhimin
+AU  - Xue, Yong
+PY  - 2024
+T2  - Journal of Materials Research and Technology
+VL  - 30
+SP  - 6108
+EP  - 6122
+DO  - 10.1016/j.jmrt.2024.05.038
+UR  - https://doi.org/10.1016/j.jmrt.2024.05.038
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L185
+TI  - Mechanical and corrosion properties of full liquid phase sintered WE43 magnesium alloy specimens fabricated via binder jetting additive manufacturing
+AU  - Cho, Dae Hyun
+AU  - Dean, David
+AU  - Luo, Alan A.
+PY  - 2024
+T2  - Journal of Magnesium and Alloys
+VL  - 12
+IS  - 7
+SP  - 2711
+EP  - 2724
+DO  - 10.1016/j.jma.2024.06.023
+UR  - https://doi.org/10.1016/j.jma.2024.06.023
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；WE43
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L186
+TI  - Progress in Additive Manufacturing of Magnesium Alloys: A Review
+AU  - Chen, Jiayu
+AU  - Chen, Bin
+PY  - 2024
+T2  - Materials
+VL  - 17
+IS  - 15
+SP  - 3851
+DO  - 10.3390/ma17153851
+UR  - https://doi.org/10.3390/ma17153851
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L187
+TI  - Superstrengthening effect of beyond-solid-solution laser powder bed fused WE43 magnesium alloy triggered by direct aging treatment
+AU  - Chen, Wen
+AU  - Yin, Bangzhao
+AU  - Li, Kun
+AU  - Liao, Ruobing
+AU  - Li, Benxiang
+AU  - Huang, Huanjie
+AU  - Wu, Yingjie
+AU  - Wen, Peng
+AU  - Jiang, Bin
+AU  - Pan, Fusheng
+PY  - 2024
+T2  - Additive Manufacturing
+VL  - 89
+SP  - 104287
+DO  - 10.1016/j.addma.2024.104287
+UR  - https://doi.org/10.1016/j.addma.2024.104287
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；WE43
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L188
+TI  - Development and characteristics of a low rare-earth containing magnesium alloy with high strength-ductility synergy
+AU  - Yu, Zijian
+AU  - Xu, Xi
+AU  - Shi, Kang
+AU  - Du, Baotian
+AU  - Han, Xiuzhu
+AU  - Xiao, Tao
+AU  - Li, Shubo
+AU  - Liu, Ke
+AU  - Du, Wenbo
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 5
+SP  - 1629
+EP  - 1642
+DO  - 10.1016/j.jma.2022.01.005
+UR  - https://doi.org/10.1016/j.jma.2022.01.005
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L189
+TI  - Development of low rare-earth containing magnesium alloy with high strength-ductility synergy by engineering nano-spaced lamellae
+AU  - Zhang, Deping
+AU  - Li, Boqiong
+AU  - Du, Chao
+AU  - Wen, Kai
+AU  - Niu, Ting
+AU  - Li, Tong
+AU  - Li, Zeming
+AU  - Zhang, Jinhui
+PY  - 2023
+T2  - Journal of Materials Research and Technology
+VL  - 27
+SP  - 7233
+EP  - 7243
+DO  - 10.1016/j.jmrt.2023.11.181
+UR  - https://doi.org/10.1016/j.jmrt.2023.11.181
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L190
+TI  - Effect of texture on damping behaviour in ZK60 magnesium alloy
+AU  - Zhou, Xiongpeng
+AU  - Yan, Hongge
+AU  - Chen, Jihua
+AU  - Xia, Weijun
+AU  - Zhu, Huaming
+AU  - Su, Bin
+AU  - Song, Min
+PY  - 2023
+T2  - Materials Science and Technology
+VL  - 39
+IS  - 8
+SP  - 964
+EP  - 971
+DO  - 10.1080/02670836.2022.2153406
+UR  - https://doi.org/10.1080/02670836.2022.2153406
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；ZK60
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L191
+TI  - Enhanced strength of WE43 magnesium-rare earth alloy via combining extrusion and aging
+AU  - Zhang, Junlei
+AU  - Han, Shengjie
+AU  - Sun, Yuhong
+AU  - Chen, Xiang
+AU  - Chen, Peng
+AU  - Li, Zulai
+AU  - Huang, Guangsheng
+AU  - Pan, Fusheng
+PY  - 2023
+T2  - Materials Science and Engineering: A
+VL  - 880
+SP  - 145329
+DO  - 10.1016/j.msea.2023.145329
+UR  - https://doi.org/10.1016/j.msea.2023.145329
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；WE43
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L192
+TI  - Fatigue crack propagation in fine-grained magnesium under low temperature tension-tension cyclic loading
+AU  - Li, Qizhen
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 12
+SP  - 4420
+EP  - 4430
+DO  - 10.1016/j.jma.2023.03.010
+UR  - https://doi.org/10.1016/j.jma.2023.03.010
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L193
+TI  - Improved damping behavior of squeeze-cast AZ91-Ca-Sb magnesium alloy with nano-SiC particles additions
+AU  - Ganguly, Sourav
+AU  - Mondal, A.K.
+PY  - 2023
+T2  - Materials Today Communications
+VL  - 37
+SP  - 106904
+DO  - 10.1016/j.mtcomm.2023.106904
+UR  - https://doi.org/10.1016/j.mtcomm.2023.106904
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ91；SiC
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L194
+TI  - Microstructure and mechanical properties of AZ31 magnesium alloy prepared using wire arc additive manufacturing
+AU  - Wang, Jie
+AU  - Zhao, Zhanyong
+AU  - Bai, Peikang
+AU  - Zhang, Ruize
+AU  - Zhang, Zhen
+AU  - Wang, Liqing
+AU  - Du, Wenbo
+AU  - Wang, Fude
+AU  - Huang, Zhiquan
+PY  - 2023
+T2  - Journal of Alloys and Compounds
+VL  - 939
+SP  - 168665
+DO  - 10.1016/j.jallcom.2022.168665
+UR  - https://doi.org/10.1016/j.jallcom.2022.168665
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L195
+TI  - Oscillating Laser-Arc Hybrid Additive Manufacturing of AZ31 Magnesium Alloy
+AU  - Gao, Ming
+AU  - Cen, Ling
+AU  - Jiang, Laihege
+AU  - Zhao, Suning
+AU  - Gong, Mengcheng
+PY  - 2023
+T2  - Applied Sciences
+VL  - 13
+IS  - 2
+SP  - 897
+DO  - 10.3390/app13020897
+UR  - https://doi.org/10.3390/app13020897
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L196
+TI  - Processing, microstructure, and mechanical behavior of AZ31 magnesium alloy fabricated by electron beam additive manufacturing
+AU  - Zhang, Xuanchang
+AU  - Shi, Hailong
+AU  - Wang, Xiaojun
+AU  - Zhang, Shuai
+AU  - Luan, Peng
+AU  - Hu, Xiaoshi
+AU  - Xu, Chao
+PY  - 2023
+T2  - Journal of Alloys and Compounds
+VL  - 938
+SP  - 168567
+DO  - 10.1016/j.jallcom.2022.168567
+UR  - https://doi.org/10.1016/j.jallcom.2022.168567
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L197
+TI  - Recent advances on grain refinement of magnesium rare-earth alloys during the whole casting processes: A review
+AU  - Wu, Guohua
+AU  - Tong, Xin
+AU  - Wang, Cunlong
+AU  - Jiang, Rui
+AU  - Ding, Wenjiang
+PY  - 2023
+T2  - Journal of Magnesium and Alloys
+VL  - 11
+IS  - 10
+SP  - 3463
+EP  - 3483
+DO  - 10.1016/j.jma.2023.09.029
+UR  - https://doi.org/10.1016/j.jma.2023.09.029
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L198
+TI  - Research Progress on the Damping Mechanism of Magnesium Alloys
+AU  - Wang, Jinxing
+AU  - Wan, Zhicheng
+AU  - Dang, Cong
+AU  - Zou, Yi
+AU  - Wang, Jingfeng
+AU  - Pan, Fusheng
+PY  - 2023
+T2  - Materials
+VL  - 16
+IS  - 23
+SP  - 7318
+DO  - 10.3390/ma16237318
+UR  - https://doi.org/10.3390/ma16237318
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L199
+TI  - Additive friction stir deposition of AZ31B magnesium alloy
+AU  - Joshi, Sameehan S.
+AU  - Patil, Shreyash M.
+AU  - Mazumder, Sangram
+AU  - Sharma, Shashank
+AU  - Riley, Daniel A.
+AU  - Dowden, Shelden
+AU  - Banerjee, Rajarshi
+AU  - Dahotre, Narendra B.
+PY  - 2022
+T2  - Journal of Magnesium and Alloys
+VL  - 10
+IS  - 9
+SP  - 2404
+EP  - 2420
+DO  - 10.1016/j.jma.2022.03.011
+UR  - https://doi.org/10.1016/j.jma.2022.03.011
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31B
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L200
+TI  - Rare Earth Based Magnesium Alloys—A Review on WE Series
+AU  - Calado, Lénia M.
+AU  - Carmezim, Maria J.
+AU  - Montemor, M. Fátima
+PY  - 2022
+T2  - Frontiers in Materials
+VL  - 8
+SP  - 804906
+DO  - 10.3389/fmats.2021.804906
+UR  - https://doi.org/10.3389/fmats.2021.804906
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L201
+TI  - Recent progress and perspectives in additive manufacturing of magnesium alloys
+AU  - Zeng, Zhuoran
+AU  - Salehi, Mojtaba
+AU  - Kopp, Alexander
+AU  - Xu, Shiwei
+AU  - Esmaily, Marco
+AU  - Birbilis, Nick
+PY  - 2022
+T2  - Journal of Magnesium and Alloys
+VL  - 10
+IS  - 6
+SP  - 1511
+EP  - 1541
+DO  - 10.1016/j.jma.2022.03.001
+UR  - https://doi.org/10.1016/j.jma.2022.03.001
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L202
+TI  - Achieving extraordinary structural efficiency in a wrought magnesium rare earth alloy
+AU  - Panigrahi, S. K.
+AU  - Mishra, R. S.
+AU  - Brennan, R. C.
+AU  - Cho, K.
+PY  - 2020
+T2  - Materials Research Letters
+VL  - 8
+IS  - 4
+SP  - 151
+EP  - 157
+DO  - 10.1080/21663831.2020.1719227
+UR  - https://doi.org/10.1080/21663831.2020.1719227
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L203
+TI  - Additive manufacturing of magnesium alloys
+AU  - Karunakaran, Rakeshkumar
+AU  - Ortgies, Sam
+AU  - Tamayol, Ali
+AU  - Bobaru, Florin
+AU  - Sealy, Michael P.
+PY  - 2020
+T2  - Bioactive Materials
+VL  - 5
+IS  - 1
+SP  - 44
+EP  - 54
+DO  - 10.1016/j.bioactmat.2019.12.004
+UR  - https://doi.org/10.1016/j.bioactmat.2019.12.004
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L204
+TI  - Characterizing microscale deformation mechanisms and macroscopic tensile properties of a high strength magnesium rare-earth alloy: A combined experimental and crystal plasticity approach
+AU  - Githens, A.
+AU  - Ganesan, S.
+AU  - Chen, Z.
+AU  - Allison, J.
+AU  - Sundararaghavan, V.
+AU  - Daly, S.
+PY  - 2020
+T2  - Acta Materialia
+VL  - 186
+SP  - 77
+EP  - 94
+DO  - 10.1016/j.actamat.2019.12.012
+UR  - https://doi.org/10.1016/j.actamat.2019.12.012
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L205
+TI  - Cyclic shear deformation and fatigue of extruded Mg-Gd-Y magnesium alloy
+AU  - Wang, Fenghua
+AU  - Feng, Miaolin
+AU  - Jiang, Yanyao
+AU  - Dong, Jie
+AU  - Zhang, Zhenyan
+PY  - 2020
+T2  - Journal of Materials Science & Technology
+VL  - 39
+SP  - 74
+EP  - 81
+DO  - 10.1016/j.jmst.2019.08.025
+UR  - https://doi.org/10.1016/j.jmst.2019.08.025
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L206
+TI  - Development of a High Strength Magnesium Alloy for Wire Arc Additive Manufacturing
+AU  - Gneiger, Stefan
+AU  - Österreicher, Johannes A.
+AU  - Arnoldt, Aurel R.
+AU  - Birgmann, Alois
+AU  - Fehlbier, Martin
+PY  - 2020
+T2  - Metals
+VL  - 10
+IS  - 6
+SP  - 778
+DO  - 10.3390/met10060778
+UR  - https://doi.org/10.3390/met10060778
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L207
+TI  - Fatigue Properties of AZ31 and WE43 Magnesium Alloys
+AU  - Junak, G.
+PY  - 2020
+T2  - Archives of Metallurgy and Materials
+SP  - 721
+EP  - 726
+DO  - 10.24425/amm.2020.132811
+UR  - https://doi.org/10.24425/amm.2020.132811
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31；WE43
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L208
+TI  - Thermographic Study of AZ31B Magnesium Alloy under Cyclic Loading: Temperature Evolution Analysis and Fatigue Limit Estimation
+AU  - Guo, Shaofei
+AU  - Liu, Xuesong
+AU  - Zhang, Hongxia
+AU  - Yan, Zhifeng
+AU  - Zhang, Zhongdian
+AU  - Fang, Hongyuan
+PY  - 2020
+T2  - Materials
+VL  - 13
+IS  - 22
+SP  - 5209
+DO  - 10.3390/ma13225209
+UR  - https://doi.org/10.3390/ma13225209
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31B
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L209
+TI  - A high-strength low-rare-earth-alloyed magnesium alloy via traditional hot-extrusion
+AU  - Zhang, Dongdong
+AU  - Yang, Qiang
+AU  - Guan, Kai
+AU  - Li, Baishun
+AU  - Wang, Nan
+AU  - Qin, Pengfei
+AU  - Jiang, Bo
+AU  - Sun, Chi
+AU  - Qin, Xin
+AU  - Tian, Zheng
+AU  - Cao, Zhanyi
+AU  - Meng, Jian
+PY  - 2019
+T2  - Journal of Alloys and Compounds
+VL  - 810
+SP  - 151967
+DO  - 10.1016/j.jallcom.2019.151967
+UR  - https://doi.org/10.1016/j.jallcom.2019.151967
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L210
+TI  - Effect of hot working and aging heat treatments on monotonic, cyclic, and fatigue behavior of WE43 magnesium alloy
+AU  - Ghorbanpour, Saeede
+AU  - McWilliams, Brandon A.
+AU  - Knezevic, Marko
+PY  - 2019
+T2  - Materials Science and Engineering: A
+VL  - 747
+SP  - 27
+EP  - 41
+DO  - 10.1016/j.msea.2019.01.056
+UR  - https://doi.org/10.1016/j.msea.2019.01.056
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；WE43
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L211
+TI  - Multiaxial fatigue of extruded ZK60 magnesium alloy
+AU  - Albinmousa, Jafar
+AU  - Adinoyi, Muhammed J.
+AU  - Merah, Nesar
+PY  - 2019
+T2  - Fatigue & Fracture of Engineering Materials & Structures
+VL  - 42
+IS  - 10
+SP  - 2276
+EP  - 2289
+DO  - 10.1111/ffe.13048
+UR  - https://doi.org/10.1111/ffe.13048
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；ZK60
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L212
+TI  - Quantification of cyclic twinning-detwinning behavior during low-cycle fatigue of pure magnesium using high energy X-ray diffraction
+AU  - Murphy-Leonard, Aeriel D.
+AU  - Pagan, Darren C.
+AU  - Beaudoin, Armand
+AU  - Miller, Matthew P.
+AU  - Allison, John E.
+PY  - 2019
+T2  - International Journal of Fatigue
+VL  - 125
+SP  - 314
+EP  - 323
+DO  - 10.1016/j.ijfatigue.2019.04.011
+UR  - https://doi.org/10.1016/j.ijfatigue.2019.04.011
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L213
+TI  - Designing a magnesium alloy with high strength and high formability
+AU  - Trang, T. T. T.
+AU  - Zhang, J. H.
+AU  - Kim, J. H.
+AU  - Zargaran, A.
+AU  - Hwang, J. H.
+AU  - Suh, B.-C.
+AU  - Kim, N. J.
+PY  - 2018
+T2  - Nature Communications
+VL  - 9
+IS  - 1
+SP  - 2522
+DO  - 10.1038/s41467-018-04981-4
+UR  - https://doi.org/10.1038/s41467-018-04981-4
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L214
+TI  - Development of low-alloyed and rare-earth-free magnesium alloys having ultra-high strength
+AU  - Pan, Hucheng
+AU  - Qin, Gaowu
+AU  - Huang, Yunmiao
+AU  - Ren, Yuping
+AU  - Sha, Xuechao
+AU  - Han, Xiaodong
+AU  - Liu, Zhi-Quan
+AU  - Li, Caifu
+AU  - Wu, Xiaolei
+AU  - Chen, Houwen
+AU  - He, Cong
+AU  - Chai, Linjiang
+AU  - Wang, Yunzhi
+AU  - Nie, Jian-feng
+PY  - 2018
+T2  - Acta Materialia
+VL  - 149
+SP  - 350
+EP  - 363
+DO  - 10.1016/j.actamat.2018.03.002
+UR  - https://doi.org/10.1016/j.actamat.2018.03.002
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L215
+TI  - The contribution of long-period stacking-ordered structure (LPSO) to high strength-high ductility combination and nanoscale deformation behavior of magnesium-rare earth alloy
+AU  - Li, K.
+AU  - Injeti, V.S.Y.
+AU  - Misra, R.D.K.
+AU  - Meng, L.G.
+AU  - Zhang, X.G.
+PY  - 2018
+T2  - Materials Science and Engineering: A
+VL  - 713
+SP  - 112
+EP  - 117
+DO  - 10.1016/j.msea.2017.12.056
+UR  - https://doi.org/10.1016/j.msea.2017.12.056
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L216
+TI  - A rare-earth free magnesium alloy with improved intrinsic ductility
+AU  - Sandlöbes, S.
+AU  - Friák, M.
+AU  - Korte-Kerzel, S.
+AU  - Pei, Z.
+AU  - Neugebauer, J.
+AU  - Raabe, D.
+PY  - 2017
+T2  - Scientific Reports
+VL  - 7
+IS  - 1
+SP  - 10458
+DO  - 10.1038/s41598-017-10384-0
+UR  - https://doi.org/10.1038/s41598-017-10384-0
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L217
+TI  - Characteristic cyclic plastic deformation in ZK60 magnesium alloy
+AU  - Dong, Shuai
+AU  - Yu, Qin
+AU  - Jiang, Yanyao
+AU  - Dong, Jie
+AU  - Wang, Fenghua
+AU  - Jin, Li
+AU  - Ding, Wenjiang
+PY  - 2017
+T2  - International Journal of Plasticity
+VL  - 91
+SP  - 25
+EP  - 47
+DO  - 10.1016/j.ijplas.2017.01.005
+UR  - https://doi.org/10.1016/j.ijplas.2017.01.005
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；ZK60
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L218
+TI  - Fatigue characteristics of sand-cast AZ91D magnesium alloy
+AU  - Li, Zhenming
+AU  - Luo, Alan A.
+AU  - Wang, Qigui
+AU  - Zou, Hui
+AU  - Dai, Jichun
+AU  - Peng, Liming
+PY  - 2017
+T2  - Journal of Magnesium and Alloys
+VL  - 5
+IS  - 1
+SP  - 1
+EP  - 12
+DO  - 10.1016/j.jma.2017.03.001
+UR  - https://doi.org/10.1016/j.jma.2017.03.001
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ91D
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L219
+TI  - Modeling damage accumulation to fracture in a magnesium-rare earth alloy
+AU  - Kondori, B.
+AU  - Benzerga, A.A.
+PY  - 2017
+T2  - Acta Materialia
+VL  - 124
+SP  - 225
+EP  - 236
+DO  - 10.1016/j.actamat.2016.10.074
+UR  - https://doi.org/10.1016/j.actamat.2016.10.074
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L220
+TI  - Cyclic deformation and fatigue of extruded AZ31B magnesium alloy under different strain ratios
+AU  - Xiong, Ying
+AU  - Yu, Qin
+AU  - Jiang, Yanyao
+PY  - 2016
+T2  - Materials Science and Engineering: A
+VL  - 649
+SP  - 93
+EP  - 103
+DO  - 10.1016/j.msea.2015.09.084
+UR  - https://doi.org/10.1016/j.msea.2015.09.084
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31B
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L221
+TI  - Cyclic deformation and fatigue of rolled AZ80 magnesium alloy along different material orientations
+AU  - Xiong, Ying
+AU  - Jiang, Yanyao
+PY  - 2016
+T2  - Materials Science and Engineering: A
+VL  - 677
+SP  - 58
+EP  - 67
+DO  - 10.1016/j.msea.2016.09.031
+UR  - https://doi.org/10.1016/j.msea.2016.09.031
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ80
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L222
+TI  - Damping behavior and energy absorption capability of porous magnesium
+AU  - Li, Qiuyan
+AU  - Jiang, Guofeng
+AU  - Dong, Jie
+AU  - Hou, Jingwen
+AU  - He, Guo
+PY  - 2016
+T2  - Journal of Alloys and Compounds
+VL  - 680
+SP  - 522
+EP  - 530
+DO  - 10.1016/j.jallcom.2016.04.101
+UR  - https://doi.org/10.1016/j.jallcom.2016.04.101
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L223
+TI  - Recent developments in rare-earth free wrought magnesium alloys having high strength: A review
+AU  - Pan, Hucheng
+AU  - Ren, Yuping
+AU  - Fu, He
+AU  - Zhao, Hong
+AU  - Wang, Liqing
+AU  - Meng, Xiangying
+AU  - Qin, Gaowu
+PY  - 2016
+T2  - Journal of Alloys and Compounds
+VL  - 663
+SP  - 321
+EP  - 331
+DO  - 10.1016/j.jallcom.2015.12.057
+UR  - https://doi.org/10.1016/j.jallcom.2015.12.057
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L224
+TI  - Selective Laser Melting of Magnesium and Magnesium Alloy Powders: A Review
+AU  - Manakari, Vyasaraj
+AU  - Parande, Gururaj
+AU  - Gupta, Manoj
+PY  - 2016
+T2  - Metals
+VL  - 7
+IS  - 1
+SP  - 2
+DO  - 10.3390/met7010002
+UR  - https://doi.org/10.3390/met7010002
+KW  - 镁合金强韧化与制造
+KW  - 镁合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L225
+TI  - Wire Arc Additive Manufacturing of AZ31 Magnesium Alloy: Grain Refinement by Adjusting Pulse Frequency
+AU  - Guo, Jing
+AU  - Zhou, Yong
+AU  - Liu, Changmeng
+AU  - Wu, Qianru
+AU  - Chen, Xianping
+AU  - Lu, Jiping
+PY  - 2016
+T2  - Materials
+VL  - 9
+IS  - 10
+SP  - 823
+DO  - 10.3390/ma9100823
+UR  - https://doi.org/10.3390/ma9100823
+KW  - 镁合金强韧化与制造
+KW  - 镁合金；AZ31
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L226
+TI  - 3D printing of high-strength aluminium alloys
+AU  - Martin, John H.
+AU  - Yahata, Brennan D.
+AU  - Hundley, Jacob M.
+AU  - Mayer, Justin A.
+AU  - Schaedler, Tobias A.
+AU  - Pollock, Tresa M.
+PY  - 2017
+T2  - Nature
+VL  - 549
+IS  - 7672
+SP  - 365
+EP  - 369
+DO  - 10.1038/nature23894
+UR  - https://doi.org/10.1038/nature23894
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L227
+TI  - Microstructure and mechanical properties of as-processed scandium-modified aluminium using selective laser melting
+AU  - Spierings, Adriaan B.
+AU  - Dawson, Karl
+AU  - Voegtlin, Mark
+AU  - Palm, Frank
+AU  - Uggowitzer, Peter J.
+PY  - 2016
+T2  - CIRP Annals
+VL  - 65
+IS  - 1
+SP  - 213
+EP  - 216
+DO  - 10.1016/j.cirp.2016.04.057
+UR  - https://doi.org/10.1016/j.cirp.2016.04.057
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L228
+TI  - High cycle fatigue behaviour of AlSi10Mg alloy processed by selective laser melting technique
+AU  - Vanitha, C.
+AU  - Bansod, Pankaj
+AU  - Srinivasa Rao, Bonta
+AU  - Narasaiah, N.
+AU  - Pazhanivel, B.
+AU  - Patanayak, Deepak K
+PY  - 2025
+T2  - Advances in Materials and Processing Technologies
+VL  - 11
+IS  - 1
+SP  - 544
+EP  - 557
+DO  - 10.1080/2374068x.2024.2307252
+UR  - https://doi.org/10.1080/2374068x.2024.2307252
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；AlSi10Mg
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L229
+TI  - Manufacturing and Mechanical Behaviour of Scalmalloy® Lattice Structures: Experimental Validation and Model
+AU  - Lagalante, Ilaria
+AU  - Manfredi, Diego
+AU  - Balestrieri, Sergio
+AU  - Mocella, Vito
+AU  - El Hassanin, Andrea
+AU  - Coppola, Giuseppe
+AU  - Lombardi, Mariangela
+AU  - Fino, Paolo
+PY  - 2025
+T2  - Materials
+VL  - 18
+IS  - 15
+SP  - 3479
+DO  - 10.3390/ma18153479
+UR  - https://doi.org/10.3390/ma18153479
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L230
+TI  - Microstructure and mechanical properties of Ti modified 7075 aluminum alloy fabricated by selective laser melting
+AU  - Huang, Weidong
+AU  - Cheng, Xuheng
+AU  - Huang, Xu
+AU  - Qin, Shuaishuai
+AU  - Huang, Lihong
+AU  - Lin, Yiwei
+AU  - Chen, Guanyu
+PY  - 2024
+T2  - Materials Today Communications
+VL  - 39
+SP  - 109079
+DO  - 10.1016/j.mtcomm.2024.109079
+UR  - https://doi.org/10.1016/j.mtcomm.2024.109079
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；7075
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L231
+TI  - Microstructures and mechanical properties of friction stir welded additively manufactured Scalmalloy®
+AU  - Mirandola, Pietro
+AU  - Novel, David
+AU  - Perini, Matteo
+AU  - Benedetti, Matteo
+AU  - Lombardi, Franco
+AU  - Lunetto, Vincenzo
+AU  - Spena, Pasquale Russo
+PY  - 2024
+T2  - The International Journal of Advanced Manufacturing Technology
+VL  - 134
+IS  - 3-4
+SP  - 1645
+EP  - 1660
+DO  - 10.1007/s00170-024-14237-9
+UR  - https://doi.org/10.1007/s00170-024-14237-9
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L232
+TI  - Fatigue and Fracture Behavior of AlSi10Mg Manufactured by Selective Laser Melting: A Review
+AU  - Jiang, Z.
+AU  - Sun, J.
+AU  - Berto, F.
+AU  - Wang, X.
+AU  - Qian, G.
+PY  - 2023
+T2  - Physical Mesomechanics
+VL  - 26
+IS  - 4
+SP  - 367
+EP  - 390
+DO  - 10.1134/s102995992304001x
+UR  - https://doi.org/10.1134/s102995992304001x
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；AlSi10Mg
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L233
+TI  - Machine learning based very-high-cycle fatigue life prediction of AlSi10Mg alloy fabricated by selective laser melting
+AU  - Shi, Tao
+AU  - Sun, Jingyu
+AU  - Li, Jianghua
+AU  - Qian, Guian
+AU  - Hong, Youshi
+PY  - 2023
+T2  - International Journal of Fatigue
+VL  - 171
+SP  - 107585
+DO  - 10.1016/j.ijfatigue.2023.107585
+UR  - https://doi.org/10.1016/j.ijfatigue.2023.107585
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；AlSi10Mg
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L234
+TI  - Numerical simulation and experimental study of the 7075 aluminum alloy during selective laser melting
+AU  - Zhao, Zhanyong
+AU  - Wang, Jianbin
+AU  - Du, Wenbo
+AU  - Bai, Peikang
+AU  - Wu, Xiayu
+PY  - 2023
+T2  - Optics & Laser Technology
+VL  - 167
+SP  - 109814
+DO  - 10.1016/j.optlastec.2023.109814
+UR  - https://doi.org/10.1016/j.optlastec.2023.109814
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；7075
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L235
+TI  - Observations on comparable aluminium alloy crack growth curves: Additively manufactured Scalmalloy® as an alternative to AA5754 and AA6061-T6 alloys?
+AU  - Jones, Rhys
+AU  - Cizek, Jan
+AU  - Kovarik, Ondrej
+AU  - Ang, Andrew
+AU  - Champagne, Victor
+PY  - 2022
+T2  - Additive Manufacturing Letters
+VL  - 2
+SP  - 100026
+DO  - 10.1016/j.addlet.2022.100026
+UR  - https://doi.org/10.1016/j.addlet.2022.100026
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L236
+TI  - Selective laser melting of 7075 aluminum alloy inoculated by Al–Ti–B: Grain refinement and superior mechanical properties
+AU  - Huang, Bin
+AU  - Liu, Yunzhong
+AU  - Zhou, Zhiguang
+AU  - Cheng, Wen
+AU  - Liu, Xiaohui
+PY  - 2022
+T2  - Vacuum
+VL  - 200
+SP  - 111030
+DO  - 10.1016/j.vacuum.2022.111030
+UR  - https://doi.org/10.1016/j.vacuum.2022.111030
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；7075
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L237
+TI  - Wire Oscillating Laser Additive Manufacturing of 2319 Aluminum Alloy: Optimization of Process Parameters, Microstructure, and Mechanical Properties
+AU  - Cui, Xujian
+AU  - Qi, Enyu
+AU  - Sun, Zhonggang
+AU  - Jia, Chuanbao
+AU  - Zeng, Yong
+AU  - Wu, Shikai
+PY  - 2022
+T2  - Chinese Journal of Mechanical Engineering: Additive Manufacturing Frontiers
+VL  - 1
+IS  - 3
+SP  - 100035
+DO  - 10.1016/j.cjmeam.2022.100035
+UR  - https://doi.org/10.1016/j.cjmeam.2022.100035
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L238
+TI  - Deformation-based additive manufacturing of 7075 aluminum with wrought-like mechanical properties
+AU  - Yoder, Jake K.
+AU  - Griffiths, R. Joey
+AU  - Yu, Hang Z.
+PY  - 2021
+T2  - Materials & Design
+VL  - 198
+SP  - 109288
+DO  - 10.1016/j.matdes.2020.109288
+UR  - https://doi.org/10.1016/j.matdes.2020.109288
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；7075
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L239
+TI  - Describing crack growth in additively manufactured Scalmalloy
+AU  - Jones, Rhys
+AU  - Cizek, Jan
+AU  - Kovarik, Ondrej
+AU  - Lang, Jeff
+AU  - Ang, Andrew
+AU  - Michopoulos, John G.
+PY  - 2021
+T2  - Additive Manufacturing Letters
+VL  - 1
+SP  - 100020
+DO  - 10.1016/j.addlet.2021.100020
+UR  - https://doi.org/10.1016/j.addlet.2021.100020
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L240
+TI  - Microstructure Evolution and Mechanical Property Response of 3D-Printed Scalmalloy with Different Heat-Treatment Times at 325 °C
+AU  - Kuo, C. N.
+AU  - Peng, P. C.
+AU  - Liu, D. H.
+AU  - Chao, C. Y.
+PY  - 2021
+T2  - Metals
+VL  - 11
+IS  - 4
+SP  - 555
+DO  - 10.3390/met11040555
+UR  - https://doi.org/10.3390/met11040555
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L241
+TI  - Strain Rate Sensitivity of the Additive Manufacturing Material Scalmalloy®
+AU  - Jakkula, P.
+AU  - Ganzenmüller, G.
+AU  - Gutmann, F.
+AU  - Pfaff, A.
+AU  - Mermagen, J.
+AU  - Hiermaier, S.
+PY  - 2021
+T2  - Journal of Dynamic Behavior of Materials
+VL  - 7
+IS  - 4
+SP  - 518
+EP  - 525
+DO  - 10.1007/s40870-021-00298-4
+UR  - https://doi.org/10.1007/s40870-021-00298-4
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L242
+TI  - A review of particulate-reinforced aluminum matrix composites fabricated by selective laser melting
+AU  - WANG, Pei
+AU  - ECKERT, Jürgen
+AU  - PRASHANTH, Konda-gokuldoss
+AU  - WU, Ming-wei
+AU  - KABAN, Ivan
+AU  - XI, Li-xia
+AU  - SCUDINO, Sergio
+PY  - 2020
+T2  - Transactions of Nonferrous Metals Society of China
+VL  - 30
+IS  - 8
+SP  - 2001
+EP  - 2034
+DO  - 10.1016/s1003-6326(20)65357-2
+UR  - https://doi.org/10.1016/s1003-6326(20)65357-2
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L243
+TI  - Development of light weight high strength aluminum alloy for selective laser melting
+AU  - Qbau, N.
+AU  - Nam, N.D.
+AU  - Hien, N.T.
+AU  - Ca, N.X.
+PY  - 2020
+T2  - Journal of Materials Research and Technology
+VL  - 9
+IS  - 6
+SP  - 14075
+EP  - 14081
+DO  - 10.1016/j.jmrt.2020.09.088
+UR  - https://doi.org/10.1016/j.jmrt.2020.09.088
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L244
+TI  - Effect of hot isostatic pressing on the critical defect size distribution in AlSi7Mg0.6 alloy obtained by selective laser melting
+AU  - Bonneric, Matthieu
+AU  - Brugger, Charles
+AU  - Saintier, Nicolas
+PY  - 2020
+T2  - International Journal of Fatigue
+VL  - 140
+SP  - 105797
+DO  - 10.1016/j.ijfatigue.2020.105797
+UR  - https://doi.org/10.1016/j.ijfatigue.2020.105797
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L245
+TI  - High cycle fatigue performance of AlSi10mg alloy produced by selective laser melting
+AU  - Xu, Z.W.
+AU  - Wang, Q.
+AU  - Wang, X.S.
+AU  - Tan, C.H.
+AU  - Guo, M.H.
+AU  - Gao, P.B.
+PY  - 2020
+T2  - Mechanics of Materials
+VL  - 148
+SP  - 103499
+DO  - 10.1016/j.mechmat.2020.103499
+UR  - https://doi.org/10.1016/j.mechmat.2020.103499
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；AlSi10Mg
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L246
+TI  - Manipulating the microstructure and tensile properties of selective laser melted Al–Mg-Sc-Zr alloy through heat treatment
+AU  - Ma, Rulong
+AU  - Peng, Chaoqun
+AU  - Cai, Zhiyong
+AU  - Wang, Richu
+AU  - Zhou, Zhaohui
+AU  - Li, Xiaogeng
+AU  - Cao, Xuanyang
+PY  - 2020
+T2  - Journal of Alloys and Compounds
+VL  - 831
+SP  - 154773
+DO  - 10.1016/j.jallcom.2020.154773
+UR  - https://doi.org/10.1016/j.jallcom.2020.154773
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L247
+TI  - Selective Laser Melting of Aluminum and Its Alloys
+AU  - Wang, Zhi
+AU  - Ummethala, Raghunandan
+AU  - Singh, Neera
+AU  - Tang, Shengyang
+AU  - Suryanarayana, Challapalli
+AU  - Eckert, Jürgen
+AU  - Prashanth, Konda Gokuldoss
+PY  - 2020
+T2  - Materials
+VL  - 13
+IS  - 20
+SP  - 4564
+DO  - 10.3390/ma13204564
+UR  - https://doi.org/10.3390/ma13204564
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L248
+TI  - Fatigue Strength of an AlSi10Mg Alloy Fabricated by Selective Laser Melting
+AU  - Gerov, M. V.
+AU  - Vladislavskaya, E. Yu.
+AU  - Terent’ev, V. F.
+AU  - Prosvirnin, D. V.
+AU  - Antonova, O. S.
+AU  - Kolmakov, A. G.
+PY  - 2019
+T2  - Russian Metallurgy (Metally)
+VL  - 2019
+IS  - 4
+SP  - 392
+EP  - 397
+DO  - 10.1134/s0036029519040098
+UR  - https://doi.org/10.1134/s0036029519040098
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；AlSi10Mg
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L249
+TI  - Microstructure, mechanical properties and strengthening mechanisms of AlCu5MnCdVA aluminum alloy fabricated by selective laser melting
+AU  - Hu, Zhiheng
+AU  - Zhang, Hu
+AU  - Zhu, Haihong
+AU  - Xiao, Zhongxu
+AU  - Nie, Xiaojia
+AU  - Zeng, Xiaoyan
+PY  - 2019
+T2  - Materials Science and Engineering: A
+VL  - 759
+SP  - 154
+EP  - 166
+DO  - 10.1016/j.msea.2019.04.114
+UR  - https://doi.org/10.1016/j.msea.2019.04.114
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L250
+TI  - Influence of SLM scan-speed on microstructure, precipitation of Al3Sc particles and mechanical properties in Sc- and Zr-modified Al-Mg alloys
+AU  - Spierings, A.B.
+AU  - Dawson, K.
+AU  - Uggowitzer, P.J.
+AU  - Wegener, K.
+PY  - 2018
+T2  - Materials & Design
+VL  - 140
+SP  - 134
+EP  - 143
+DO  - 10.1016/j.matdes.2017.11.053
+UR  - https://doi.org/10.1016/j.matdes.2017.11.053
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L251
+TI  - Laser energy absorption behavior of powder particles using ray tracing method during selective laser melting additive manufacturing of aluminum alloy
+AU  - Yang, Ying
+AU  - Gu, Dongdong
+AU  - Dai, Donghua
+AU  - Ma, Chenglong
+PY  - 2018
+T2  - Materials & Design
+VL  - 143
+SP  - 12
+EP  - 19
+DO  - 10.1016/j.matdes.2018.01.043
+UR  - https://doi.org/10.1016/j.matdes.2018.01.043
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L252
+TI  - Comparison of Microstructure and Mechanical Properties of Scalmalloy® Produced by Selective Laser Melting and Laser Metal Deposition
+AU  - Awd, Mustafa
+AU  - Tenkamp, Jochen
+AU  - Hirtler, Markus
+AU  - Siddique, Shafaqat
+AU  - Bambach, Markus
+AU  - Walther, Frank
+PY  - 2017
+T2  - Materials
+VL  - 11
+IS  - 1
+SP  - 17
+DO  - 10.3390/ma11010017
+UR  - https://doi.org/10.3390/ma11010017
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；Al-Mg-Sc-Zr
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L253
+TI  - Effect of surface roughness on corrosion fatigue performance of AlSi10Mg alloy produced by Selective Laser Melting (SLM)
+AU  - Leon, Avi
+AU  - Aghion, Eli
+PY  - 2017
+T2  - Materials Characterization
+VL  - 131
+SP  - 188
+EP  - 194
+DO  - 10.1016/j.matchar.2017.06.029
+UR  - https://doi.org/10.1016/j.matchar.2017.06.029
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金；AlSi10Mg
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L254
+TI  - Selective laser melting of aluminum alloys
+AU  - Aboulkhair, Nesma T.
+AU  - Everitt, Nicola M.
+AU  - Maskery, Ian
+AU  - Ashcroft, Ian
+AU  - Tuck, Chris
+PY  - 2017
+T2  - MRS Bulletin
+VL  - 42
+IS  - 04
+SP  - 311
+EP  - 319
+DO  - 10.1557/mrs.2017.63
+UR  - https://doi.org/10.1557/mrs.2017.63
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L255
+TI  - Influence of processing parameters on laser penetration depth and melting/re-melting densification during selective laser melting of aluminum alloy
+AU  - Yu, Guanqun
+AU  - Gu, Dongdong
+AU  - Dai, Donghua
+AU  - Xia, Mujian
+AU  - Ma, Chenglong
+AU  - Chang, Kun
+PY  - 2016
+T2  - Applied Physics A
+VL  - 122
+IS  - 10
+SP  - 891
+DO  - 10.1007/s00339-016-0428-6
+UR  - https://doi.org/10.1007/s00339-016-0428-6
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L256
+TI  - Microstructures and mechanical properties of A356 (AlSi7Mg0.3) aluminum alloy fabricated by selective laser melting
+AU  - Kimura, Takahiro
+AU  - Nakamoto, Takayuki
+PY  - 2016
+T2  - Materials & Design
+VL  - 89
+SP  - 1294
+EP  - 1301
+DO  - 10.1016/j.matdes.2015.10.065
+UR  - https://doi.org/10.1016/j.matdes.2015.10.065
+KW  - 铝合金及Scalmalloy
+KW  - 铝合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L257
+TI  - Additive manufacturing of Ti6Al4V alloy: A review
+AU  - Liu, Shunyu
+AU  - Shin, Yung C.
+PY  - 2019
+T2  - Materials & Design
+VL  - 164
+SP  - 107552
+DO  - 10.1016/j.matdes.2018.107552
+UR  - https://doi.org/10.1016/j.matdes.2018.107552
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L258
+TI  - Compression Behavior and Fatigue Strength of Additively Manufactured Ti6Al4V Strut-Based Lattice Structures: A Review
+AU  - Parameswaran, P.
+AU  - Prabhu, T. Ram
+AU  - Owolabi, Gbadebo
+AU  - Kesavan, D.
+AU  - Jayaganthan, R.
+PY  - 2026
+T2  - Journal of Materials Engineering and Performance
+VL  - 35
+IS  - 9
+SP  - 8131
+EP  - 8156
+DO  - 10.1007/s11665-025-11916-w
+UR  - https://doi.org/10.1007/s11665-025-11916-w
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L259
+TI  - Electron beam powder bed fusion additive manufacturing of Ti6Al4V alloy lattice structures: orientation-dependent fatigue strength and crack growth behaviour under compressive cyclic loading
+AU  - Huang, Yawen
+AU  - Chen, Zhan Wen
+PY  - 2026
+T2  - Journal of the Mechanical Behavior of Biomedical Materials
+VL  - 173
+SP  - 107201
+DO  - 10.1016/j.jmbbm.2025.107201
+UR  - https://doi.org/10.1016/j.jmbbm.2025.107201
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L260
+TI  - A Study on Compression Behavior and Fracture Morphology in Dumbbell-Shaped Ti6Al4V Lattice Structures Fabricated through Additive Manufacturing
+AU  - Parameswaran, P.
+AU  - Gairola, Saurabh
+AU  - Kesavan, D.
+AU  - Jayaganthan, R.
+PY  - 2025
+T2  - Journal of Materials Engineering and Performance
+VL  - 34
+IS  - 17
+SP  - 18738
+EP  - 18753
+DO  - 10.1007/s11665-024-10560-0
+UR  - https://doi.org/10.1007/s11665-024-10560-0
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L261
+TI  - Damage modes and mechanical properties of Ti6Al4V lattice structures under transverse impact loading
+AU  - Huang, Minghao
+AU  - Luo, Yixiao
+AU  - Xie, Tenglong
+AU  - Yang, Xin
+AU  - Xu, Shenghang
+AU  - Chang, Chen
+AU  - Ding, Chao
+AU  - Tang, Huiping
+PY  - 2025
+T2  - Additive Manufacturing Letters
+VL  - 14
+SP  - 100294
+DO  - 10.1016/j.addlet.2025.100294
+UR  - https://doi.org/10.1016/j.addlet.2025.100294
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L262
+TI  - High-cycle fatigue analysis in dumbbell-shaped lattice structure of Ti6Al4V through additive manufacturing: experimental and numerical simulation
+AU  - Parameswaran, P.
+AU  - Kesavan, D.
+AU  - Jayaganthan, R.
+PY  - 2025
+T2  - Journal of Materials Research
+VL  - 40
+IS  - 12
+SP  - 1838
+EP  - 1852
+DO  - 10.1557/s43578-025-01615-6
+UR  - https://doi.org/10.1557/s43578-025-01615-6
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L263
+TI  - Process parameters for three-dimensional specimens made of Ti6Al4V materials using additive manufacturing: A review
+AU  - Marimuthu, Marichamy
+AU  - Kunjan, Chockalingam
+PY  - 2025
+T2  - Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering
+VL  - 239
+IS  - 4
+SP  - 2310
+EP  - 2328
+DO  - 10.1177/09544089231223020
+UR  - https://doi.org/10.1177/09544089231223020
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L264
+TI  - Cold Spray Additive Manufacturing of Ti6Al4V: Deposition Optimization
+AU  - Kondas, Jan
+AU  - Guagliano, Mario
+AU  - Bagherifard, Sara
+AU  - Singh, Reeti
+AU  - Cizek, Jan
+AU  - Konopik, Pavel
+AU  - Prochazka, Radek
+AU  - Kachlik, Martin
+PY  - 2024
+T2  - Journal of Thermal Spray Technology
+VL  - 33
+IS  - 8
+SP  - 2672
+EP  - 2685
+DO  - 10.1007/s11666-024-01855-8
+UR  - https://doi.org/10.1007/s11666-024-01855-8
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L265
+TI  - Electron beam powder bed fusion additive manufacturing of Ti6Al4V alloy lattice structures: orientation-dependent compressive strength and fracture behavior
+AU  - Huang, Yawen
+AU  - Chen, Zhan Wen
+AU  - Wan, Antony Rey O.
+AU  - Schmidt, Kurt
+AU  - Sefont, Peter
+AU  - Singamneni, Saret
+PY  - 2024
+T2  - The International Journal of Advanced Manufacturing Technology
+VL  - 132
+IS  - 7-8
+SP  - 3299
+EP  - 3311
+DO  - 10.1007/s00170-024-13539-2
+UR  - https://doi.org/10.1007/s00170-024-13539-2
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L266
+TI  - Influence of nanoparticles addition on the fatigue failure behavior of metal matrix composites: Comprehensive review
+AU  - Abd-Elaziem, Walaa
+AU  - Khedr, Mahmoud
+AU  - Elsheikh, Ammar.H.
+AU  - Liu, Jingku
+AU  - Zeng, Yuxin
+AU  - Sebae, Tamer A.
+AU  - Abd El-Baky, Marwa A.
+AU  - Darwish, Moustafa A.
+AU  - Daoush, Walid M.
+AU  - Li, Xiaochun
+PY  - 2024
+T2  - Engineering Failure Analysis
+VL  - 155
+SP  - 107751
+DO  - 10.1016/j.engfailanal.2023.107751
+UR  - https://doi.org/10.1016/j.engfailanal.2023.107751
+KW  - 钛合金及金属共性疲劳
+KW  - 镁、铝、钛等金属基复合材料
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L267
+TI  - Multi-material structures of Ti6Al4V and Ti6Al4V-B4C through directed energy deposition-based additive manufacturing
+AU  - W. Zuckschwerdt, Nathaniel
+AU  - Bandyopadhyay, Amit
+PY  - 2024
+T2  - Materials Science in Additive Manufacturing
+VL  - 3
+IS  - 3
+SP  - 3571
+DO  - 10.36922/msam.3571
+UR  - https://doi.org/10.36922/msam.3571
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L268
+TI  - Effect of chemical–electrochemical surface treatment on the roughness and fatigue performance of porous titanium lattice structures
+AU  - Oosterbeek, Reece N.
+AU  - Sirbu, Gabriela
+AU  - Hansal, Selma
+AU  - Nai, Kenneth
+AU  - Jeffers, Jonathan R.T.
+PY  - 2023
+T2  - Additive Manufacturing
+VL  - 78
+SP  - 103896
+DO  - 10.1016/j.addma.2023.103896
+UR  - https://doi.org/10.1016/j.addma.2023.103896
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L269
+TI  - Efficient optimization framework for L-PBF fatigue enhanced Ti6Al4V lattice component
+AU  - De Biasi, Raffaele
+AU  - Murchio, Simone
+AU  - Sbettega, Elia
+AU  - Carmignato, Simone
+AU  - Luchin, Valerio
+AU  - Benedetti, Matteo
+PY  - 2023
+T2  - Materials & Design
+VL  - 230
+SP  - 111975
+DO  - 10.1016/j.matdes.2023.111975
+UR  - https://doi.org/10.1016/j.matdes.2023.111975
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L270
+TI  - Tailoring microstructure of additively manufactured Ti6Al4V titanium alloy using hybrid additive manufacturing technology
+AU  - Lu, Haifei
+AU  - Deng, Weiwei
+AU  - Luo, Kaiyu
+AU  - Chen, Yuhua
+AU  - Wang, Jian
+AU  - Lu, Jinzhong
+PY  - 2023
+T2  - Additive Manufacturing
+VL  - 63
+SP  - 103416
+DO  - 10.1016/j.addma.2023.103416
+UR  - https://doi.org/10.1016/j.addma.2023.103416
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L271
+TI  - A solidification mode selection process map for laser powder bed fusion additive manufacturing of B-modified Ti6Al4V
+AU  - He, Yining
+AU  - Webler, Bryan
+PY  - 2022
+T2  - Additive Manufacturing
+VL  - 59
+SP  - 103086
+DO  - 10.1016/j.addma.2022.103086
+UR  - https://doi.org/10.1016/j.addma.2022.103086
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L272
+TI  - Importance of Build Design Parameters to the Fatigue Strength of Ti6Al4V in Electron Beam Melting Additive Manufacturing
+AU  - Ghods, Sean
+AU  - Schur, Reid
+AU  - Montelione, Alex
+AU  - Schleusener, Rick
+AU  - Arola, Dwayne D.
+AU  - Ramulu, Mamidala
+PY  - 2022
+T2  - Materials
+VL  - 15
+IS  - 16
+SP  - 5617
+DO  - 10.3390/ma15165617
+UR  - https://doi.org/10.3390/ma15165617
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L273
+TI  - Microstructure and mechanical properties of Ti6Al4V alloys fabricated by additive friction stir deposition
+AU  - Farabi, Ehsan
+AU  - Babaniaris, Steven
+AU  - Barnett, Matthew R.
+AU  - Fabijanic, Daniel M.
+PY  - 2022
+T2  - Additive Manufacturing Letters
+VL  - 2
+SP  - 100034
+DO  - 10.1016/j.addlet.2022.100034
+UR  - https://doi.org/10.1016/j.addlet.2022.100034
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L274
+TI  - On study of process induced defects-based fatigue performance of additively manufactured Ti6Al4V alloy
+AU  - Bhandari, Litton
+AU  - Gaur, Vidit
+PY  - 2022
+T2  - Additive Manufacturing
+VL  - 60
+SP  - 103227
+DO  - 10.1016/j.addma.2022.103227
+UR  - https://doi.org/10.1016/j.addma.2022.103227
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L275
+TI  - Surface improvement of laser powder bed fusion processed Ti6Al4V for fatigue applications
+AU  - Jurg, Marten
+AU  - Medvedev, Alexander E.
+AU  - Yan, Wenyi
+AU  - Molotnikov, Andrey
+PY  - 2022
+T2  - Additive Manufacturing Letters
+VL  - 3
+SP  - 100070
+DO  - 10.1016/j.addlet.2022.100070
+UR  - https://doi.org/10.1016/j.addlet.2022.100070
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L276
+TI  - Effect of Line Energy Conditions on Mechanical and Fatigue Properties of Ti6Al4V Fabricated by Electron Beam Additive Manufacturing
+AU  - Choi, Youngsin
+AU  - Kim, Hwi-Jun
+AU  - Kim, Gun-Hee
+AU  - Lee, Chang-Woo
+AU  - Lee, Dong-Geun
+PY  - 2021
+T2  - Metals
+VL  - 11
+IS  - 6
+SP  - 878
+DO  - 10.3390/met11060878
+UR  - https://doi.org/10.3390/met11060878
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L277
+TI  - Additive manufacturing of Ti6Al4V parts using ultrasonic assisted direct energy deposition
+AU  - Gorunov, A.I.
+PY  - 2020
+T2  - Journal of Manufacturing Processes
+VL  - 59
+SP  - 545
+EP  - 556
+DO  - 10.1016/j.jmapro.2020.10.024
+UR  - https://doi.org/10.1016/j.jmapro.2020.10.024
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L278
+TI  - Continuous and pulsed selective laser melting of Ti6Al4V lattice structures: Effect of post-processing on microstructural anisotropy and fatigue behaviour
+AU  - Karami, K.
+AU  - Blok, A.
+AU  - Weber, L.
+AU  - Ahmadi, S.M.
+AU  - Petrov, R.
+AU  - Nikolic, Ksenija
+AU  - Borisov, E.V.
+AU  - Leeflang, S.
+AU  - Ayas, C.
+AU  - Zadpoor, A.A.
+AU  - Mehdipour, M.
+AU  - Reinton, E.
+AU  - Popovich, V.A.
+PY  - 2020
+T2  - Additive Manufacturing
+VL  - 36
+SP  - 101433
+DO  - 10.1016/j.addma.2020.101433
+UR  - https://doi.org/10.1016/j.addma.2020.101433
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L279
+TI  - High Frequency Vibration Fatigue Behavior of Ti6Al4V Fabricated by Wire‐Fed Electron Beam Additive Manufacturing Technology
+AU  - Wanjara, P.
+AU  - Gholipour, J.
+AU  - Watanabe, E.
+AU  - Watanabe, K.
+AU  - Sugino, T.
+AU  - Patnaik, P.
+AU  - Sikan, F.
+AU  - Brochu, M.
+PY  - 2020
+T2  - Advances in Materials Science and Engineering
+VL  - 2020
+IS  - 1
+SP  - 1902567
+DO  - 10.1155/2020/1902567
+UR  - https://doi.org/10.1155/2020/1902567
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L280
+TI  - Influence of unit cell pose on the mechanical properties of Ti6Al4V lattice structures manufactured by selective laser melting
+AU  - Bai, Long
+AU  - Zhang, Junfang
+AU  - Xiong, Yan
+AU  - Chen, Xiaohong
+AU  - Sun, Yunxi
+AU  - Gong, Cheng
+AU  - Pu, Huayan
+AU  - Wu, Xiaoying
+AU  - Luo, Jun
+PY  - 2020
+T2  - Additive Manufacturing
+VL  - 34
+SP  - 101222
+DO  - 10.1016/j.addma.2020.101222
+UR  - https://doi.org/10.1016/j.addma.2020.101222
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L281
+TI  - Powder Reuse in Electron Beam Melting Additive Manufacturing of Ti6Al4V: Particle Microstructure, Oxygen Content and Mechanical Properties
+AU  - Montelione, A.
+AU  - Ghods, S.
+AU  - Schur, R.
+AU  - Wisdom, C.
+AU  - Arola, D.
+AU  - Ramulu, M.
+PY  - 2020
+T2  - Additive Manufacturing
+VL  - 35
+SP  - 101216
+DO  - 10.1016/j.addma.2020.101216
+UR  - https://doi.org/10.1016/j.addma.2020.101216
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L282
+TI  - Wire arc additive manufacturing of Ti6AL4V using active interpass cooling
+AU  - Ding, Donghong
+AU  - Wu, Bintao
+AU  - Pan, Zengxi
+AU  - Qiu, Zhijun
+AU  - Li, Huijun
+PY  - 2020
+T2  - Materials and Manufacturing Processes
+VL  - 35
+IS  - 7
+SP  - 845
+EP  - 851
+DO  - 10.1080/10426914.2020.1732414
+UR  - https://doi.org/10.1080/10426914.2020.1732414
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L283
+TI  - Effects of heat accumulation on microstructure and mechanical properties of Ti6Al4V alloy deposited by wire arc additive manufacturing
+AU  - Wu, Bintao
+AU  - Pan, Zengxi
+AU  - Ding, Donghong
+AU  - Cuiuri, Dominic
+AU  - Li, Huijun
+PY  - 2018
+T2  - Additive Manufacturing
+VL  - 23
+SP  - 151
+EP  - 160
+DO  - 10.1016/j.addma.2018.08.004
+UR  - https://doi.org/10.1016/j.addma.2018.08.004
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L284
+TI  - On the machinability of directed energy deposited Ti6Al4V
+AU  - Oyelola, Olusola
+AU  - Crawforth, Pete
+AU  - M’Saoubi, Rachid
+AU  - Clare, Adam T.
+PY  - 2018
+T2  - Additive Manufacturing
+VL  - 19
+SP  - 39
+EP  - 50
+DO  - 10.1016/j.addma.2017.11.005
+UR  - https://doi.org/10.1016/j.addma.2017.11.005
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L285
+TI  - Fatigue behaviour of notched additive manufactured Ti6Al4V with as-built surfaces
+AU  - Kahlin, M.
+AU  - Ansell, H.
+AU  - Moverare, J.J.
+PY  - 2017
+T2  - International Journal of Fatigue
+VL  - 101
+SP  - 51
+EP  - 60
+DO  - 10.1016/j.ijfatigue.2017.04.009
+UR  - https://doi.org/10.1016/j.ijfatigue.2017.04.009
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 
+
+TY  - JOUR
+ID  - L286
+TI  - Controlling of residual stress in additive manufacturing of Ti6Al4V by finite element modeling
+AU  - Vastola, G.
+AU  - Zhang, G.
+AU  - Pei, Q.X.
+AU  - Zhang, Y.-W.
+PY  - 2016
+T2  - Additive Manufacturing
+VL  - 12
+SP  - 231
+EP  - 239
+DO  - 10.1016/j.addma.2016.05.010
+UR  - https://doi.org/10.1016/j.addma.2016.05.010
+KW  - 钛合金及金属共性疲劳
+KW  - 钛合金；Ti-6Al-4V/TC4
+N1  - 材料或工艺支撑；不代表已用于人形机器人；Crossref正式题录核验
+ER  - 

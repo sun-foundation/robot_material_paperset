@@ -1,0 +1,59 @@
+{
+  "records": 286,
+  "downloaded_locally": 118,
+  "public_pdfs": 73,
+  "local_only_pdfs": 45,
+  "pending_fulltext": 168,
+  "public_pdf_bytes": 601014090,
+  "download_status_updated": "2026-10-28T16:38:22+08:00",
+  "group_counts": [
+    {
+      "group": "人形与双足机器人结构研究",
+      "records": 16,
+      "downloaded": 13,
+      "public_pdfs": 4
+    },
+    {
+      "group": "镁基复合材料综合综述与设计",
+      "records": 28,
+      "downloaded": 12,
+      "public_pdfs": 7
+    },
+    {
+      "group": "Ti及金属增强镁基复合材料",
+      "records": 14,
+      "downloaded": 4,
+      "public_pdfs": 3
+    },
+    {
+      "group": "碳增强镁基复合材料",
+      "records": 41,
+      "downloaded": 17,
+      "public_pdfs": 10
+    },
+    {
+      "group": "陶瓷及其他增强镁基复合材料",
+      "records": 66,
+      "downloaded": 28,
+      "public_pdfs": 14
+    },
+    {
+      "group": "镁合金强韧化与制造",
+      "records": 60,
+      "downloaded": 25,
+      "public_pdfs": 24
+    },
+    {
+      "group": "铝合金及Scalmalloy",
+      "records": 31,
+      "downloaded": 9,
+      "public_pdfs": 6
+    },
+    {
+      "group": "钛合金及金属共性疲劳",
+      "records": 30,
+      "downloaded": 10,
+      "public_pdfs": 5
+    }
+  ]
+}

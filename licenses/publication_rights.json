@@ -1,0 +1,2025 @@
+[
+  {
+    "id": "L001",
+    "title": "Design and Implementation of Lightweight Thigh Structures for Biped Robots Based on Spatial Lattice Structure and Additive Manufacturing Technology",
+    "doi": "10.1007/978-981-99-6492-5_32",
+    "authors": [
+      "Jiang, Hongjian",
+      "Kong, Lingyu",
+      "Zhang, Yu",
+      "Chen, Yuanjie",
+      "Nie, Daming",
+      "Xie, Anhuan",
+      "Shao, Lintao",
+      "Zhu, Shiqiang"
+    ],
+    "sha256": "4e5f2560dd8ca56136fdb866a61016fcdebf25e40650f3f3c3871023902b1cfc",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L002",
+    "title": "Lightweight Design and Property Analysis of Humanoid Robot Thigh Integrated Structure with Appearance",
+    "doi": "10.1007/978-981-99-6495-6_44",
+    "authors": [
+      "Nie, Daming",
+      "Gu, Jason",
+      "Zhang, Yu",
+      "Jiang, Hongjian"
+    ],
+    "sha256": "66427693397e34fabcff56ac318aec771b4a2bac8eeaad45ce6160e26d7b42f9",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L003",
+    "title": "Lightweight design optimization for legs of bipedal humanoid robot",
+    "doi": "10.1007/s00158-021-02968-2",
+    "authors": [
+      "Ding, Hongyu",
+      "Shi, Zhaoyao",
+      "Hu, Yisen",
+      "Li, Jingchen",
+      "Yu, Bo",
+      "Zhang, Pan"
+    ],
+    "sha256": "cbbd988ab7fe41affc72ad1a1239ac2a2f8e78e1d612c2a83e8e8b670de85ed0",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L004",
+    "title": "Modular Topology Optimization of a Humanoid Arm",
+    "doi": "10.1109/iccr51572.2020.9344316",
+    "authors": [
+      "Krischer, Lukas",
+      "Sureshbabu, Anand Vazhapilli",
+      "Zimmermann, Markus"
+    ],
+    "sha256": "b524cad62a6da2bf43d85cbd50b3e836ce3105d1776feaaee80a708ddd5637dd",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L005",
+    "title": "Structural Optimization in Lightweight Design for Additive Manufacturing",
+    "doi": "10.1016/j.procir.2019.04.277",
+    "authors": [
+      "Junk, Stefan",
+      "Klerch, Benjamin",
+      "Hochberg, Ulrich"
+    ],
+    "sha256": "b14c8eaab2423c7c73cdc0fa57862239b23095b6f7da65e42cdc0524a3878085",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1016%2Fj.procir.2019.04.277",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L006",
+    "title": "Topology optimization for additive manufacturing using a component of a humanoid robot",
+    "doi": "10.1016/j.procir.2018.03.270",
+    "authors": [
+      "Junk, Stefan",
+      "Klerch, Benjamin",
+      "Nasdala, Lutz",
+      "Hochberg, Ulrich"
+    ],
+    "sha256": "9f8cea40c312403eb03fa59ecff9c00fd1371ca453f4418486697d715bc88eb8",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "ed by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/3.0/ ) Peer-review under responsibility of the scientific committee of the 28th CIRP Desig"
+  },
+  {
+    "id": "L009",
+    "title": "A nodes-based topology optimization method for thermal designs of hydraulic humanoid robot",
+    "doi": "10.1093/jcde/qwaf048",
+    "authors": [
+      "Li, Jingyuan",
+      "Gao, Liang",
+      "Gao, Jie",
+      "Lu, Shengyu",
+      "Xie, Sicheng"
+    ],
+    "sha256": "b1c697994750778c8abefc34b5ba91b507d8c8e32bc5e90cab0c62c909972c41",
+    "version_note": "题名吻合；出版商未编辑原稿版（ORIGINAL UNEDITED MANUSCRIPT），非最终排版版",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "gn and Engineering. This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (https://creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided th"
+  },
+  {
+    "id": "L010",
+    "title": "Advanced Structural Design for Humanoid Robot Upper Limbs",
+    "doi": "10.1109/icrca64997.2025.11011241",
+    "authors": [
+      "Liu, Yifan",
+      "Wang, Hongwu",
+      "Wang, Dianzheng",
+      "Li, Yunji",
+      "Zhang, Xiangkun"
+    ],
+    "sha256": "8b16ba0d404991c213c27431f99a95e8fc1b5ce72270a72837dab935f1cbfd61",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L011",
+    "title": "Advancements in Humanoid Robots: A Comprehensive Review and Future Prospects",
+    "doi": "10.1109/jas.2023.124140",
+    "authors": [
+      "Tong, Yuchuang",
+      "Liu, Haotian",
+      "Zhang, Zhengtao"
+    ],
+    "sha256": "5e089a90d81d0de41fdce82ddc4ecf4fac24bf28b25675f96990a26b90b3e2e2",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L012",
+    "title": "Research on Biomimetic Design Methods for Humanoid Robot Thigh*",
+    "doi": "10.1109/robio58561.2023.10354757",
+    "authors": [
+      "Nie, Daming",
+      "Xie, Anhuan",
+      "Kong, Lingyu",
+      "Zhang, Yu",
+      "Zheng, Gang",
+      "Fu, Yili",
+      "Gu, Jason"
+    ],
+    "sha256": "a38be2c566cc01e20581bcb80508b50b3d6b4eb66e4af0195d198df774af2b75",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L013",
+    "title": "Additive manufacturing of a topology optimized lightweight part of a humanoid robot",
+    "doi": "",
+    "authors": [
+      "Junk, Stefan",
+      "Klerch, Benjamin",
+      "Hochberg, Ulrich"
+    ],
+    "sha256": "aa0fcde43adfd40d013bc05f3a22e110076b34ff247ad9bd4f5515cc6e568f6b",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L015",
+    "title": "Generate an Optimum Lightweight Legs Structure Design Based on Critical Posture in A-FLoW Humanoid Robot",
+    "doi": "10.1088/1742-6596/1007/1/012070",
+    "authors": [
+      "Luthfi, A",
+      "Subhan, K A",
+      "Eko H, B",
+      "Sanggar, D R",
+      "Pramadihanto, D"
+    ],
+    "sha256": "3478379a50d2b08d4e3aea66bb8e5c16598707f92fd18a888b217ef36ed235f0",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1088%2F1742-6596%2F1007%2F1%2F012070",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L016",
+    "title": "High-Speed and Lightweight Humanoid Robot Arm for a Skillful Badminton Robot",
+    "doi": "10.1109/lra.2018.2803207",
+    "authors": [
+      "Mori, Shotaro",
+      "Tanaka, Kazutoshi",
+      "Nishikawa, Satoshi",
+      "Niiyama, Ryuma",
+      "Kuniyoshi, Yasuo"
+    ],
+    "sha256": "b09fa50fa9f79414366d75ad559752f23504fbc26c1d15e1b5b912b38e105e44",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L019",
+    "title": "The interface structure and property of magnesium matrix composites: A review",
+    "doi": "10.1016/j.jma.2024.04.022",
+    "authors": [
+      "Xiong, Hongwei",
+      "Gu, Lidong",
+      "Wang, Jingya",
+      "Zhou, Liping",
+      "Ying, Tao",
+      "Wang, Shiwei",
+      "Zhou, Haitao",
+      "Li, Jianbo",
+      "Gao, Yang",
+      "Zeng, Xiaoqin"
+    ],
+    "sha256": "b844626a1a92bc9ef26b748f8e0065c59866ab46ed6ecb9223d46e00718e574d",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Mg matrix composites; "
+  },
+  {
+    "id": "L020",
+    "title": "高模量镁基材料实验和集成计算研究进展",
+    "doi": "10.11868/j.issn.1005-5053.2023.000056",
+    "authors": [
+      "李志强",
+      "帅川",
+      "柳伟",
+      "侯华",
+      "张高龙",
+      "赵宇宏"
+    ],
+    "sha256": "2497e6ebdabaf52ef6ca14e0c2199dae9059b9ccaa46e52e4dbc117c92492a04",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L021",
+    "title": "Additive manufacturing of magnesium matrix composites: Comprehensive review of recent progress and research perspectives",
+    "doi": "10.1016/j.jma.2023.02.005",
+    "authors": [
+      "Zhang, Chenghang",
+      "Li, Zhuo",
+      "Zhang, Jikui",
+      "Tang, Haibo",
+      "Wang, Huaming"
+    ],
+    "sha256": "30f6925e9bbb4db5d4a5a9905d4372138addda83fa98bada5dbb45b727aae096",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Magnesium matrix compo"
+  },
+  {
+    "id": "L022",
+    "title": "镁基复合材料界面调控研究进展",
+    "doi": "10.11868/j.issn.1001-4381.2021.001213",
+    "authors": [
+      "熊京鹏",
+      "刘勇"
+    ],
+    "sha256": "b2faf4a2f2900249fcede39030273d302adc32b1bab2fe734c1d85901b90aded",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L023",
+    "title": "The Use of Machine Learning in Aluminum and Magnesium Matrix Composites: A Review",
+    "doi": "10.1007/s11831-026-10511-z",
+    "authors": [
+      "Aydın, Fatih",
+      "Duru, Anday"
+    ],
+    "sha256": "2407f9ebeed72af0af447ac20fb0d45fcd20db03209f75e6134bce17569b368a",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1007%2Fs11831-026-10511-z",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L027",
+    "title": "Machine Learning-Based Research on Tensile Strength of SiC-Reinforced Magnesium Matrix Composites via Stir Casting",
+    "doi": "10.1007/s40195-024-01673-5",
+    "authors": [
+      "Zhu, Zhihong",
+      "Ning, Wenhang",
+      "Niu, Xuanyang",
+      "Zhao, Yuhong"
+    ],
+    "sha256": "006bb3687fd1558d21b20c4f792290a9633bfb8692f59180dc88e526b8ed76e5",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L028",
+    "title": "Nano-Enhanced Phase Reinforced Magnesium Matrix Composites: A Review of the Matrix, Reinforcement, Interface Design, Properties and Potential Applications",
+    "doi": "10.3390/ma17102454",
+    "authors": [
+      "Ren, Jiao-Yi",
+      "Ji, Guan-Cheng",
+      "Guo, Hao-Rui",
+      "Zhou, Yu-Meng",
+      "Tan, Xin",
+      "Zheng, Wen-Fang",
+      "Xing, Qian",
+      "Zhang, Jia-Yi",
+      "Sun, Jing-Ran",
+      "Yang, Hong-Yu",
+      "Qiu, Feng",
+      "Jiang, Qi-Chuan"
+    ],
+    "sha256": "bac1cc3f7e28a7bed0d223ef78e83f5adbf05002981551350a4b6ac8e9737a6b",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Review Nano-Enha"
+  },
+  {
+    "id": "L029",
+    "title": "Progress in preparation of AlN-reinforced magnesium matrix composites: A review",
+    "doi": "10.1007/s41230-023-3035-0",
+    "authors": [
+      "Chen, Lu",
+      "Lü, Shu-lin",
+      "Zhao, Di-jia",
+      "Guo, Wei",
+      "Li, Jian-yu",
+      "Wu, Shu-sen"
+    ],
+    "sha256": "33a1626a80c0dc33d054d61820a7e6c2ce28c4f924458b137a75c0a0feb4d280",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L035",
+    "title": "Predicting Mechanical Properties of Magnesium Matrix Composites with Regression Models by Machine Learning",
+    "doi": "10.3390/jcs7090347",
+    "authors": [
+      "Huang, Song-Jeng",
+      "Adityawardhana, Yudhistira",
+      "Sanjaya, Jeffry"
+    ],
+    "sha256": "82f80eae218b298ae6a80342b497cd33f582c321aae2cea82ff3b286d5a680bf",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). Article Predicting Mechani"
+  },
+  {
+    "id": "L036",
+    "title": "Surface Coatings of Reinforcement Phases in Magnesium Matrix Composites: A Review",
+    "doi": "10.3390/ma16247560",
+    "authors": [
+      "Wu, Shiyi",
+      "Chen, Bin"
+    ],
+    "sha256": "5809febe0db8ba88ad7cf1e3f61f2edb50fa8767cf6905b1bdb6d3756fc0e8a7",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Review Surface C"
+  },
+  {
+    "id": "L037",
+    "title": "Surface metal-matrix composites based on AZ91 magnesium alloy via friction stir processing: A review",
+    "doi": "10.1007/s12613-022-2589-y",
+    "authors": [
+      "Mirzadeh, Hamed"
+    ],
+    "sha256": "e98211750ff4c1ec67a49121547134ba659785a09cccee0ef6943d263f100039",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L043",
+    "title": "Development and influence of tribomechanical properties on magnesium based hybrid metal matrix composites-a review",
+    "doi": "10.1088/2053-1591/ab7d08",
+    "authors": [
+      "Anand, N",
+      "S, Senthil Kumaran"
+    ],
+    "sha256": "8df5aacf2246e05cbb47f44dffe4da6639cb3563f039fdd015712827879b92d9",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1088%2F2053-1591%2Fab7d08",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L045",
+    "title": "Ti颗粒增强镁基复合材料微观组织和力学性能的研究进展及展望",
+    "doi": "10.7513/j.issn.1004-7638.2026.03.005",
+    "authors": [
+      "刘星雨",
+      "杨鸿",
+      "凡冀川",
+      "潘晓锾",
+      "谭臻",
+      "陈先华",
+      "潘复生"
+    ],
+    "sha256": "05d647516bda328eb31b8331d4bad97ccf2b614e06dc591c727f97d222443dba",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L046",
+    "title": "The potential of deformable titanium reinforced magnesium‐matrix composites: A review of preparation, characterization, and performance evaluation",
+    "doi": "10.1016/j.jma.2025.06.027",
+    "authors": [
+      "Wang, Yitao",
+      "Li, Jianbo",
+      "Luo, Huan",
+      "Wang, Weizhang",
+      "Deng, Daiyi",
+      "Chen, Jianwei",
+      "Chen, Xianhua",
+      "Zheng, Kaihong",
+      "Pan, Fusheng"
+    ],
+    "sha256": "9b6f8069d9c6ca42bd1b7a6dc4d98f1854ecf74ffc47e5426b94cf458203fbf7",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "nications Co. Ltd. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) Keywords: Magnesium matrix composites; Deformable Ti reinforcement; Mechanical propert"
+  },
+  {
+    "id": "L047",
+    "title": "Microstructures and mechanical properties of titanium-reinforced magnesium matrix composites: Review and perspective",
+    "doi": "10.1016/j.jma.2022.07.008",
+    "authors": [
+      "Yang, Hong",
+      "Chen, Xianhua",
+      "Huang, Guangsheng",
+      "Song, Jiangfeng",
+      "She, Jia",
+      "Tan, Jun",
+      "Zheng, Kaihong",
+      "Jin, Yiming",
+      "Jiang, Bin",
+      "Pan, Fusheng"
+    ],
+    "sha256": "7d24696f43c98cbb4ed70ee9a5de7779cff549107a904d8fdc7f8c82e9957b90",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Magnesium matrix compo"
+  },
+  {
+    "id": "L055",
+    "title": "Microstructure and Mechanical Properties of Hybrid AZ91 Magnesium Matrix Composite with Ti and SiC Particles",
+    "doi": "10.3390/ma15186301",
+    "authors": [
+      "Braszczyńska-Malik, Katarzyna N."
+    ],
+    "sha256": "e45be98f229eaae0299affd85cbc8ea0bc7c5b3c5ca86dc4937d70da3dc0a89b",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Article Microstr"
+  },
+  {
+    "id": "L059",
+    "title": "Young’s Modulus, Damping, and Thermal Expansion of a Sustainable Magnesium Composite Containing Recycled C-Fibers",
+    "doi": "10.1007/s11665-026-14244-9",
+    "authors": [
+      "Sonkusare, Reshma",
+      "Dieringa, Hajo",
+      "Khalifa, Noomane Ben",
+      "Kandemir, Sinan"
+    ],
+    "sha256": "dec1cbc7e82aec8e5c4e6aca4a30b2deecb0af63728ce5ac86f31fa88238a8ec",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1007%2Fs11665-026-14244-9",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L060",
+    "title": "Carbon nanotube and graphene reinforced magnesium matrix composites: A state-of-the-art review",
+    "doi": "10.1016/j.jma.2023.05.010",
+    "authors": [
+      "Pillari, Lava Kumar",
+      "Lessoway, Kyle",
+      "Bichler, Lukas"
+    ],
+    "sha256": "9f3883ead1e83d7611cdd104a0f53e8a3ba7ee9782ee9775fda7573f0d5ddb1c",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Magnesium; Carbon nano"
+  },
+  {
+    "id": "L061",
+    "title": "Hybrid Surface Composites of WE43 Magnesium Alloy Reinforced with TiB2 and Graphene Nanoplatelets via Friction Stir Processing",
+    "doi": "10.1007/s12540-025-02177-2",
+    "authors": [
+      "Taşcı, Ufuk",
+      "Yılmaz, Taha Alper",
+      "Karakoç, Halil",
+      "Çinici, Hanifi",
+      "Bostan, Bülent"
+    ],
+    "sha256": "0ab4dee5dad7fad6816422461c8dc9b9cd100f3b4a902bdadf096d4426c151c4",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L063",
+    "title": "Strengthening/weakening effect of graphene orientation angle on mechanical properties of AZ91 magnesium matrix composites",
+    "doi": "10.1016/j.jma.2024.12.001",
+    "authors": [
+      "Peng, Dunwei",
+      "Song, Zhuo",
+      "Zhang, Yunpeng",
+      "Wang, Xiaopan",
+      "Hou, Hua",
+      "Zhao, Yuhong"
+    ],
+    "sha256": "efac426f25caa71928d185eaba9bebbe1ee664944b7ab0ae9cc5c456c82ed315",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Keywords: Graphene; Magnesium matrix composites; Molecular dynamics; Mechanical propertie"
+  },
+  {
+    "id": "L067",
+    "title": "Microstructure and Mechanical Properties of Magnesium Matrix Composites Reinforced by In Situ Reduced Graphene Oxide",
+    "doi": "10.3390/ma16062303",
+    "authors": [
+      "Liu, Feixiang",
+      "Wang, Zhaohui",
+      "Du, Xian",
+      "Li, Shubo",
+      "Du, Wenbo"
+    ],
+    "sha256": "042b66b58450902c89686fd6f1aea055c6fa56965982d10450391a0233f2dd65",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Article Microstr"
+  },
+  {
+    "id": "L069",
+    "title": "An Improved Approach to Manufacture Carbon Nanotube Reinforced Magnesium AZ91 Composites with Increased Strength and Ductility",
+    "doi": "10.3390/met12050834",
+    "authors": [
+      "Nasiri, Samaneh",
+      "Yang, Guang",
+      "Spiecker, Erdmann",
+      "Li, Qianqian"
+    ],
+    "sha256": "2cd5ec6d82834e9ff5751558b766f1b3347132f8daa75a97013ef8089de2b041",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). metals Article An Improved"
+  },
+  {
+    "id": "L070",
+    "title": "Development of Carbon Nanotube (CNT)-Reinforced Mg Alloys: Fabrication Routes and Mechanical Properties",
+    "doi": "10.3390/met12081392",
+    "authors": [
+      "Upadhyay, Gaurav",
+      "Saxena, Kuldeep K.",
+      "Sehgal, Shankar",
+      "Mohammed, Kahtan A.",
+      "Prakash, Chander",
+      "Dixit, Saurav",
+      "Buddhi, Dharam"
+    ],
+    "sha256": "8523e6e38d45d5caabc256ed44fd6eee504886dc16c48c4f6ee247d9b867a7cd",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). metals Review Development "
+  },
+  {
+    "id": "L072",
+    "title": "Mechanical behavior of graphene magnesium matrix composites based on molecular dynamics simulation",
+    "doi": "10.7498/aps.71.20211753",
+    "authors": [
+      "Ming, Zhi-Fei",
+      "Song, Hai-Yang",
+      "An, Min-Rong",
+      "College of Materials Science and Engineering, Xi’an Shiyou University, Xi’an 710065, China"
+    ],
+    "sha256": "82b70eb3efa8b2da98eb0f1967c2f3c60a528c3021cbcdafbb2b928b55e94175",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L075",
+    "title": "Corrosion Behavior of Graphene Nanoplatelet-Coated TiB2 Reinforced AZ91 Magnesium Matrix Semi-Ceramic Hybrid Composites",
+    "doi": "10.17350/hjse19030000209",
+    "authors": [
+      "Karabuk University, Department of Metallurgical and Materials Engineering, Karabuk, Turkey",
+      "Cevik, Engin",
+      "Gundogan, Murat",
+      "Incesu, Alper",
+      "Turan, Muhammet Emre"
+    ],
+    "sha256": "31f938ad0b2715b38c5f5953f939bc6358eb523252281173de934de7582e8240",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L078",
+    "title": "Fabrication and strengthening mechanisms of magnesium matrix composites with bimodal microstructure induced by graphene nanoplatelets",
+    "doi": "10.1557/s43578-021-00112-w",
+    "authors": [
+      "Shi, Hailong",
+      "Xiang, Shulin",
+      "Hu, Xiaoshi",
+      "Wang, Xiaojun",
+      "Xu, Chao",
+      "Wu, Kun"
+    ],
+    "sha256": "cef5390da559987e6ff2073a3b2088c1a51fcb71f2053e9b0259079eac25dabf",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L081",
+    "title": "Carbon Nanotubes (CNTs)-Reinforced Magnesium-Based Matrix Composites: A Comprehensive Review",
+    "doi": "10.3390/ma13194421",
+    "authors": [
+      "Abazari, Somayeh",
+      "Shamsipur, Ali",
+      "Bakhsheshi-Rad, Hamid Reza",
+      "Ismail, Ahmad Fauzi",
+      "Sharif, Safian",
+      "Razzaghi, Mahmood",
+      "Ramakrishna, Seeram",
+      "Berto, Filippo"
+    ],
+    "sha256": "c543231df0b8905a38573ed91b8e14b01511f33fc77f74fc99b39f5284a6a91e",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma13194421",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L085",
+    "title": "Investigation of graphene-reinforced magnesium metal matrix composites processed through a solvent-based powder metallurgy route",
+    "doi": "10.1007/s12034-018-1720-1",
+    "authors": [
+      "Kavimani, V",
+      "Soorya Prakash, K",
+      "Thankachan, Titus"
+    ],
+    "sha256": "68682ea94f32ce379b16f0fc2ed7e345bff901a7861fb382c93238f2a06d12f6",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L086",
+    "title": "Microstructure, and Mechanical and Wear Properties of Grp/AZ91 Magnesium Matrix Composites",
+    "doi": "10.3390/ma12071190",
+    "authors": [
+      "Wang, Chang-rui",
+      "Deng, Kun-kun",
+      "Bai, Yan"
+    ],
+    "sha256": "8db8e45d2ccc07ddcec84faffd989976ef494407033d8f53ae146e9a6c0b22c9",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma12071190",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L094",
+    "title": "Synthesis and characterization of graphene nanosheets/magnesium composites processed through powder metallurgy",
+    "doi": "10.17222/mit.2017.041",
+    "authors": [
+      "Du, X.",
+      "Zheng, K.",
+      "Liu, F."
+    ],
+    "sha256": "7f538b8e2a0229b7274e429af67daf323c9c932a4c061a5450783ec0ff9c9629",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L097",
+    "title": "Graphene nanoplatelets induced heterogeneous bimodal structural magnesium matrix composites with enhanced mechanical properties",
+    "doi": "10.1038/srep38824",
+    "authors": [
+      "Xiang, Shulin",
+      "Wang, Xiaojun",
+      "Gupta, Manoj",
+      "Wu, Kun",
+      "Hu, Xiaoshi",
+      "Zheng, Mingyi"
+    ],
+    "sha256": "8ecad5a2ef0da63b5800be488b102e60c92a74c1b8c60a6960d7faaf7511c160",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1038%2Fsrep38824",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L098",
+    "title": "Rapid microwave sintering of carbon nanotube-filled AZ61 magnesium alloy composites",
+    "doi": "10.1016/j.compositesb.2016.03.041",
+    "authors": [
+      "Akinwekomi, Akeem Damilola",
+      "Law, Wing-Cheung",
+      "Tang, Chak-Yin",
+      "Chen, Ling",
+      "Tsui, Chi-Pong"
+    ],
+    "sha256": "296f1361c707d071cb1063b00018fb38b0d71c8de44b0c4dd473755b94f8c00f",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "sed. © 2016. This manuscript version is made available under the CC-BY-NC-ND 4.0 license http://creativecommons.org/licenses/by-nc-nd/4.0/ https://doi.org/10.1016/j.compositesb.2016.03.041 This is the Pre-Published Version. 2 Keywords: A. Metal-matrix composites (MMCs) B. Mechanical properties E. Po"
+  },
+  {
+    "id": "L099",
+    "title": "Thermal expansion properties of carbon nanotube/silicon carbide particle-reinforced magnesium composites fabricated by squeeze infiltration",
+    "doi": "10.1007/s12540-016-5454-6",
+    "authors": [
+      "Cho, Dae Hyun",
+      "Nam, Ji Hoon",
+      "Lee, Byoung Woo",
+      "Yim, Si On",
+      "Park, Ik Min"
+    ],
+    "sha256": "6857d490f8f6b199bd0390398fa0483e8bbde7f74dbc4520f6a4df89fb01fcf4",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L100",
+    "title": "Cyclic deformation behavior of Mg–SiC nanocomposites on the macroscale and nanoscale",
+    "doi": "10.1111/ffe.13600",
+    "authors": [
+      "Hübler, Daniela",
+      "Winkler, Kai",
+      "Riedel, Ralf",
+      "Kamrani, Sepideh",
+      "Fleck, Claudia"
+    ],
+    "sha256": "d3610e39fb08b1a525f28d8b820b63ed21a24b7bb87a123d14a95f1d3fb5009b",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1111%2Fffe.13600",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L105",
+    "title": "Simulation and Preparation of High-strength and High-toughness Y+SiC/AZ80 Magnesium Matrix Composites",
+    "doi": "10.1007/s11595-026-3323-9",
+    "authors": [
+      "Guo, Zijing",
+      "Yao, Wei"
+    ],
+    "sha256": "bd3fb55fda21825eb16f888f6aa3f283bb99b128be8bb6241a9a70215018f526",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L106",
+    "title": "Toward High-Performance Mg-Matrix Composites: Recent Advances in Ceramic Reinforcement Strategies and Processing Innovations",
+    "doi": "10.3390/ma19020365",
+    "authors": [
+      "Ying, Yuefeng",
+      "Wang, Weideng",
+      "You, Guoqiang",
+      "Yang, Yan",
+      "Jiang, Bin",
+      "Yue, Lin",
+      "Shao, Qilin"
+    ],
+    "sha256": "80e42e632a8497f068ce23fb37edd01915fdf318f95b7337b88355eb6d0693d3",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma19020365",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L107",
+    "title": "Breaking Mg matrix composite property trade-offs via in-situ interface reaction and heterogeneous structure design",
+    "doi": "10.1016/j.jma.2024.10.008",
+    "authors": [
+      "Xu, Z.Y.",
+      "You, Y.Q.",
+      "Lu, Q.",
+      "Li, C.J.",
+      "Song, M.",
+      "Tan, J.",
+      "Liu, L.",
+      "Chen, X.F.",
+      "Yi, J.H."
+    ],
+    "sha256": "8d620b6f41983faffba915cb9fe20f926526b542c54324050476a66d3de427c9",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Magnesium matrix compo"
+  },
+  {
+    "id": "L111",
+    "title": "Anti-Wear Characteristics of SiC Preform Reinforced AZ91 Magnesium Matrix Composites Fabricated by Cold Chamber High-Pressure Die Casting",
+    "doi": "10.1007/s40962-023-01055-0",
+    "authors": [
+      "Kucukyildirim, Bedri Onur",
+      "Vanli, Ali Serdar",
+      "Akdogan, Anil"
+    ],
+    "sha256": "9fc23cd14d55c0c10d79a23ef6b11568b6b1a898db3c8aca89ef66f0d51b91c2",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L116",
+    "title": "Strength and elastic modulus enhancement in Mg-Li-Al matrix composites reinforced by ex situ TiB2 particles via stir casting",
+    "doi": "10.1016/j.jma.2022.09.020",
+    "authors": [
+      "Sun, Jiawei",
+      "Ding, Dehua",
+      "Liu, Wencai",
+      "Wu, Guohua",
+      "Liu, Hongjie",
+      "Wei, Guangling",
+      "Liu, Hezhou"
+    ],
+    "sha256": "cfc41731e9d30522252e98041fdd4746c294ad3a48021ce7278e2e5271559470",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Mg-Li composite; Stir "
+  },
+  {
+    "id": "L117",
+    "title": "Damping performance of SiC nanoparticles reinforced magnesium matrix composites processed by cyclic extrusion and compression",
+    "doi": "10.1016/j.jma.2021.07.024",
+    "authors": [
+      "Ebrahimi, Mahmoud",
+      "Zhang, Li",
+      "Wang, Qudong",
+      "Zhou, Hao",
+      "Li, Wenzhen"
+    ],
+    "sha256": "b39711c7ef3c34b12f7332fd8ba7f4017f10cbfbdc6910e0d0ea1228d82d2f18",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Metal matrix composite"
+  },
+  {
+    "id": "L118",
+    "title": "Effect of TiB2 Nanoparticle Content on the Microstructure and Mechanical Properties of TiB2/Mg-4Al-1.5Si Composites",
+    "doi": "10.3390/ma16072852",
+    "authors": [
+      "Liu, Jian",
+      "Chen, Xiaogang",
+      "Wang, Wuxiao",
+      "Zhao, Yu",
+      "He, Na"
+    ],
+    "sha256": "4dc5f61f82c5bfe6ef1f0e113974e92bec3a6c18477c66140003205ab3f7fdaa",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Article Effect o"
+  },
+  {
+    "id": "L123",
+    "title": "Wear Performance of TiB2-Reinforced AZ91 Magnesium Metal Matrix Composite Fabricated by Ultrasonic Stir-Casting Process",
+    "doi": "10.1007/s11837-023-05845-z",
+    "authors": [
+      "Kumar, Dinesh",
+      "Thakur, Lalit"
+    ],
+    "sha256": "4a132b03cb01efa8a01eab926e097dd65803017fa64b36dcfd9922aaf59af8f5",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L125",
+    "title": "Fretting Fatigue Behavior of Magnesium Metal Matrix Composite Fabricated Through Friction Stir Processing Using Nickel Reinforced Particles",
+    "doi": "10.1007/s11668-022-01393-x",
+    "authors": [
+      "Sangral, Sangam",
+      "Patel, Mahesh",
+      "Jayaprakash, M."
+    ],
+    "sha256": "7e435ac818a825d64f80793200ca0e964fbd3045786b2f1f8d42fb85eadae302",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L126",
+    "title": "Investigation on the microstructural and mechanical behavior of the friction stir welded RZ5/8 wt% TiB2 magnesium matrix composites",
+    "doi": "10.1007/s43452-022-00503-8",
+    "authors": [
+      "Meher, Arabinda",
+      "Mahapatra, Manas Mohan"
+    ],
+    "sha256": "956f85460e41d4c69e539d10651e2a38cef780186dc20d0f18e3c1ca0fdb6011",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L127",
+    "title": "Machinability Studies on the Turning of Magnesium Metal Matrix Composites",
+    "doi": "10.24425/amm.2022.139686",
+    "authors": [
+      "Gobivel, K.",
+      "Vijay Sekar, K.S."
+    ],
+    "sha256": "10b9acf04fde06fd794485770dd866edd1b5ab039a7484edcd0113e03d747ccf",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "022. The author(s). This is an open-access article distributed under the terms of the Creative Commons attribution-NonCom - mercial license (CC by -NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/deed.en which permits the use, redistribution of the material in any medium or"
+  },
+  {
+    "id": "L128",
+    "title": "Synthesis and Characterization of AZ91D/SiC/BN Hybrid Magnesium Metal Matrix Composites",
+    "doi": "10.1007/s12633-022-01823-3",
+    "authors": [
+      "Vijayakumar, P.",
+      "Pazhanivel, K.",
+      "Ramadoss, N.",
+      "Ganeshkumar, A.",
+      "Muruganantham, K.",
+      "Arivanandhan, M."
+    ],
+    "sha256": "20bdc3b2f3792003b8ff73118439516bfcefbe30c37bfcf002efc299023989bb",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L129",
+    "title": "Thermal Stability of Nanocrystalline AZ31/TiB2 Magnesium Matrix Composites Prepared via Mechanical Milling",
+    "doi": "10.1007/s13369-021-06284-1",
+    "authors": [
+      "Zhou, Haiping",
+      "Deng, Nana",
+      "Zhang, Hongbin",
+      "Zhang, Chengcai",
+      "Lu, Yue",
+      "Gao, Kuidong",
+      "Wang, Gang",
+      "Sun, Shuai",
+      "Wang, Xin"
+    ],
+    "sha256": "012ad1a31d055085f56293e691836eb6f05e1a5ab518d8f51038c308ac06ab15",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L130",
+    "title": "Abrasive Wear Behaviour of TiB2 Reinforced In-Situ Synthesized Magnesium RZ5 Alloy based Metal Matrix Composites",
+    "doi": "10.1007/s12540-020-00746-1",
+    "authors": [
+      "Meher, Arabinda",
+      "Mahapatra, Manas Mohan",
+      "Samal, Priyaranjan",
+      "Vundavilli, Pandu R."
+    ],
+    "sha256": "2dea79f0c025faa0ad7d02420fd1044b4c4aa0d497071408fa7982781cbe0027",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L132",
+    "title": "Dry Sliding Wear Behavior of (GNPs + TiB2)-Reinforced AZ91 Magnesium Matrix Hybrid Composites Produced by Pressure Infiltration Casting Method",
+    "doi": "10.1007/s40962-020-00552-w",
+    "authors": [
+      "Cevik, Engin",
+      "Gundogan, Murat"
+    ],
+    "sha256": "32219d20632a17f98ed261da5f440491c556ebe8399e7cb666afdccffa0f76be",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L133",
+    "title": "Effect of nanodiamond particle sizes on damping properties of ZK60 magnesium matrix composites",
+    "doi": "10.1088/2053-1591/ac41df",
+    "authors": [
+      "Lu, De Cheng",
+      "Li, Jian",
+      "Li, Zhuo Hua"
+    ],
+    "sha256": "fdd12c41ff34ecf387867ad69019e1d0796a2c738838e11a6b39f74023467f21",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1088%2F2053-1591%2Fac41df",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L136",
+    "title": "The microstructure and corrosion resistance of SiC reinforced magnesium matrix composites with laminated gradient structure",
+    "doi": "10.1088/2053-1591/ac3a42",
+    "authors": [
+      "Peng, Guigui",
+      "Liang, Yilong",
+      "Li, Wei"
+    ],
+    "sha256": "b0bc1ac540e5fa6b8b7d9c362cd4f6f77e96088da9d5c0bf7613493be385f92f",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1088%2F2053-1591%2Fac3a42",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L137",
+    "title": "Types of Component Interfaces in Metal Matrix Composites on the Example of Magnesium Matrix Composites",
+    "doi": "10.3390/ma14185182",
+    "authors": [
+      "Braszczyńska-Malik, Katarzyna N."
+    ],
+    "sha256": "37e81da949ccfd5e862902a82c54e588708e617e72e5eecf39394d8dd13e80c0",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). Faculty of Production Engi"
+  },
+  {
+    "id": "L138",
+    "title": "Ultra-High Damping Capacity of Oxide Reinforced Magnesium Matrix Composites by In Situ Synthesis",
+    "doi": "10.1007/s12540-020-00834-2",
+    "authors": [
+      "Wan, Diqing",
+      "Hu, Jiajun",
+      "Wang, Houbin",
+      "Hu, Yinglin",
+      "Li, Lili"
+    ],
+    "sha256": "d289f29181c829d35cc69c3d51a61a5344df57aff6ec8fc425066bd752dfadb9",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L144",
+    "title": "Synthesis and characterisation of magnesium matrix composite reinforced with titanium dioxide nanoparticulates",
+    "doi": "10.1088/2053-1591/ab6ca3",
+    "authors": [
+      "Elumalai, P C",
+      "Ganesh, R"
+    ],
+    "sha256": "fb39f5bc8c40e38c56440570e6255a13ffa23938922102cc270dc3bbd90479f0",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1088%2F2053-1591%2Fab6ca3",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L145",
+    "title": "Vibration and Damping Behavior of Si3N4 Reinforced Magnesium Alloy Composite for Structural Applications",
+    "doi": "10.14447/jnmes.v23i3.a05",
+    "authors": [
+      "Dhinakarraj, C.K.",
+      "Senthilkumar, N.",
+      "Badri, M.A.",
+      "Anbuchezhiyan, G."
+    ],
+    "sha256": "34d72b35d9ef525141597f1c6f093e3b486ba10c39157fbd4e95d953c1870b3f",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L146",
+    "title": "Experimental Investigation and Optimization of Machining Parameters in WEDM of Nano-SiC Particles Reinforced Magnesium Matrix Composites",
+    "doi": "10.1007/s12633-017-9676-0",
+    "authors": [
+      "Vijayabhaskar, S.",
+      "Rajmohan, T."
+    ],
+    "sha256": "a8cf543a11e79623ec69f1e4169dbc7bc9a3f3fb8bb7114ef407dab122bd9423",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L148",
+    "title": "Hot Deformation Behavior and Processing Maps of SiC Nanoparticles and Second Phase Synergistically Reinforced Magnesium Matrix Composites",
+    "doi": "10.3390/nano9010057",
+    "authors": [
+      "Nie, Kaibo",
+      "Zhu, Zhihao",
+      "Deng, Kunkun",
+      "Wang, Ting",
+      "Han, Jungang"
+    ],
+    "sha256": "3a028e5720437f1e4adbd2784ba624c1031f444ccdc20c17504177fe8b97db99",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fnano9010057",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L152",
+    "title": "Hybrid Reinforced Magnesium Matrix Composites (Mg/Sic/GNPs): Drilling Investigation",
+    "doi": "10.3390/met8040215",
+    "authors": [
+      "Abdulgadir, Mustafa",
+      "Demir, Bilge",
+      "Turan, Muhammet"
+    ],
+    "sha256": "34735105c5b823d2fd162bd1729502b486c3f7bb527fa88269dc9b1d14230938",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fmet8040215",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L154",
+    "title": "Microstructure and Mechanical Properties of Magnesium Matrix Composites Interpenetrated by Different Reinforcement",
+    "doi": "10.3390/app8112012",
+    "authors": [
+      "Wu, Shuxu",
+      "Wang, Shouren",
+      "Wen, Daosheng",
+      "Wang, Gaoqi",
+      "Wang, Yong"
+    ],
+    "sha256": "8d2cfddffde17b565584753d19007dbddb7a2f3638305aedab16082882e7ef90",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fapp8112012",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L162",
+    "title": "Effect of Micro- and Nano-SiC Particulate Reinforcements in Magnesium-Based Metal Matrix Composites",
+    "doi": "10.1007/s11665-016-2068-6",
+    "authors": [
+      "Shen, Ming-Jie",
+      "Ying, Tao",
+      "Chen, Fu-Yu",
+      "Hou, Jun-Ming"
+    ],
+    "sha256": "f606ecb69e41a51c464518487a15f5a3888b789dc9a5ec77e2df66d5b4ab67e9",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L164",
+    "title": "Manufacturing and Properties of a Magnesium Interpenetrating Phase Composite",
+    "doi": "10.5545/sv-jme.2015.2840",
+    "authors": [
+      "Steinacher, Matej",
+      "Žužek, Borut",
+      "Jenko, Darja",
+      "Mrvar, Primož",
+      "Zupanič, Franc"
+    ],
+    "sha256": "9d4cfe071cdbddd1ec6d3b17b2d8cfc70021b7c4c821d0a8f96f853165a8c27e",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L167",
+    "title": "Research Progress and the Prospect of Damping Magnesium Alloys",
+    "doi": "10.3390/ma17061285",
+    "authors": [
+      "Wang, Jinxing",
+      "Zou, Yi",
+      "Dang, Cong",
+      "Wan, Zhicheng",
+      "Wang, Jingfeng",
+      "Pan, Fusheng"
+    ],
+    "sha256": "d7f041e80ad005aa92b53528925532bab16af3f3eb1e14b1e0bfb1c278a843c1",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Review Research "
+  },
+  {
+    "id": "L168",
+    "title": "镁合金选区激光熔化增材制造技术研究现状与展望",
+    "doi": "10.11900/0412.1961.2022.00166",
+    "authors": [
+      "彭立明",
+      "邓庆琛",
+      "吴玉娟",
+      "付彭怀",
+      "刘子翼",
+      "武千业",
+      "陈凯",
+      "丁文江"
+    ],
+    "sha256": "ee91026ddf6ce7f3ccb43f3763484e69e17280b69cf89cdd3b0f7b77e64c9a49",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L169",
+    "title": "Recent developments and applications on high-performance cast magnesium rare-earth alloys",
+    "doi": "10.1016/j.jma.2020.06.021",
+    "authors": [
+      "Wu, Guohua",
+      "Wang, Cunlong",
+      "Sun, Ming",
+      "Ding, Wenjiang"
+    ],
+    "sha256": "9e17e054136ff050bd55c3611185d39bf1f4ae2dbffcb574914d705ebff0a764",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "ngqing University. This is an open access article under the CC BY-NC-ND license ( http://creativecommons.org/licenses/by-nc-nd/4.0/ ) Peer review under responsibility of Chongqing University Keywords: Magnesium alloys; "
+  },
+  {
+    "id": "L173",
+    "title": "Pulse current induced damping enhancement in micron-submicron pure magnesium",
+    "doi": "10.1016/j.jma.2025.08.009",
+    "authors": [
+      "Su, Di",
+      "Fan, Jianfeng",
+      "Zhang, Qiang",
+      "Wang, Binshan",
+      "Huang, Weiping",
+      "Dong, Hongbiao"
+    ],
+    "sha256": "ef5c61a7280e1fe4b385f93cb9e63b6c7fc1842dc76218ef6ca445b37567d2bd",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Keywords: Electric pulse treatment; Pure Mg; Dislocation; Stacking faults; Damping capaci"
+  },
+  {
+    "id": "L175",
+    "title": "Wire-based friction stir additive manufacturing of AZ31B magnesium alloy: Precipitate behavior and mechanical properties",
+    "doi": "10.1016/j.jma.2025.04.025",
+    "authors": [
+      "Sun, Xiuwen",
+      "Xie, Yuming",
+      "Meng, Xiangchen",
+      "Zhang, Zeyu",
+      "Tian, Huijia",
+      "Dong, Wenjiang",
+      "Dong, Jianing",
+      "Ma, Xiaotian",
+      "Wang, Naijie",
+      "Huang, Yongxian"
+    ],
+    "sha256": "648d415edfdf62fea8d21a62b82457dd286da4e3929547789aa2014073f1ba37",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Keywords: Friction stir additive manufacturing; Magnesium alloys; Textures; Mechanical pr"
+  },
+  {
+    "id": "L176",
+    "title": "A Critical Review on the Comparative Assessment of Rare-Earth and Non-Rare-Earth Alloying in Magnesium Alloys",
+    "doi": "10.3390/met15020128",
+    "authors": [
+      "Tariq, Hafiz Muhammad Rehan",
+      "Ishtiaq, Muhammad",
+      "Kang, Hyun-Hak",
+      "Chaudry, Umer Masood",
+      "Jun, Tea-Sung"
+    ],
+    "sha256": "55c9dabacb3dcfea43f7fee9fe45bf2cdbc8af66ebd2590f3b5823cf3a583354",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/ licenses/by/4.0/). Review A Critical Review on"
+  },
+  {
+    "id": "L178",
+    "title": "Additive manufacturing high-strength and ultra-high-rare-earth magnesium alloys: Excellent long-time aging hardening and strengthening behavior",
+    "doi": "10.1016/j.jma.2025.04.007",
+    "authors": [
+      "Xu, Zhe",
+      "Li, Zhuo",
+      "Shen, Chunjie",
+      "Zheng, Dongdong",
+      "Tu, Yuxuan"
+    ],
+    "sha256": "6b10d2aa99b714a864e60d8ba164e88b1310e7de7cb56c228e9a7a9fd49a32c7",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Keywords: LDED; Mg-Gd-Zn-Zr; Heat treatment; Precipitates evolution. 1. Introduction The "
+  },
+  {
+    "id": "L179",
+    "title": "High strength and ductility in a rare-earth free magnesium alloy processed by rotary swaging and flash annealing",
+    "doi": "10.1038/s43246-025-00736-z",
+    "authors": [
+      "Fan, Yunhao",
+      "Li, Yaofeng",
+      "Guo, Hui",
+      "Zhu, Gaoming",
+      "Liu, Boyu",
+      "Wang, Hao",
+      "Zhou, Hao",
+      "Xu, Yuling",
+      "Zeng, Xiaoqin",
+      "Wang, Leyun"
+    ],
+    "sha256": "b7dc9c0c296649ecc5aaa3174d6e352744440cd5316cf7865580e90b21ca0786",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1038%2Fs43246-025-00736-z",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L180",
+    "title": "Load direction and temperature impacts on cyclic creep behavior of laser-based powder bed fusion-produced WE43 magnesium alloy",
+    "doi": "10.1016/j.addlet.2025.100316",
+    "authors": [
+      "Koch, Alexander",
+      "Stammkoetter, Sebastian",
+      "Abel, Arvid",
+      "Chehreh, Abootorab",
+      "Hermsdorf, Joerg",
+      "Kaierle, Stefan",
+      "Walther, Frank"
+    ],
+    "sha256": "e13f1a52c9a0994840ccfafbf55cd17044bfc23e405ee173f6a82341861d455c",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "ed by Elsevier B.V. This is an open access article under the CC BY license ( http://creativecommons.org/licenses/by/4.0/ ). properties [ 7 ]. The aforementioned limitations restrict the potential of magnesium alloys in a"
+  },
+  {
+    "id": "L182",
+    "title": "Achieving ultra-high strength and ductility in a rare-earth-free magnesium alloy via precisely controlled secondary hot extrusion process with an extremely low extrusion speed",
+    "doi": "10.1016/j.jma.2024.07.015",
+    "authors": [
+      "Gao, Wei",
+      "Wang, Xin",
+      "Lin, Yingjian",
+      "Wang, Xiao",
+      "Liu, Debao",
+      "Sun, Xiaohao"
+    ],
+    "sha256": "9a21362a2f8afff6f720dbe54281d3f80c22274563b8091aab5f0fbcbe3804a5",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Mg alloy; Nano-sized p"
+  },
+  {
+    "id": "L185",
+    "title": "Mechanical and corrosion properties of full liquid phase sintered WE43 magnesium alloy specimens fabricated via binder jetting additive manufacturing",
+    "doi": "10.1016/j.jma.2024.06.023",
+    "authors": [
+      "Cho, Dae Hyun",
+      "Dean, David",
+      "Luo, Alan A."
+    ],
+    "sha256": "92a0fa48df61cf85162a86b94137a0a07da3934efff28da7321df42bd851681f",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Magnesium alloy; Liqui"
+  },
+  {
+    "id": "L186",
+    "title": "Progress in Additive Manufacturing of Magnesium Alloys: A Review",
+    "doi": "10.3390/ma17153851",
+    "authors": [
+      "Chen, Jiayu",
+      "Chen, Bin"
+    ],
+    "sha256": "934f6bab75f0344d5dccdd5d71aad532a8dccd0ee7c3c08747695b02596fe631",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Review Progress "
+  },
+  {
+    "id": "L188",
+    "title": "Development and characteristics of a low rare-earth containing magnesium alloy with high strength-ductility synergy",
+    "doi": "10.1016/j.jma.2022.01.005",
+    "authors": [
+      "Yu, Zijian",
+      "Xu, Xi",
+      "Shi, Kang",
+      "Du, Baotian",
+      "Han, Xiuzhu",
+      "Xiao, Tao",
+      "Li, Shubo",
+      "Liu, Ke",
+      "Du, Wenbo"
+    ],
+    "sha256": "84ba5ac1ef114599751dc10d29dbb3cb775a7529e6b2e02bf01d2722537f0680",
+    "version_note": "Poppler可读取并渲染；已目视核对首页题名与DOI；保留期刊原始PDF",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Magnesium alloy; Micro"
+  },
+  {
+    "id": "L192",
+    "title": "Fatigue crack propagation in fine-grained magnesium under low temperature tension-tension cyclic loading",
+    "doi": "10.1016/j.jma.2023.03.010",
+    "authors": [
+      "Li, Qizhen"
+    ],
+    "sha256": "da3f2bfbed478d0b12b4911ac383b77b8c4271a0703c4fce259e28e518efc174",
+    "version_note": "Poppler可读取并渲染；已目视核对首页题名与DOI；保留期刊原始PDF",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1016%2Fj.jma.2023.03.010",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L195",
+    "title": "Oscillating Laser-Arc Hybrid Additive Manufacturing of AZ31 Magnesium Alloy",
+    "doi": "10.3390/app13020897",
+    "authors": [
+      "Gao, Ming",
+      "Cen, Ling",
+      "Jiang, Laihege",
+      "Zhao, Suning",
+      "Gong, Mengcheng"
+    ],
+    "sha256": "41ca971afcb619525d96f78ddbef86bf2a68c2f608dab074c1b7fd7a04afef60",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). applied sciences Articl"
+  },
+  {
+    "id": "L198",
+    "title": "Research Progress on the Damping Mechanism of Magnesium Alloys",
+    "doi": "10.3390/ma16237318",
+    "authors": [
+      "Wang, Jinxing",
+      "Wan, Zhicheng",
+      "Dang, Cong",
+      "Zou, Yi",
+      "Wang, Jingfeng",
+      "Pan, Fusheng"
+    ],
+    "sha256": "912f5d6f1d631805bfb8cd2d16c50ef412ca12288c3dc69d684512cab0e5b161",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Review Research "
+  },
+  {
+    "id": "L199",
+    "title": "Additive friction stir deposition of AZ31B magnesium alloy",
+    "doi": "10.1016/j.jma.2022.03.011",
+    "authors": [
+      "Joshi, Sameehan S.",
+      "Patil, Shreyash M.",
+      "Mazumder, Sangram",
+      "Sharma, Shashank",
+      "Riley, Daniel A.",
+      "Dowden, Shelden",
+      "Banerjee, Rajarshi",
+      "Dahotre, Narendra B."
+    ],
+    "sha256": "1614cf5931d92dbfadeea74e728e80956e46e2f2c9f030625cdacbdad6c26421",
+    "version_note": "Poppler可读取并渲染；已目视核对首页题名与DOI；保留期刊原始PDF",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "unications Co. Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) Peer review under responsibility of Chongqing University Keywords: Additive friction stir"
+  },
+  {
+    "id": "L200",
+    "title": "Rare Earth Based Magnesium Alloys—A Review on WE Series",
+    "doi": "10.3389/fmats.2021.804906",
+    "authors": [
+      "Calado, Lénia M.",
+      "Carmezim, Maria J.",
+      "Montemor, M. Fátima"
+    ],
+    "sha256": "4697293b74953fadcd1a64beb6e9830b64890c73c5b133a0f8139a8d26fdf01a",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3389%2Ffmats.2021.804906",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L206",
+    "title": "Development of a High Strength Magnesium Alloy for Wire Arc Additive Manufacturing",
+    "doi": "10.3390/met10060778",
+    "authors": [
+      "Gneiger, Stefan",
+      "Österreicher, Johannes A.",
+      "Arnoldt, Aurel R.",
+      "Birgmann, Alois",
+      "Fehlbier, Martin"
+    ],
+    "sha256": "5ab00c94ae17d870f355f137a56831a9f2f221f265c240381a7de0a33a623d3f",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fmet10060778",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L207",
+    "title": "Fatigue Properties of AZ31 and WE43 Magnesium Alloys",
+    "doi": "10.24425/amm.2020.132811",
+    "authors": [
+      "Junak, G."
+    ],
+    "sha256": "b7c2be0189c5e8a9ca666eb25e43ebaa8775eb17227bbd56c6f6d5d7c184ccdb",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "020. The Author(s). This is an open-access article distribut ed under the terms of the Creative Commons Attribution-NonCom- mercial License (CC BY-NC 4.0, https://creativecommons.org/licenses/by-nc/4.0/deed.en which permits the use, redistribution of the material in any medium or f"
+  },
+  {
+    "id": "L208",
+    "title": "Thermographic Study of AZ31B Magnesium Alloy under Cyclic Loading: Temperature Evolution Analysis and Fatigue Limit Estimation",
+    "doi": "10.3390/ma13225209",
+    "authors": [
+      "Guo, Shaofei",
+      "Liu, Xuesong",
+      "Zhang, Hongxia",
+      "Yan, Zhifeng",
+      "Zhang, Zhongdian",
+      "Fang, Hongyuan"
+    ],
+    "sha256": "35975a4b275a4c77b549b9c75854923dbcebcbba3038321c99396d6e76b8128f",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma13225209",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L213",
+    "title": "Designing a magnesium alloy with high strength and high formability",
+    "doi": "10.1038/s41467-018-04981-4",
+    "authors": [
+      "Trang, T. T. T.",
+      "Zhang, J. H.",
+      "Kim, J. H.",
+      "Zargaran, A.",
+      "Hwang, J. H.",
+      "Suh, B.-C.",
+      "Kim, N. J."
+    ],
+    "sha256": "640833b517aab3a876ef21f78d8c94df9559f4198aa8ed86ccf3c1793ae47f94",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1038%2Fs41467-018-04981-4",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L216",
+    "title": "A rare-earth free magnesium alloy with improved intrinsic ductility",
+    "doi": "10.1038/s41598-017-10384-0",
+    "authors": [
+      "Sandlöbes, S.",
+      "Friák, M.",
+      "Korte-Kerzel, S.",
+      "Pei, Z.",
+      "Neugebauer, J.",
+      "Raabe, D."
+    ],
+    "sha256": "b67f3f9d3f29714bb3b668f7d984efb47f47064a82908b0d5dc83ad9adf8318c",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1038%2Fs41598-017-10384-0",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L224",
+    "title": "Selective Laser Melting of Magnesium and Magnesium Alloy Powders: A Review",
+    "doi": "10.3390/met7010002",
+    "authors": [
+      "Manakari, Vyasaraj",
+      "Parande, Gururaj",
+      "Gupta, Manoj"
+    ],
+    "sha256": "33de653a8d3a2f4dd3e47b15e35557668280d3d6cd2a292a8efeb592c86d7135",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fmet7010002",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L225",
+    "title": "Wire Arc Additive Manufacturing of AZ31 Magnesium Alloy: Grain Refinement by Adjusting Pulse Frequency",
+    "doi": "10.3390/ma9100823",
+    "authors": [
+      "Guo, Jing",
+      "Zhou, Yong",
+      "Liu, Changmeng",
+      "Wu, Qianru",
+      "Chen, Xianping",
+      "Lu, Jiping"
+    ],
+    "sha256": "db17cb59dc53248a26325e8fcb322e1d6e9a5d46168b8edecda6471c97e52950",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma9100823",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L226",
+    "title": "3D printing of high-strength aluminium alloys",
+    "doi": "10.1038/nature23894",
+    "authors": [
+      "Martin, John H.",
+      "Yahata, Brennan D.",
+      "Hundley, Jacob M.",
+      "Mayer, Justin A.",
+      "Schaedler, Tobias A.",
+      "Pollock, Tresa M."
+    ],
+    "sha256": "1d5f7c20bba3e3b2e773bf60e92a4d67bffcca9de5b03de98a6be565d88c2fec",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L229",
+    "title": "Manufacturing and Mechanical Behaviour of Scalmalloy® Lattice Structures: Experimental Validation and Model",
+    "doi": "10.3390/ma18153479",
+    "authors": [
+      "Lagalante, Ilaria",
+      "Manfredi, Diego",
+      "Balestrieri, Sergio",
+      "Mocella, Vito",
+      "El Hassanin, Andrea",
+      "Coppola, Giuseppe",
+      "Lombardi, Mariangela",
+      "Fino, Paolo"
+    ],
+    "sha256": "50212ad7c99f4952453dad2cb5c84babc0f9ce2889c20b4d753f59d8d67602bc",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/ licenses/by/4.0/). Article Manufacturing and M"
+  },
+  {
+    "id": "L231",
+    "title": "Microstructures and mechanical properties of friction stir welded additively manufactured Scalmalloy®",
+    "doi": "10.1007/s00170-024-14237-9",
+    "authors": [
+      "Mirandola, Pietro",
+      "Novel, David",
+      "Perini, Matteo",
+      "Benedetti, Matteo",
+      "Lombardi, Franco",
+      "Lunetto, Vincenzo",
+      "Spena, Pasquale Russo"
+    ],
+    "sha256": "4cb5e3adb6502f143a3faab3fffb419dcc8d35652a35982edf3622d2a30c4f37",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1007%2Fs00170-024-14237-9",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L240",
+    "title": "Microstructure Evolution and Mechanical Property Response of 3D-Printed Scalmalloy with Different Heat-Treatment Times at 325 °C",
+    "doi": "10.3390/met11040555",
+    "authors": [
+      "Kuo, C. N.",
+      "Peng, P. C.",
+      "Liu, D. H.",
+      "Chao, C. Y."
+    ],
+    "sha256": "ce20d6871b8f1dfb1cbce3f2d8186c53eff0cdd3889e1f71ce3de5eee3d44cc2",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 1 Department of Bioinforma"
+  },
+  {
+    "id": "L241",
+    "title": "Strain Rate Sensitivity of the Additive Manufacturing Material Scalmalloy®",
+    "doi": "10.1007/s40870-021-00298-4",
+    "authors": [
+      "Jakkula, P.",
+      "Ganzenmüller, G.",
+      "Gutmann, F.",
+      "Pfaff, A.",
+      "Mermagen, J.",
+      "Hiermaier, S."
+    ],
+    "sha256": "b7db08b2c5660255faf02c37a907ca75efbd48376bedf7857f738f66f65a22cd",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1007%2Fs40870-021-00298-4",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L247",
+    "title": "Selective Laser Melting of Aluminum and Its Alloys",
+    "doi": "10.3390/ma13204564",
+    "authors": [
+      "Wang, Zhi",
+      "Ummethala, Raghunandan",
+      "Singh, Neera",
+      "Tang, Shengyang",
+      "Suryanarayana, Challapalli",
+      "Eckert, Jürgen",
+      "Prashanth, Konda Gokuldoss"
+    ],
+    "sha256": "cc28a99a30070f811c39e889364e1f5ba02c737b8caef3e15c73d48fd602b8a4",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma13204564",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L252",
+    "title": "Comparison of Microstructure and Mechanical Properties of Scalmalloy® Produced by Selective Laser Melting and Laser Metal Deposition",
+    "doi": "10.3390/ma11010017",
+    "authors": [
+      "Awd, Mustafa",
+      "Tenkamp, Jochen",
+      "Hirtler, Markus",
+      "Siddique, Shafaqat",
+      "Bambach, Markus",
+      "Walther, Frank"
+    ],
+    "sha256": "2f7a3da1ee623a75c0a68fb069ca8e377f09055e0fff0a441f2cc4ab56b8ded3",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.3390%2Fma11010017",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L254",
+    "title": "Selective laser melting of aluminum alloys",
+    "doi": "10.1557/mrs.2017.63",
+    "authors": [
+      "Aboulkhair, Nesma T.",
+      "Everitt, Nicola M.",
+      "Maskery, Ian",
+      "Ashcroft, Ian",
+      "Tuck, Chris"
+    ],
+    "sha256": "1cf066f94c54f807df9366ce926b60b23f1876c3ddcccb4b22c12e919003686d",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L255",
+    "title": "Influence of processing parameters on laser penetration depth and melting/re-melting densification during selective laser melting of aluminum alloy",
+    "doi": "10.1007/s00339-016-0428-6",
+    "authors": [
+      "Yu, Guanqun",
+      "Gu, Dongdong",
+      "Dai, Donghua",
+      "Xia, Mujian",
+      "Ma, Chenglong",
+      "Chang, Kun"
+    ],
+    "sha256": "59d9e585fb450118714ea569bed23afce257a4afa57b2be2bebc83d9ba7b90d9",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L257",
+    "title": "Additive manufacturing of Ti6Al4V alloy: A review",
+    "doi": "10.1016/j.matdes.2018.107552",
+    "authors": [
+      "Liu, Shunyu",
+      "Shin, Yung C."
+    ],
+    "sha256": "e99262902dbe7e0a7cb7043d46c7722ecf6cd47d00fc31c66fb2eaa4759ec143",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "ed by Elsevier Ltd. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/). Keywords: Ti6Al4V Directed energy deposition Selective laser melting Electron beam melti"
+  },
+  {
+    "id": "L258",
+    "title": "Compression Behavior and Fatigue Strength of Additively Manufactured Ti6Al4V Strut-Based Lattice Structures: A Review",
+    "doi": "10.1007/s11665-025-11916-w",
+    "authors": [
+      "Parameswaran, P.",
+      "Prabhu, T. Ram",
+      "Owolabi, Gbadebo",
+      "Kesavan, D.",
+      "Jayaganthan, R."
+    ],
+    "sha256": "6014615441690010ef32d26d2dffb9427d9ff20138173b6eac01c0161932faca",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L260",
+    "title": "A Study on Compression Behavior and Fracture Morphology in Dumbbell-Shaped Ti6Al4V Lattice Structures Fabricated through Additive Manufacturing",
+    "doi": "10.1007/s11665-024-10560-0",
+    "authors": [
+      "Parameswaran, P.",
+      "Gairola, Saurabh",
+      "Kesavan, D.",
+      "Jayaganthan, R."
+    ],
+    "sha256": "9b0574ede737546acd9b3cbcf41278bbbc79a614c1c9e9c082ab6f75d2a4a3c3",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L262",
+    "title": "High-cycle fatigue analysis in dumbbell-shaped lattice structure of Ti6Al4V through additive manufacturing: experimental and numerical simulation",
+    "doi": "10.1557/s43578-025-01615-6",
+    "authors": [
+      "Parameswaran, P.",
+      "Kesavan, D.",
+      "Jayaganthan, R."
+    ],
+    "sha256": "c7b00b64e3c5bb81d3936f0cb5459ad233d8434109cbea5db4cf8372adb82abe",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L264",
+    "title": "Cold Spray Additive Manufacturing of Ti6Al4V: Deposition Optimization",
+    "doi": "10.1007/s11666-024-01855-8",
+    "authors": [
+      "Kondas, Jan",
+      "Guagliano, Mario",
+      "Bagherifard, Sara",
+      "Singh, Reeti",
+      "Cizek, Jan",
+      "Konopik, Pavel",
+      "Prochazka, Radek",
+      "Kachlik, Martin"
+    ],
+    "sha256": "0c45a53aff334db35091c6dc1bafa65f5a555524c490cb6567f316f19be7b742",
+    "version_note": "题名吻合",
+    "allowed": false,
+    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+  },
+  {
+    "id": "L265",
+    "title": "Electron beam powder bed fusion additive manufacturing of Ti6Al4V alloy lattice structures: orientation-dependent compressive strength and fracture behavior",
+    "doi": "10.1007/s00170-024-13539-2",
+    "authors": [
+      "Huang, Yawen",
+      "Chen, Zhan Wen",
+      "Wan, Antony Rey O.",
+      "Schmidt, Kurt",
+      "Sefont, Peter",
+      "Singamneni, Saret"
+    ],
+    "sha256": "1b690f28595c1c331f9207f85e991a18ecd0c6e945e5dc308cc765f807fb2b4f",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.1007%2Fs00170-024-13539-2",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L267",
+    "title": "Multi-material structures of Ti6Al4V and Ti6Al4V-B4C through directed energy deposition-based additive manufacturing",
+    "doi": "10.36922/msam.3571",
+    "authors": [
+      "W. Zuckschwerdt, Nathaniel",
+      "Bandyopadhyay, Amit"
+    ],
+    "sha256": "faa86791c03a341fd02bde1078a3e791fbbca371183ce94b135fc7ddd3346fe7",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "evidence_source": "https://api.crossref.org/works/10.36922%2Fmsam.3571",
+    "evidence": "Crossref正式题录登记的Creative Commons许可；本地保存版本已核对题名/DOI。"
+  },
+  {
+    "id": "L268",
+    "title": "Effect of chemical–electrochemical surface treatment on the roughness and fatigue performance of porous titanium lattice structures",
+    "doi": "10.1016/j.addma.2023.103896",
+    "authors": [
+      "Oosterbeek, Reece N.",
+      "Sirbu, Gabriela",
+      "Hansal, Selma",
+      "Nai, Kenneth",
+      "Jeffers, Jonathan R.T."
+    ],
+    "sha256": "c250612ce714bea1c8ba887da8e78aa0c609055371a3c7a551be4e8d8158c39e",
+    "version_note": "已核对arXiv页面对应正式DOI；保存的是题名为Effect of hirtisation...的预印本版本",
+    "allowed": false,
+    "reason": "保存版本与出版版本不同，尚未核实该版本的再分发许可"
+  },
+  {
+    "id": "L272",
+    "title": "Importance of Build Design Parameters to the Fatigue Strength of Ti6Al4V in Electron Beam Melting Additive Manufacturing",
+    "doi": "10.3390/ma15165617",
+    "authors": [
+      "Ghods, Sean",
+      "Schur, Reid",
+      "Montelione, Alex",
+      "Schleusener, Rick",
+      "Arola, Dwayne D.",
+      "Ramulu, Mamidala"
+    ],
+    "sha256": "93754f1cdff7dddd2b023570980a0e29e27cec7e9fe82c5963649207581ca6ec",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). materials Article Importan"
+  },
+  {
+    "id": "L276",
+    "title": "Effect of Line Energy Conditions on Mechanical and Fatigue Properties of Ti6Al4V Fabricated by Electron Beam Additive Manufacturing",
+    "doi": "10.3390/met11060878",
+    "authors": [
+      "Choi, Youngsin",
+      "Kim, Hwi-Jun",
+      "Kim, Gun-Hee",
+      "Lee, Chang-Woo",
+      "Lee, Dong-Geun"
+    ],
+    "sha256": "d7ff8bcc74b6f105828b7c34fab3326795dd0c195eaebb7ab217836dfd1e99cd",
+    "version_note": "题名吻合",
+    "allowed": true,
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "evidence_source": "saved_pdf",
+    "evidence": "Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https:// creativecommons.org/licenses/by/ 4.0/). 1 Korea Institute of Indus"
+  }
+]

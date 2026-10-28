@@ -1,0 +1,7 @@
+.local/
+__pycache__/
+*.pyc
+*.tmp
+*.lock
+~$*
+.DS_Store
