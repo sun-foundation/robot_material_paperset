@@ -1,7 +1,8 @@
 # PDF 署名与许可
 
-每份PDF保持原始文件内容及署名，文件名仅用于分类。以下许可分别适用于对应论文。
-本仓库用于非商业学术文献整理；含NC许可的文件不得据此推定可用于商业用途，含ND许可的文件按原样提供。
+每份PDF保持原始字节及署名，文件名仅用于分类。许可分别适用于对应论文。
+
+含NC许可的文件用于非商业学术整理；含ND许可的文件按原样提供。第三方材料的另行许可声明仍然适用。
 
 ## L005 — Structural Optimization in Lightweight Design for Additive Manufacturing
 
@@ -43,6 +44,16 @@
 
 文件：[原样PDF](../papers/01_%E4%BA%BA%E5%BD%A2%E4%B8%8E%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6/%5BL015%5D%202018%20-%20Generate%20an%20Optimum%20Lightweight%20Legs%20Structure%20Design%20Based%20on%20Critical%20Posture%20in%20A-FLo.pdf)。
 
+## L017 — Elastic modulus in magnesium matrix composites
+
+作者：Zhou, Jiming; Yun, Kang; Qi, Lehua
+
+出处：Review of Materials Research，2025。DOI：[原文](https://doi.org/10.1016/j.revmat.2025.100008)。
+
+许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
+
+文件：[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL017%5D%202025%20-%20Elastic%20modulus%20in%20magnesium%20matrix%20composites.pdf)。
+
 ## L019 — The interface structure and property of magnesium matrix composites: A review
 
 作者：Xiong, Hongwei; Gu, Lidong; Wang, Jingya; Zhou, Liping; Ying, Tao; Wang, Shiwei; Zhou, Haitao; Li, Jianbo; Gao, Yang; Zeng, Xiaoqin
@@ -83,6 +94,16 @@
 
 文件：[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL028%5D%202024%20-%20Nano-Enhanced%20Phase%20Reinforced%20Magnesium%20Matrix%20Composites_%20A%20Review%20of%20the%20Matrix%2C%20Rein.pdf)。
 
+## L032 — Hybrid magnesium matrix composites: A review of reinforcement philosophies, mechanical and tribological characteristics
+
+作者：Khatkar, Sandeep Kumar
+
+出处：REVIEWS ON ADVANCED MATERIALS SCIENCE，2023。DOI：[原文](https://doi.org/10.1515/rams-2022-0294)。
+
+许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
+
+文件：[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL032%5D%202023%20-%20Hybrid%20magnesium%20matrix%20composites_%20A%20review%20of%20reinforcement%20philosophies%2C%20mechanical%20and%20tribological%20c.pdf)。
+
 ## L035 — Predicting Mechanical Properties of Magnesium Matrix Composites with Regression Models by Machine Learning
 
 作者：Huang, Song-Jeng; Adityawardhana, Yudhistira; Sanjaya, Jeffry
@@ -102,6 +123,26 @@
 许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
 
 文件：[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL036%5D%202023%20-%20Surface%20Coatings%20of%20Reinforcement%20Phases%20in%20Magnesium%20Matrix%20Composites_%20A%20Review.pdf)。
+
+## L039 — A review of the design, processes, and properties of Mg-based composites
+
+作者：Guan, Haotian; Xiao, Hui; Ouyang, Sihui; Tang, Aitao; Chen, Xianhua; Tan, Jun; Feng, Bo; She, Jia; Zheng, Kaihong; Pan, Fusheng
+
+出处：Nanotechnology Reviews，2022。DOI：[原文](https://doi.org/10.1515/ntrev-2022-0043)。
+
+许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
+
+文件：[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL039%5D%202022%20-%20A%20review%20of%20the%20design%2C%20processes%2C%20and%20properties%20of%20Mg-based%20composites.pdf)。
+
+## L042 — Magnesium matrix composite reinforced by nanoparticles – A review
+
+作者：Nie, K.B.; Wang, X.J.; Deng, K.K.; Hu, X.S.; Wu, K.
+
+出处：Journal of Magnesium and Alloys，2021。DOI：[原文](https://doi.org/10.1016/j.jma.2020.08.018)。
+
+许可：[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
+
+文件：[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL042%5D%202021%20-%20Magnesium%20matrix%20composite%20reinforced%20by%20nanoparticles%20%E2%80%93%20A%20review.pdf)。
 
 ## L043 — Development and influence of tribomechanical properties on magnesium based hybrid metal matrix composites-a review
 
@@ -132,6 +173,26 @@
 许可：[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
 文件：[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL047%5D%202022%20-%20Microstructures%20and%20mechanical%20properties%20of%20titanium-reinforced%20magnesium%20matrix%20compos.pdf)。
+
+## L050 — Metallic-particle-reinforced magnesium matrix composites: A review of preparation, interfacial structure, and properties
+
+作者：Zhang, Zhanyu; Jiang, Jing; Bi, Guangli; Li, Yuan Dong; Chen, Tijun
+
+出处：Journal of Materials Research and Technology，2026。DOI：[原文](https://doi.org/10.1016/j.jmrt.2026.06.186)。
+
+许可：[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
+
+文件：[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL050%5D%202026%20-%20Metallic-particle-reinforced%20magnesium%20matrix%20composites_%20A%20review%20of%20preparation%2C%20interfacial%20structure%2C.pdf)。
+
+## L051 — Predicting wear rates in magnesium-based composites reinforced with Ti and SiC particles using artificial neural networks
+
+作者：Ahmadian, Hossein; Ataya, Sabbah; Abdelfattah, Waleed Mohammed; Fathy, Adel
+
+出处：Journal of Materials Research and Technology，2026。DOI：[原文](https://doi.org/10.1016/j.jmrt.2026.01.140)。
+
+许可：[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)。
+
+文件：[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL051%5D%202026%20-%20Predicting%20wear%20rates%20in%20magnesium-based%20composites%20reinforced%20with%20Ti%20and%20SiC%20particles%20using%20artificial.pdf)。
 
 ## L055 — Microstructure and Mechanical Properties of Hybrid AZ91 Magnesium Matrix Composite with Ti and SiC Particles
 
@@ -693,6 +754,16 @@
 
 文件：[原样PDF](../papers/08_%E9%92%9B%E5%90%88%E9%87%91%E5%8F%8A%E9%87%91%E5%B1%9E%E5%85%B1%E6%80%A7%E7%96%B2%E5%8A%B3/%5BL257%5D%202019%20-%20Additive%20manufacturing%20of%20Ti6Al4V%20alloy_%20A%20review.pdf)。
 
+## L259 — Electron beam powder bed fusion additive manufacturing of Ti6Al4V alloy lattice structures: orientation-dependent fatigue strength and crack growth behaviour under compressive cyclic loading
+
+作者：Huang, Yawen; Chen, Zhan Wen
+
+出处：Journal of the Mechanical Behavior of Biomedical Materials，2026。DOI：[原文](https://doi.org/10.1016/j.jmbbm.2025.107201)。
+
+许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
+
+文件：[原样PDF](../papers/08_%E9%92%9B%E5%90%88%E9%87%91%E5%8F%8A%E9%87%91%E5%B1%9E%E5%85%B1%E6%80%A7%E7%96%B2%E5%8A%B3/%5BL259%5D%202026%20-%20Electron%20beam%20powder%20bed%20fusion%20additive%20manufacturing%20of%20Ti6Al4V%20alloy%20lattice%20structures_%20orientation-d.pdf)。
+
 ## L265 — Electron beam powder bed fusion additive manufacturing of Ti6Al4V alloy lattice structures: orientation-dependent compressive strength and fracture behavior
 
 作者：Huang, Yawen; Chen, Zhan Wen; Wan, Antony Rey O.; Schmidt, Kurt; Sefont, Peter; Singamneni, Saret
@@ -732,3 +803,13 @@
 许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
 
 文件：[原样PDF](../papers/08_%E9%92%9B%E5%90%88%E9%87%91%E5%8F%8A%E9%87%91%E5%B1%9E%E5%85%B1%E6%80%A7%E7%96%B2%E5%8A%B3/%5BL276%5D%202021%20-%20Effect%20of%20Line%20Energy%20Conditions%20on%20Mechanical%20and%20Fatigue%20Properties%20of%20Ti6Al4V%20Fabrica.pdf)。
+
+## L279 — High Frequency Vibration Fatigue Behavior of Ti6Al4V Fabricated by Wire‐Fed Electron Beam Additive Manufacturing Technology
+
+作者：Wanjara, P.; Gholipour, J.; Watanabe, E.; Watanabe, K.; Sugino, T.; Patnaik, P.; Sikan, F.; Brochu, M.
+
+出处：Advances in Materials Science and Engineering，2020。DOI：[原文](https://doi.org/10.1155/2020/1902567)。
+
+许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
+
+文件：[原样PDF](../papers/08_%E9%92%9B%E5%90%88%E9%87%91%E5%8F%8A%E9%87%91%E5%B1%9E%E5%85%B1%E6%80%A7%E7%96%B2%E5%8A%B3/%5BL279%5D%202020%20-%20High%20Frequency%20Vibration%20Fatigue%20Behavior%20of%20Ti6Al4V%20Fabricated%20by%20Wire%E2%80%90Fed%20Electron%20Beam%20Additive%20Manufa.pdf)。

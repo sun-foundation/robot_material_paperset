@@ -278,11 +278,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L008",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 17,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1093/jcde/qwaf048",
@@ -592,11 +593,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L017",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 14,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/02_镁基复合材料综合综述与设计/[L017] 2025 - Elastic modulus in magnesium matrix composites.pdf",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1177/02670836241229025",
@@ -623,11 +625,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L018",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 38,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
   },
   {
     "doi": "10.1016/j.jma.2024.04.022",
@@ -898,11 +901,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L026",
-    "download_status": "待机构订阅入口",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 26,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1007/s40195-024-01673-5",
@@ -1045,11 +1049,12 @@
     "verification": "Crossref及期刊原始页面核验",
     "notes": "作者未在DOI记录中登记，正式引用前补核；主题和材料标签按题名归纳，细节以原文为准",
     "id": "L030",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 17,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
   },
   {
     "doi": "10.1016/j.mtcomm.2023.107249",
@@ -1081,11 +1086,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L031",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 19,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1515/rams-2022-0294",
@@ -1112,11 +1118,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L032",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 15,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/02_镁基复合材料综合综述与设计/[L032] 2023 - Hybrid magnesium matrix composites_ A review of reinforcement philosophies, mechanical and tribological c.pdf",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1177/09544089221126044",
@@ -1345,11 +1352,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L039",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 19,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/02_镁基复合材料综合综述与设计/[L039] 2022 - A review of the design, processes, and properties of Mg-based composites.pdf",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1016/j.cirpj.2022.07.012",
@@ -1379,11 +1387,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L040",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 25,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
   },
   {
     "doi": "10.1016/j.ijlmm.2020.07.002",
@@ -1449,11 +1458,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L042",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 21,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/02_镁基复合材料综合综述与设计/[L042] 2021 - Magnesium matrix composite reinforced by nanoparticles – A review.pdf",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1088/2053-1591/ab7d08",
@@ -1514,11 +1524,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L044",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 10,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.7513/j.issn.1004-7638.2026.03.005",
@@ -1698,11 +1709,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L049",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 14,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1016/j.jmrt.2026.06.186",
@@ -1733,11 +1745,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L050",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 26,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/03_Ti及金属增强镁基复合材料/[L050] 2026 - Metallic-particle-reinforced magnesium matrix composites_ A review of preparation, interfacial structure,.pdf",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1016/j.jmrt.2026.01.140",
@@ -1767,11 +1780,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L051",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 10,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/03_Ti及金属增强镁基复合材料/[L051] 2026 - Predicting wear rates in magnesium-based composites reinforced with Ti and SiC particles using artificial.pdf",
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1016/j.mtcomm.2025.111811",
@@ -1804,11 +1818,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L052",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 7,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1002/adem.202402277",
@@ -1837,11 +1852,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L053",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 11,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
   },
   {
     "doi": "10.1016/j.msea.2024.146103",
@@ -1876,11 +1892,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L054",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 11,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
   },
   {
     "doi": "10.3390/ma15186301",
@@ -1977,11 +1994,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L057",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 14,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1016/j.msea.2019.138793",
@@ -2011,11 +2029,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L058",
-    "download_status": "待补充全文来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 11,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
   },
   {
     "doi": "10.1007/s11665-026-14244-9",
@@ -4870,11 +4889,12 @@
     "verification": "Crossref及期刊机构存档核验",
     "notes": "作者、年份及页码据期刊机构存档补齐；主题标签按题名归纳",
     "id": "L140",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
+    "download_status": "已下载",
+    "pages": 6,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "public_pdf": null,
-    "license_url": null
+    "license_url": null,
+    "publication_note": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
   },
   {
     "doi": "10.1002/adem.202000170",
@@ -9092,11 +9112,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L259",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 16,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/08_钛合金及金属共性疲劳/[L259] 2026 - Electron beam powder bed fusion additive manufacturing of Ti6Al4V alloy lattice structures_ orientation-d.pdf",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1007/s11665-024-10560-0",
@@ -9801,11 +9822,12 @@
     "verification": "Crossref正式题录核验",
     "notes": "主题和材料标签按题名归纳，细节以原文为准",
     "id": "L279",
-    "download_status": "待学校浏览器或补充来源",
-    "pages": null,
-    "version_note": "",
-    "public_pdf": null,
-    "license_url": null
+    "download_status": "已下载",
+    "pages": 14,
+    "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
+    "public_pdf": "papers/08_钛合金及金属共性疲劳/[L279] 2020 - High Frequency Vibration Fatigue Behavior of Ti6Al4V Fabricated by Wire‐Fed Electron Beam Additive Manufa.pdf",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "publication_note": "已核验本PDF版本的开放许可；原始字节公开"
   },
   {
     "doi": "10.1016/j.addma.2020.101222",

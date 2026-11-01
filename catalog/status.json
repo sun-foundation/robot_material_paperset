@@ -1,29 +1,29 @@
 {
   "records": 286,
-  "downloaded_locally": 118,
-  "public_pdfs": 73,
-  "local_only_pdfs": 45,
-  "pending_fulltext": 168,
-  "public_pdf_bytes": 601014090,
-  "download_status_updated": "2026-10-28T16:38:22+08:00",
+  "downloaded_locally": 140,
+  "public_pdfs": 81,
+  "local_only_pdfs": 59,
+  "pending_fulltext": 146,
+  "public_pdf_bytes": 698541186,
+  "download_status_updated": "2026-11-01T16:39:34+08:00",
   "group_counts": [
     {
       "group": "人形与双足机器人结构研究",
       "records": 16,
-      "downloaded": 13,
+      "downloaded": 14,
       "public_pdfs": 4
     },
     {
       "group": "镁基复合材料综合综述与设计",
       "records": 28,
-      "downloaded": 12,
-      "public_pdfs": 7
+      "downloaded": 22,
+      "public_pdfs": 11
     },
     {
       "group": "Ti及金属增强镁基复合材料",
       "records": 14,
-      "downloaded": 4,
-      "public_pdfs": 3
+      "downloaded": 12,
+      "public_pdfs": 5
     },
     {
       "group": "碳增强镁基复合材料",
@@ -34,7 +34,7 @@
     {
       "group": "陶瓷及其他增强镁基复合材料",
       "records": 66,
-      "downloaded": 28,
+      "downloaded": 29,
       "public_pdfs": 14
     },
     {
@@ -52,8 +52,8 @@
     {
       "group": "钛合金及金属共性疲劳",
       "records": 30,
-      "downloaded": 10,
-      "public_pdfs": 5
+      "downloaded": 12,
+      "public_pdfs": 7
     }
   ]
 }
