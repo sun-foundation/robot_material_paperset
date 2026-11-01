@@ -1,29 +1,29 @@
 {
   "records": 286,
   "downloaded_locally": 140,
-  "public_pdfs": 81,
-  "local_only_pdfs": 59,
+  "public_pdfs": 95,
+  "local_only_pdfs": 45,
   "pending_fulltext": 146,
-  "public_pdf_bytes": 698541186,
+  "public_pdf_bytes": 867983151,
   "download_status_updated": "2026-11-01T16:39:34+08:00",
   "group_counts": [
     {
       "group": "人形与双足机器人结构研究",
       "records": 16,
       "downloaded": 14,
-      "public_pdfs": 4
+      "public_pdfs": 5
     },
     {
       "group": "镁基复合材料综合综述与设计",
       "records": 28,
       "downloaded": 22,
-      "public_pdfs": 11
+      "public_pdfs": 17
     },
     {
       "group": "Ti及金属增强镁基复合材料",
       "records": 14,
       "downloaded": 12,
-      "public_pdfs": 5
+      "public_pdfs": 11
     },
     {
       "group": "碳增强镁基复合材料",
@@ -35,7 +35,7 @@
       "group": "陶瓷及其他增强镁基复合材料",
       "records": 66,
       "downloaded": 29,
-      "public_pdfs": 14
+      "public_pdfs": 15
     },
     {
       "group": "镁合金强韧化与制造",
@@ -55,5 +55,7 @@
       "downloaded": 12,
       "public_pdfs": 7
     }
-  ]
+  ],
+  "open_license_verified_pdfs": 81,
+  "synced_without_verified_open_license": 14
 }

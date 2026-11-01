@@ -813,3 +813,147 @@
 许可：[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)。
 
 文件：[原样PDF](../papers/08_%E9%92%9B%E5%90%88%E9%87%91%E5%8F%8A%E9%87%91%E5%B1%9E%E5%85%B1%E6%80%A7%E7%96%B2%E5%8A%B3/%5BL279%5D%202020%20-%20High%20Frequency%20Vibration%20Fatigue%20Behavior%20of%20Ti6Al4V%20Fabricated%20by%20Wire%E2%80%90Fed%20Electron%20Beam%20Additive%20Manufa.pdf)。
+
+# 按用户要求同步、开放许可未核实的原始PDF
+
+以下文件保留原版权声明，未被标注为CC授权。
+
+## L026 — Friction stir processed magnesium matrix surface composites: a comprehensive review
+
+作者：Kang, Amardeep Singh; Singh, Ravinder Pal; Singla, Shivali; Kumar, Abhinav。
+
+出处：Functional Composites and Structures，2024。[DOI官方入口](https://doi.org/10.1088/2631-6331/ad9134)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL026%5D%202024%20-%20Friction%20stir%20processed%20magnesium%20matrix%20surface%20composites_%20a%20comprehensive%20review.pdf)。SHA256：`87719a8006c52a430465c11364efe28abd1d0e7778b07e62e16b432de4d50600`。
+
+## L040 — A review on manufacturability of magnesium matrix composites: Processing, tribology, joining, and machining
+
+作者：Meher, Arabinda; Mahapatra, Manas Mohan; Samal, Priyaranjan; Vundavilli, Pandu R.。
+
+出处：CIRP Journal of Manufacturing Science and Technology，2022。[DOI官方入口](https://doi.org/10.1016/j.cirpj.2022.07.012)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL040%5D%202022%20-%20A%20review%20on%20manufacturability%20of%20magnesium%20matrix%20composites_%20Processing%2C%20tribology%2C%20joining%2C%20and%20machini.pdf)。SHA256：`c88bff6830931892b6198277f563e224bb1dd5c2b682a02c41e1d928f2cea939`。
+
+## L031 — Designing high elastic modulus magnesium-based composite materials via machine learning approach
+
+作者：Zhu, Zhihong; Ning, Wenhang; Niu, Xuanyang; Wang, Qiaoling; Shi, Renhai; Zhao, Yuhong。
+
+出处：Materials Today Communications，2023。[DOI官方入口](https://doi.org/10.1016/j.mtcomm.2023.107249)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL031%5D%202023%20-%20Designing%20high%20elastic%20modulus%20magnesium-based%20composite%20materials%20via%20machine%20learning%20approach.pdf)。SHA256：`5c4c0bf0966133d718b45987ec6c9a0579c1149e1276888a352c33b8b1e6486b`。
+
+## L044 — Ultrasonic Assisted Fabrication of Magnesium Matrix Composites: A Review
+
+作者：Sardar, Santanu; Karmakar, Santanu Kumar; Das, Debdulal。
+
+出处：Materials Today: Proceedings，2017。[DOI官方入口](https://doi.org/10.1016/j.matpr.2017.02.214)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL044%5D%202017%20-%20Ultrasonic%20Assisted%20Fabrication%20of%20Magnesium%20Matrix%20Composites_%20A%20Review.pdf)。SHA256：`d6a337a4fbfcdae20b0f240ae0dff133bb0f2d616713d5ac38063c8bb74c536f`。
+
+## L049 — Fabrication and performance enhancement of TC4 particle-reinforced AZ91 magnesium matrix composites by cold metal transfer-based wire arc additive manufacturing combined with friction stir processing
+
+作者：Zhao, Huichao; Shen, Junqi; Hu, Shengsun; Chen, Yang; Sui, Yuan; Hu, Naisheng。
+
+出处：Journal of Manufacturing Processes，2026。[DOI官方入口](https://doi.org/10.1016/j.jmapro.2026.02.051)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL049%5D%202026%20-%20Fabrication%20and%20performance%20enhancement%20of%20TC4%20particle-reinforced%20AZ91%20magnesium%20matrix%20composites%20by%20co.pdf)。SHA256：`6468058facdfbe93e1351ce7828f71649128011c22d1743801ceded0d31dca74`。
+
+## L052 — Investigation of the deformation behavior of titanium-particle-reinforced magnesium matrix composites through in situ synchrotron radiation diffraction
+
+作者：Wu, Yi; Zhou, Bijin; Liu, Jiayuan; Zhu, Tianci; Wang, Jinhui; Zhu, Gaoming; Wang, Jie。
+
+出处：Materials Today Communications，2025。[DOI官方入口](https://doi.org/10.1016/j.mtcomm.2025.111811)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL052%5D%202025%20-%20Investigation%20of%20the%20deformation%20behavior%20of%20titanium-particle-reinforced%20magnesium%20matrix%20composites%20thr.pdf)。SHA256：`a55cda14fd6fe5499ae6093bb7aee7354203dfd8a504a9a74d2edf986f10deff`。
+
+## L053 — TiNi Particle‐Reinforced Magnesium Matrix Composites: Production, Microstructure, Phase Transformations, and Mechanical Properties
+
+作者：Kelen, Fevzi; Gavgali, Mehmet; Aydoğmuş, Tarık。
+
+出处：Advanced Engineering Materials，2025。[DOI官方入口](https://doi.org/10.1002/adem.202402277)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL053%5D%202025%20-%20TiNi%20Particle%E2%80%90Reinforced%20Magnesium%20Matrix%20Composites_%20Production%2C%20Microstructure%2C%20Phase%20Transformations%2C%20.pdf)。SHA256：`1bd8ff6cb3b7f1aad1763d452e8790d1836d5230dfa24fea75d81888fbdaa0f7`。
+
+## L054 — Promoted aging precipitation behavior of TC4/GZ151K magnesium matrix composites
+
+作者：Chen, Xu; Li, Jianbo; Wang, Yitao; Luo, Huan; Wang, Haiqing; Cheng, Kaiming; Chen, Xianhua; Zheng, Kaihong; Pan, Fusheng。
+
+出处：Materials Science and Engineering: A，2024。[DOI官方入口](https://doi.org/10.1016/j.msea.2024.146103)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL054%5D%202024%20-%20Promoted%20aging%20precipitation%20behavior%20of%20TC4_GZ151K%20magnesium%20matrix%20composites.pdf)。SHA256：`239ffa5901484c58e62f381b613fcf487ef153d9455dfdacbf41f6247b89739e`。
+
+## L057 — Development of titanium particulate reinforced AZ31 magnesium matrix composites via friction stir processing
+
+作者：Dinaharan, Isaac; Zhang, Shuai; Chen, Gaoqiang; Shi, Qingyu。
+
+出处：Journal of Alloys and Compounds，2020。[DOI官方入口](https://doi.org/10.1016/j.jallcom.2019.153071)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL057%5D%202020%20-%20Development%20of%20titanium%20particulate%20reinforced%20AZ31%20magnesium%20matrix%20composites%20via%20friction%20stir%20process.pdf)。SHA256：`eaea6bba231567ba073ebef9e0873dec156f979c807528a4baa1fe3b4cda1680`。
+
+## L058 — Titanium particulate reinforced AZ31 magnesium matrix composites with improved ductility prepared using friction stir processing
+
+作者：Dinaharan, Isaac; Zhang, Shuai; Chen, Gaoqiang; Shi, Qingyu。
+
+出处：Materials Science and Engineering: A，2020。[DOI官方入口](https://doi.org/10.1016/j.msea.2019.138793)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/03_Ti%E5%8F%8A%E9%87%91%E5%B1%9E%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL058%5D%202020%20-%20Titanium%20particulate%20reinforced%20AZ31%20magnesium%20matrix%20composites%20with%20improved%20ductility%20prepared%20using%20f.pdf)。SHA256：`5cf55794e3fcfc833a37e24c2d8c4277f4c53207744ac1410512ea7a977c1b9c`。
+
+## L008 — Multi-physical topology optimization for thermo-mechanical coupled designs of hydraulic humanoid robot with experimental analysis
+
+作者：Li, Jingyuan; Gao, Jie; Gao, Yiping; Li, Xinyu; Gao, Liang。
+
+出处：Advances in Engineering Software，2026。[DOI官方入口](https://doi.org/10.1016/j.advengsoft.2026.104237)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/01_%E4%BA%BA%E5%BD%A2%E4%B8%8E%E5%8F%8C%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%93%E6%9E%84%E7%A0%94%E7%A9%B6/%5BL008%5D%202026%20-%20Multi-physical%20topology%20optimization%20for%20thermo-mechanical%20coupled%20designs%20of%20hydraulic%20humanoid%20robot%20wi.pdf)。SHA256：`4b17a11c7184fa77cdbce1085d083207a7fddacc5c144a4e593025dff1f5f9a4`。
+
+## L018 — Recent advances in mechanical properties of Mg matrix composites: a review
+
+作者：Aydın, Fatih。
+
+出处：Materials Science and Technology，2024。[DOI官方入口](https://doi.org/10.1177/02670836241229025)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL018%5D%202024%20-%20Recent%20advances%20in%20mechanical%20properties%20of%20Mg%20matrix%20composites_%20a%20review.pdf)。SHA256：`e509c0ad1023c1207f5e4b4f8ab578e6b5d249f38ff7f59c8bdf3936284c20de`。
+
+## L030 — 基于搅拌摩擦加工技术的镁基复合材料研究进展
+
+作者：蹇文轩; 丛孟启; 雷卫宁。
+
+出处：机械工程学报，2024。[DOI官方入口](https://doi.org/10.3901/jme.2024.08.048)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/02_%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%BB%BC%E5%90%88%E7%BB%BC%E8%BF%B0%E4%B8%8E%E8%AE%BE%E8%AE%A1/%5BL030%5D%202024%20-%20%E5%9F%BA%E4%BA%8E%E6%90%85%E6%8B%8C%E6%91%A9%E6%93%A6%E5%8A%A0%E5%B7%A5%E6%8A%80%E6%9C%AF%E7%9A%84%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99%E7%A0%94%E7%A9%B6%E8%BF%9B%E5%B1%95.pdf)。SHA256：`3dcc410eca02209998a96ef73479559f43854527022bee73ef56897f8409678f`。
+
+## L140 — Influence of TiC on Microstructure, Mechanical and Wear Properties of Magnesium alloy (AZ91D) Matrix Composites
+
+作者：Dash, Dharmeswar; Singh, Ram; Samanta, Sutanu; Rai, Ram Naresh。
+
+出处：Journal of Scientific & Industrial Research，2020。[DOI官方入口](https://doi.org/10.56042/jsir.v79i2.68630)。
+
+开放许可：未核实。原始版权声明保持不变。
+
+[原样PDF](../papers/05_%E9%99%B6%E7%93%B7%E5%8F%8A%E5%85%B6%E4%BB%96%E5%A2%9E%E5%BC%BA%E9%95%81%E5%9F%BA%E5%A4%8D%E5%90%88%E6%9D%90%E6%96%99/%5BL140%5D%202020%20-%20Influence%20of%20TiC%20on%20Microstructure%2C%20Mechanical%20and%20Wear%20Properties%20of%20Magnesium%20alloy%20%28AZ91D%29%20Matrix%20Comp.pdf)。SHA256：`e3e9069d17d12a031e2fb974c0f26aabeb283122db703af69d2f3b2c30ec609b`。

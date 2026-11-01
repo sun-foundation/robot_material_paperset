@@ -9,18 +9,28 @@ ROOT=Path(__file__).parents[1]
 
 
 class ExportIntegrityTests(unittest.TestCase):
-    def test_pdf_files_have_attribution_license_and_matching_hash(self):
+    def test_synced_files_preserve_real_license_status_and_matching_hash(self):
         rights=json.loads((ROOT/'licenses'/'publication_rights.json').read_text(encoding='utf-8'))
         records=json.loads((ROOT/'catalog'/'library.json').read_text(encoding='utf-8'))
         allowed={r['id']:r for r in rights if r['allowed']}
+        by_id={r['id']:r for r in rights}
+        receipt=json.loads((ROOT/'catalog'/'imports'/'2026-11-01_V4_all_pdfs.json').read_text(encoding='utf-8'))
+        requested={r['id']:r for r in receipt['newly_synced']}
         linked={r['id']:r for r in records if r['public_pdf']}
-        self.assertEqual(set(allowed),set(linked))
+        self.assertEqual(set(allowed)|set(requested),set(linked))
         actual=set()
         for i,r in linked.items():
             path=ROOT/r['public_pdf']
             self.assertTrue(path.is_file(),i)
-            self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(),allowed[i]['sha256'],i)
-            self.assertTrue(r['license_url'].startswith('https://creativecommons.org/licenses/'),i)
+            self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(),by_id[i]['sha256'],i)
+            if i in allowed:
+                self.assertTrue(r['license_url'].startswith('https://creativecommons.org/licenses/'),i)
+            else:
+                self.assertFalse(by_id[i]['allowed'],i)
+                self.assertIsNone(r['license_url'],i)
+                self.assertEqual(r['public_pdf'],requested[i]['file'],i)
+                self.assertEqual(by_id[i]['sha256'],requested[i]['sha256'],i)
+                self.assertFalse(requested[i]['open_license_verified'],i)
             self.assertTrue(r['authors'],i)
             actual.add(path.resolve())
         self.assertEqual(actual,{p.resolve() for p in (ROOT/'papers').rglob('*.pdf')})

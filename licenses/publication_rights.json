@@ -111,7 +111,9 @@
     "sha256": "4b17a11c7184fa77cdbce1085d083207a7fddacc5c144a4e593025dff1f5f9a4",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/01_人形与双足机器人结构研究/[L008] 2026 - Multi-physical topology optimization for thermo-mechanical coupled designs of hydraulic humanoid robot wi.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L009",
@@ -253,7 +255,9 @@
     "sha256": "e509c0ad1023c1207f5e4b4f8ab578e6b5d249f38ff7f59c8bdf3936284c20de",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+    "reason": "尚未核实允许公开再分发的全文许可",
+    "synced_pdf": "papers/02_镁基复合材料综合综述与设计/[L018] 2024 - Recent advances in mechanical properties of Mg matrix composites_ a review.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L019",
@@ -354,7 +358,9 @@
     "sha256": "87719a8006c52a430465c11364efe28abd1d0e7778b07e62e16b432de4d50600",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/02_镁基复合材料综合综述与设计/[L026] 2024 - Friction stir processed magnesium matrix surface composites_ a comprehensive review.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L027",
@@ -425,7 +431,9 @@
     "sha256": "3dcc410eca02209998a96ef73479559f43854527022bee73ef56897f8409678f",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+    "reason": "尚未核实允许公开再分发的全文许可",
+    "synced_pdf": "papers/02_镁基复合材料综合综述与设计/[L030] 2024 - 基于搅拌摩擦加工技术的镁基复合材料研究进展.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L031",
@@ -442,7 +450,9 @@
     "sha256": "5c4c0bf0966133d718b45987ec6c9a0579c1149e1276888a352c33b8b1e6486b",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/02_镁基复合材料综合综述与设计/[L031] 2023 - Designing high elastic modulus magnesium-based composite materials via machine learning approach.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L032",
@@ -537,7 +547,9 @@
     "sha256": "c88bff6830931892b6198277f563e224bb1dd5c2b682a02c41e1d928f2cea939",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+    "reason": "尚未核实允许公开再分发的全文许可",
+    "synced_pdf": "papers/02_镁基复合材料综合综述与设计/[L040] 2022 - A review on manufacturability of magnesium matrix composites_ Processing, tribology, joining, and machini.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L042",
@@ -584,7 +596,9 @@
     "sha256": "d6a337a4fbfcdae20b0f240ae0dff133bb0f2d616713d5ac38063c8bb74c536f",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/02_镁基复合材料综合综述与设计/[L044] 2017 - Ultrasonic Assisted Fabrication of Magnesium Matrix Composites_ A Review.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L045",
@@ -664,7 +678,9 @@
     "sha256": "6468058facdfbe93e1351ce7828f71649128011c22d1743801ceded0d31dca74",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/03_Ti及金属增强镁基复合材料/[L049] 2026 - Fabrication and performance enhancement of TC4 particle-reinforced AZ91 magnesium matrix composites by co.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L050",
@@ -717,7 +733,9 @@
     "sha256": "a55cda14fd6fe5499ae6093bb7aee7354203dfd8a504a9a74d2edf986f10deff",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/03_Ti及金属增强镁基复合材料/[L052] 2025 - Investigation of the deformation behavior of titanium-particle-reinforced magnesium matrix composites thr.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L053",
@@ -731,7 +749,9 @@
     "sha256": "1bd8ff6cb3b7f1aad1763d452e8790d1836d5230dfa24fea75d81888fbdaa0f7",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+    "reason": "尚未核实允许公开再分发的全文许可",
+    "synced_pdf": "papers/03_Ti及金属增强镁基复合材料/[L053] 2025 - TiNi Particle‐Reinforced Magnesium Matrix Composites_ Production, Microstructure, Phase Transformations, .pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L054",
@@ -751,7 +771,9 @@
     "sha256": "239ffa5901484c58e62f381b613fcf487ef153d9455dfdacbf41f6247b89739e",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+    "reason": "尚未核实允许公开再分发的全文许可",
+    "synced_pdf": "papers/03_Ti及金属增强镁基复合材料/[L054] 2024 - Promoted aging precipitation behavior of TC4_GZ151K magnesium matrix composites.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L055",
@@ -780,7 +802,9 @@
     "sha256": "eaea6bba231567ba073ebef9e0873dec156f979c807528a4baa1fe3b4cda1680",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/03_Ti及金属增强镁基复合材料/[L057] 2020 - Development of titanium particulate reinforced AZ31 magnesium matrix composites via friction stir process.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L058",
@@ -795,7 +819,9 @@
     "sha256": "5cf55794e3fcfc833a37e24c2d8c4277f4c53207744ac1410512ea7a977c1b9c",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权；仅同步题录和下载状态"
+    "reason": "所保存PDF未声明开放再分发许可，并标注保留版权",
+    "synced_pdf": "papers/03_Ti及金属增强镁基复合材料/[L058] 2020 - Titanium particulate reinforced AZ31 magnesium matrix composites with improved ductility prepared using f.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L059",
@@ -1424,7 +1450,9 @@
     "sha256": "e3e9069d17d12a031e2fb974c0f26aabeb283122db703af69d2f3b2c30ec609b",
     "version_note": "原始PDF可读取；题名或DOI核对吻合；2026-11-01归档",
     "allowed": false,
-    "reason": "尚未核实允许公开再分发的全文许可；仅公开题录与来源链接"
+    "reason": "尚未核实允许公开再分发的全文许可",
+    "synced_pdf": "papers/05_陶瓷及其他增强镁基复合材料/[L140] 2020 - Influence of TiC on Microstructure, Mechanical and Wear Properties of Magnesium alloy (AZ91D) Matrix Comp.pdf",
+    "sync_basis": "用户明确要求同步本次归档的全部PDF；不改变原许可核验结论"
   },
   {
     "id": "L144",
